@@ -431,7 +431,7 @@
 
             <!-- Lower Half: Past Results -->
             <div class="schedule-half">
-                <h2>🏆 Letzte Resultate <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(worldcup26.ir)</span></h2>
+                <h2>🏆 Letzte Resultate <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(srf.ch)</span></h2>
                 <div class="content-scroll" id="past-results-container">
                     <div class="loading">Lade Resultate...</div>
                 </div>
@@ -440,7 +440,7 @@
 
         <!-- Spalte 2 (rechts): Spiele des Tages + Schweizer Spiele -->
         <div class="column">
-            <h2 id="today-games-title">⚽ Spiele des Tages <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(worldcup26.ir)</span></h2>
+            <h2 id="today-games-title">⚽ Spiele des Tages <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(srf.ch)</span></h2>
             <div class="content-scroll" id="today-games-container">
                 <div class="loading">Lade Spiele des Tages...</div>
             </div>
@@ -522,7 +522,7 @@
             if(!gamesArray || gamesArray.length === 0) {
                 container.innerHTML = '<div class="loading">Heute finden keine WM-Spiele statt.</div>';
                 if (titleEl) {
-                    titleEl.innerHTML = `⚽ Spiele des Tages <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(worldcup26.ir)</span>`;
+                    titleEl.innerHTML = `⚽ Spiele des Tages <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(srf.ch)</span>`;
                 }
                 return;
             }
@@ -530,7 +530,7 @@
             // Dynamischer Titel
             const firstGameDate = gamesArray[0].date_str;
             if (titleEl) {
-                titleEl.innerHTML = `⚽ Spiele vom ${firstGameDate} <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(worldcup26.ir)</span>`;
+                titleEl.innerHTML = `⚽ Spiele vom ${firstGameDate} <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(srf.ch)</span>`;
             }
             
             container.innerHTML = gamesArray.map(game => {

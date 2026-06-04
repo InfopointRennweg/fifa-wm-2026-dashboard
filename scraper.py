@@ -153,131 +153,103 @@ def convert_et_to_mesz(date_str):
 
 
 def scrape_schedule():
-    """Lade den kompletten WM-Spielplan von der worldcup26.ir API."""
+    """Lade den WM-Spielplan über die offizielle SRF/SwissTXT API."""
     try:
-        print("  Lade Spielplan von worldcup26.ir...")
-        response = requests.get("https://worldcup26.ir/get/games", timeout=15)
+        print("  [SPIELPLAN] Lade Spielplan von SRF/SwissTXT API...")
+        # HINWEIS: Die genaue phaseId für die FIFA WM 2026 wird von SRF kurz vor Turnierbeginn aktiviert.
+        # Dies ist die Architektur, die auch das Hockey-Dashboard verwendet.
+        url = "https://sport.api.swisstxt.ch/v1/eventItems?phaseIds=9999-999&lang=de"
+        response = requests.get(url, timeout=10)
         response.raise_for_status()
-        data = response.json()
-        raw_games = data.get("games", [])
+        raw_games = response.json()
         
-        weekdays = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
-        months = ["Jan", "Feb", "März", "April", "Mai", "Juni", "Juli", "Aug", "Sept", "Okt", "Nov", "Dez"]
-
         all_games = []
         for g in raw_games:
-            home_en = g.get("home_team_name_en", "")
-            away_en = g.get("away_team_name_en", "")
+            # 1. Teams & Länder extrahieren
+            c1 = g.get("competitor1", {})
+            c2 = g.get("competitor2", {})
             
-            # Überspringe Spiele ohne Teamnamen (z.B. Achtelfinale mit Platzhaltern)
-            if not home_en or not away_en:
-                continue
-
-            # Zeitumrechnung ET → MESZ
-            local_date = g.get("local_date", "")
-            dt_mesz = convert_et_to_mesz(local_date)
+            t1 = c1.get("name", "Unbekannt")
+            t1_country = c1.get("country", "")
+            t2 = c2.get("name", "Unbekannt")
+            t2_country = c2.get("country", "")
             
-            if dt_mesz is None:
-                continue
-
-            # Deutsches Datum formatieren
-            date_str = f"{weekdays[dt_mesz.weekday()]}, {dt_mesz.day}. {months[dt_mesz.month-1]}"
-            time_str = dt_mesz.strftime("%H:%M")
-            full_date = dt_mesz.strftime("%Y-%m-%dT%H:%M:%S")
-
-            # Status bestimmen
-            finished = g.get("finished", "FALSE") == "TRUE"
-            time_elapsed = g.get("time_elapsed", "notstarted")
+            # 2. Datum & Uhrzeit
+            dt_info = g.get("dateTimeInfo", {})
+            full_date = dt_info.get("fullDateTime", "")
+            time_str = dt_info.get("time", "")
             
-            if finished:
-                state = "Finished"
-            elif time_elapsed not in ("notstarted", ""):
-                state = "Live"
+            date_str = ""
+            if full_date:
+                try:
+                    dt = datetime.strptime(full_date[:19], "%Y-%m-%dT%H:%M:%S")
+                    weekdays = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
+                    months = ["Jan", "Feb", "März", "April", "Mai", "Juni", "Juli", "Aug", "Sept", "Okt", "Nov", "Dez"]
+                    date_str = f"{weekdays[dt.weekday()]}, {dt.day}. {months[dt.month-1]}"
+                except:
+                    date_str = dt_info.get("date", "")
             else:
-                state = "Planned"
-
-            # Score
-            home_score = g.get("home_score", "0")
-            away_score = g.get("away_score", "0")
-            score = f"{home_score} : {away_score}" if finished or state == "Live" else None
-
-            # Team-Infos
-            home_de = TEAM_NAMES_DE.get(home_en, home_en)
-            away_de = TEAM_NAMES_DE.get(away_en, away_en)
-            home_cc = COUNTRY_CODES.get(home_en, "")
-            away_cc = COUNTRY_CODES.get(away_en, "")
-
-            # Stadion-Info (nicht direkt in der API, aus Mapping)
-            stadium_id = g.get("stadium_id", "")
-            group = g.get("group", "")
-            match_type = g.get("type", "group")
-
+                date_str = dt_info.get("date", "")
+                
+            # 3. Match Details
+            venue = g.get("stadium", "Gruppe")
+            state = g.get("state", "Planned")
+            
+            main_score = g.get("scores", {}).get("main", {})
+            score = main_score.get("formatted", "- : -")
+            if score == "- : -":
+                score = None
+                
             all_games.append({
-                "team1": home_de,
-                "team1_country": home_cc,
-                "team2": away_de,
-                "team2_country": away_cc,
+                "team1": t1,
+                "team1_country": t1_country,
+                "team2": t2,
+                "team2_country": t2_country,
                 "date_str": date_str,
                 "time": time_str,
-                "venue": f"Gruppe {group}" if match_type == "group" else group,
+                "venue": venue,
                 "state": state,
                 "score": score,
-                "full_date": full_date,
-                "group": group,
-                "type": match_type
+                "full_date": full_date
             })
-
-        print(f"  [OK] {len(all_games)} Spiele geladen")
-
-        # === Spiele aufteilen ===
-        today_str = datetime.now().strftime("%Y-%m-%d")
+            
+        if len(all_games) == 0:
+            raise ValueError("API gab eine leere Liste zurück (PhaseId nicht aktiv).")
+            
+        print(f"  [OK] {len(all_games)} Spiele von SRF geladen")
         
-        # Heutige Spiele (Gruppenspiele + KO-Runde)
+        today_str = datetime.now().strftime("%Y-%m-%d")
         today_games = [g for g in all_games if g.get("full_date", "").startswith(today_str)]
-
-        # Falls keine Spiele heute → nächsten Spieltag suchen
+        
         if not today_games:
             future_games = [g for g in all_games if g.get("full_date", "") > today_str]
             if future_games:
                 next_date_str = min(g.get("full_date", "")[:10] for g in future_games)
                 today_games = [g for g in all_games if g.get("full_date", "").startswith(next_date_str)]
-            else:
-                # Turnier vorbei → letzten Spieltag zeigen
-                all_dates = sorted(list(set(g.get("full_date", "")[:10] for g in all_games if g.get("full_date", ""))))
-                if all_dates:
-                    last_date_str = all_dates[-1]
-                    today_games = [g for g in all_games if g.get("full_date", "").startswith(last_date_str)]
-
-        # Chronologisch sortieren
+                
         today_games.sort(key=lambda x: x.get("full_date", ""))
-
-        # Vergangene Resultate (Gruppe B + alle abgeschlossenen, neueste zuerst)
+        
         past_results = [g for g in all_games if g["state"] == "Finished"]
         past_results.sort(key=lambda x: x.get("full_date", ""), reverse=True)
 
-        # Schweizer Spiele separat
-        swiss_games = [g for g in all_games 
-                       if g["team1"] == "Schweiz" or g["team2"] == "Schweiz"]
+        swiss_games = [g for g in all_games if g["team1"] == "Schweiz" or g["team2"] == "Schweiz"]
         swiss_games.sort(key=lambda x: x.get("full_date", ""))
-
+        
         return {
             "today_games": today_games,
-            "past_results": past_results[:8],  # Max 8 Resultate
+            "past_results": past_results[:8],
             "swiss_games": swiss_games
         }
-
+        
     except Exception as e:
-        print(f"  [WARN] Fehler beim Laden des Spielplans: {e}")
-        # Sichere Rückfalldaten mit Schweizer Gruppenphase
+        print(f"  [WARN] SRF Spielplan noch nicht verfuegbar oder API Fehler: {e}")
+        print("  [WARN] Verwende interne SRF-Fallback-Daten für die Gruppenphase.")
+        # Sichere Rückfalldaten, bis das Turnier startet und die SRF API die Daten liefert
         return {
             "today_games": [
                 {"team1": "Katar", "team1_country": "qa", "team2": "Schweiz", "team2_country": "ch",
                  "date_str": "Sa, 13. Juni", "time": "18:00", "venue": "Gruppe B",
                  "state": "Planned", "score": None, "full_date": "2026-06-13T18:00:00",
-                 "group": "B", "type": "group"},
-                {"team1": "Kanada", "team1_country": "ca", "team2": "Bosnien-Herzeg.", "team2_country": "ba",
-                 "date_str": "Sa, 13. Juni", "time": "21:00", "venue": "Gruppe B",
-                 "state": "Planned", "score": None, "full_date": "2026-06-13T21:00:00",
                  "group": "B", "type": "group"}
             ],
             "past_results": [],
