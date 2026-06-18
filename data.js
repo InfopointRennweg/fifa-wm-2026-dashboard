@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-04 11:37:07",
+    "last_updated": "2026-06-18 13:40:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "FIFA WM 2026 - Legendäre Fussball-WM-Momente: Wann war was?",
-            "date": "04.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ab183a.webp"
+            "title": "Vor Duell Schweiz – Bosnien - Yakin: «Werden ihre Fans schon verstummen lassen»",
+            "date": "18.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9b1e05.webp"
         },
         {
-            "title": "Übersicht zu Daten und Fakten - Die wichtigsten Infos zur Weltmeisterschaft 2026",
-            "date": "16.05.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/09a816.webp"
+            "title": "Besondere Werte bei Bosnien - Ein Volksheld und eine Volksseele, die kocht",
+            "date": "18.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1cfd09.webp"
         }
     ],
     "schedule": {
