@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-18 16:01:22",
+    "last_updated": "2026-06-18 19:02:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor Duell Schweiz – Bosnien - Yakin: «Werden ihre Fans schon verstummen lassen»",
+            "title": "WM 2026: Gruppe A - 1:1 gegen Südafrika: Passive Tschechen spät bestraft",
             "date": "18.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9b1e05.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/bf6028.webp"
         },
         {
-            "title": "Besondere Werte bei Bosnien - Ein Volksheld und eine Volksseele, die kocht",
+            "title": "WM-Gastgeber gegen Katar - Kanada: Mit «amerikanischer Arroganz» und Davies zum 1. WM-Sieg?",
             "date": "18.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1cfd09.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/eee6e1.webp"
         }
     ],
     "schedule": {
