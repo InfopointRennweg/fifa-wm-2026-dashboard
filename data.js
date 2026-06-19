@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-18 19:02:10",
+    "last_updated": "2026-06-19 09:06:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Gruppe A - 1:1 gegen Südafrika: Passive Tschechen spät bestraft",
+            "title": "WM-Spiel gegen Bosnien - Und dann erlösen die Superjoker die Nati",
             "date": "18.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bf6028.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/32b807.webp"
         },
         {
-            "title": "WM-Gastgeber gegen Katar - Kanada: Mit «amerikanischer Arroganz» und Davies zum 1. WM-Sieg?",
-            "date": "18.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/eee6e1.webp"
+            "title": "Trinkpause als Taktik - Neue Regel perfekt genutzt: «Taktikfuchs» Yakin schlägt wieder zu",
+            "date": "19.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6e021a.webp"
         }
     ],
     "schedule": {
