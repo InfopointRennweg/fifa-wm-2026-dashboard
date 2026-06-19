@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-19 11:02:31",
+    "last_updated": "2026-06-19 15:49:55",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Spiel gegen Bosnien - Und dann erlösen die Superjoker die Nati",
+            "title": "Rating Schweiz – Bosnien-H. - Manzambi schwingt obenaus – Embolo am anderen Ende der Skala",
             "date": "18.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/32b807.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c68a35.webp"
         },
         {
-            "title": "Trinkpause als Taktik - Neue Regel perfekt genutzt: «Taktikfuchs» Yakin schlägt wieder zu",
+            "title": "WM: Presseschau nach Nati-Sieg - «Sankt Johan» & die Frage: «Wie viel Manzambi traut sich Yakin?»",
             "date": "19.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6e021a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/32ab4f.webp"
         }
     ],
     "schedule": {
