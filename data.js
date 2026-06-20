@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-20 14:42:42",
+    "last_updated": "2026-06-20 17:55:31",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
-        {
-            "title": "«Oranje» muss sich wappnen - Gruppe F: Schwedische Sturmwarnung für die Niederlande",
-            "date": "20.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ef4c8b.webp"
-        },
         {
             "title": "WM-Duell mit Elfenbeinküste - Neuer will's wie in Brasilien machen: «Es geht um Extrameter»",
             "date": "20.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/b2a646.webp"
+        },
+        {
+            "title": "SRF-Programm in der Übersicht - Das läuft am Samstag an der FIFA WM 2026",
+            "date": "20.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ab49000.webp"
         }
     ],
     "schedule": {
