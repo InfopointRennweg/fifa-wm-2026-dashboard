@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-20 09:48:27",
+    "last_updated": "2026-06-20 14:42:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Gruppe D - Die Türkei bringt gegen Paraguay kein Tor hin und scheidet aus",
+            "title": "«Oranje» muss sich wappnen - Gruppe F: Schwedische Sturmwarnung für die Niederlande",
             "date": "20.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c7be54.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ef4c8b.webp"
         },
         {
-            "title": "Nach 2 Spieltagen draussen - «Beschämend»: WM-Rückkehr der Türkei endet im Debakel",
+            "title": "WM-Duell mit Elfenbeinküste - Neuer will's wie in Brasilien machen: «Es geht um Extrameter»",
             "date": "20.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b46a2d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b2a646.webp"
         }
     ],
     "schedule": {
