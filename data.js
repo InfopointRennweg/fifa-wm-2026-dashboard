@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-19 18:18:18",
+    "last_updated": "2026-06-20 07:50:15",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Auftakt-Niederlage - «Geier und Hyänen»: Türkei hofft auf Trotzreaktion nach Kritik",
-            "date": "19.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9008e0b.webp"
+            "title": "WM 2026: Gruppe D - Die Türkei bringt gegen Paraguay kein Tor hin und scheidet aus",
+            "date": "20.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/c7be54.webp"
         },
         {
-            "title": "WM 2026: Gruppe C, 2. Spieltag - Alles spricht für Brasilien: Gegen Haiti müssen 3 Punkte her",
-            "date": "19.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/201e19.webp"
+            "title": "WM 2026: Gruppe C - Brasilien schlägt Haiti dank starker 1. Halbzeit",
+            "date": "20.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e986d8.webp"
         }
     ],
     "schedule": {
