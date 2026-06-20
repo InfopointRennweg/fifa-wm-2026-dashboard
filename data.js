@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-06-20 07:50:15",
+    "last_updated": "2026-06-20 09:48:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/c7be54.webp"
         },
         {
-            "title": "WM 2026: Gruppe C - Brasilien schlägt Haiti dank starker 1. Halbzeit",
+            "title": "Nach 2 Spieltagen draussen - «Beschämend»: WM-Rückkehr der Türkei endet im Debakel",
             "date": "20.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e986d8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b46a2d.webp"
         }
     ],
     "schedule": {
