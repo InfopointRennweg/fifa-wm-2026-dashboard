@@ -3,16 +3,21 @@ name: Update FIFA WM Data
 on:
   schedule:
     # Zeiten in UTC! (Schweiz ist UTC+2 im Sommer / MESZ)
+    # 04:00 UTC = 06:00 MESZ
+    # 06:30 UTC = 08:30 MESZ
+    # 12:30 UTC = 14:30 MESZ
+    # 16:30 UTC = 18:30 MESZ
     - cron: '0 4 * * *'
     - cron: '30 6 * * *'
     - cron: '30 12 * * *'
     - cron: '30 16 * * *'
-  workflow_dispatch: 
+  workflow_dispatch: # Erlaubt manuelles Starten über die GitHub Website
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     
+    # Notwendig, damit der Bot ins Repo pushen darf
     permissions:
       contents: write
 
@@ -29,6 +34,8 @@ jobs:
       run: pip install requests beautifulsoup4
 
     - name: Scraper ausführen
+      env:
+        FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
       run: python scraper.py
 
     - name: Neue Daten committen und pushen
