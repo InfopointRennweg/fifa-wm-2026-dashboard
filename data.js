@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-06-21 08:30:27",
+    "last_updated": "2026-06-21 10:09:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/bffd32.webp"
         },
         {
-            "title": "WM 2026: Gruppe F - Dominante Japaner überrollen Tunesien",
+            "title": "Deutschlands Matchwinner - WM-Topskorer als Joker: Undav befeuert Debatte um seine Rolle",
             "date": "21.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f7e2f2.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8d072f.webp"
         }
     ],
     "schedule": {
