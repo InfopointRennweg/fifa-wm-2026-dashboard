@@ -152,121 +152,150 @@ def convert_et_to_mesz(date_str):
         return None
 
 
+import os
+
 def scrape_schedule():
-    """Lade den WM-Spielplan über die offizielle SRF/SwissTXT API."""
+    """Lade den WM-Spielplan ueber die football-data.org API."""
     try:
-        print("  [SPIELPLAN] Lade Spielplan von SRF/SwissTXT API...")
-        # HINWEIS: Die genaue phaseId für die FIFA WM 2026 wird von SRF kurz vor Turnierbeginn aktiviert.
-        # Dies ist die Architektur, die auch das Hockey-Dashboard verwendet.
-        url = "https://sport.api.swisstxt.ch/v1/eventItems?phaseIds=9999-999&lang=de"
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()
-        raw_games = response.json()
+        print("  [SPIELPLAN] Lade Spielplan von football-data.org API...")
         
+        api_key = os.environ.get("FOOTBALL_API_KEY")
+        if not api_key:
+            raise ValueError("Kein FOOTBALL_API_KEY in den Umgebungsvariablen gefunden.")
+            
+        url = "https://api.football-data.org/v4/competitions/WC/matches"
+        headers = {"X-Auth-Token": api_key}
+        
+        response = requests.get(url, headers=headers, timeout=15)
+        response.raise_for_status()
+        data = response.json()
+        raw_games = data.get("matches", [])
+        
+        weekdays = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
+        months = ["Jan", "Feb", "März", "April", "Mai", "Juni", "Juli", "Aug", "Sept", "Okt", "Nov", "Dez"]
+
         all_games = []
         for g in raw_games:
-            # 1. Teams & Länder extrahieren
-            c1 = g.get("competitor1", {})
-            c2 = g.get("competitor2", {})
+            home = g.get("homeTeam", {}).get("name", "Unbekannt")
+            away = g.get("awayTeam", {}).get("name", "Unbekannt")
             
-            t1 = c1.get("name", "Unbekannt")
-            t1_country = c1.get("country", "")
-            t2 = c2.get("name", "Unbekannt")
-            t2_country = c2.get("country", "")
+            utc_date = g.get("utcDate", "")
+            if not utc_date:
+                continue
+                
+            dt_utc = datetime.strptime(utc_date, "%Y-%m-%dT%H:%M:%SZ")
+            # WM 2026 findet im Sommer statt, Schweiz hat Sommerzeit (UTC+2)
+            dt_mesz = dt_utc + timedelta(hours=2)
             
-            # 2. Datum & Uhrzeit
-            dt_info = g.get("dateTimeInfo", {})
-            full_date = dt_info.get("fullDateTime", "")
-            time_str = dt_info.get("time", "")
-            
-            date_str = ""
-            if full_date:
-                try:
-                    dt = datetime.strptime(full_date[:19], "%Y-%m-%dT%H:%M:%S")
-                    weekdays = ["Mo", "Di", "Mi", "Do", "Fr", "Sa", "So"]
-                    months = ["Jan", "Feb", "März", "April", "Mai", "Juni", "Juli", "Aug", "Sept", "Okt", "Nov", "Dez"]
-                    date_str = f"{weekdays[dt.weekday()]}, {dt.day}. {months[dt.month-1]}"
-                except:
-                    date_str = dt_info.get("date", "")
+            date_str = f"{weekdays[dt_mesz.weekday()]}, {dt_mesz.day}. {months[dt_mesz.month-1]}"
+            time_str = dt_mesz.strftime("%H:%M")
+            full_date = dt_mesz.strftime("%Y-%m-%dT%H:%M:%S")
+
+            status = g.get("status", "SCHEDULED")
+            if status in ["FINISHED", "AWARDED"]:
+                state = "Finished"
+            elif status in ["IN_PLAY", "PAUSED"]:
+                state = "Live"
             else:
-                date_str = dt_info.get("date", "")
-                
-            # 3. Match Details
-            venue = g.get("stadium", "Gruppe")
-            state = g.get("state", "Planned")
+                state = "Planned"
+
+            score_data = g.get("score", {}).get("fullTime", {})
+            h_score = score_data.get("home")
+            a_score = score_data.get("away")
+            score = f"{h_score} : {a_score}" if h_score is not None and a_score is not None else None
+
+            # Gruppennamen oder K.o.-Phase anpassen
+            stage = g.get("stage", "Unbekannt")
+            group_name = g.get("group")
+            if group_name:
+                venue = group_name.replace("_", " ").title() # "GROUP_A" -> "Group A"
+            else:
+                venue = stage.replace("_", " ").title()
+
+            home_de = TEAM_NAMES_DE.get(home, home)
+            away_de = TEAM_NAMES_DE.get(away, away)
             
-            main_score = g.get("scores", {}).get("main", {})
-            score = main_score.get("formatted", "- : -")
-            if score == "- : -":
-                score = None
-                
+            # Laendercodes (optional, falls vorhanden)
+            home_cc = COUNTRY_CODES.get(home, "")
+            away_cc = COUNTRY_CODES.get(away, "")
+
             all_games.append({
-                "team1": t1,
-                "team1_country": t1_country,
-                "team2": t2,
-                "team2_country": t2_country,
+                "team1": home_de,
+                "team1_country": home_cc,
+                "team2": away_de,
+                "team2_country": away_cc,
                 "date_str": date_str,
                 "time": time_str,
                 "venue": venue,
                 "state": state,
                 "score": score,
-                "full_date": full_date
+                "full_date": full_date,
+                "group": group_name,
+                "type": "group" if group_name else "knockout"
             })
-            
-        if len(all_games) == 0:
-            raise ValueError("API gab eine leere Liste zurück (PhaseId nicht aktiv).")
-            
-        print(f"  [OK] {len(all_games)} Spiele von SRF geladen")
-        
+
+        print(f"  [OK] {len(all_games)} Spiele von football-data geladen")
+
         today_str = datetime.now().strftime("%Y-%m-%d")
         today_games = [g for g in all_games if g.get("full_date", "").startswith(today_str)]
-        
+
         if not today_games:
             future_games = [g for g in all_games if g.get("full_date", "") > today_str]
             if future_games:
                 next_date_str = min(g.get("full_date", "")[:10] for g in future_games)
                 today_games = [g for g in all_games if g.get("full_date", "").startswith(next_date_str)]
-                
+            else:
+                all_dates = sorted(list(set(g.get("full_date", "")[:10] for g in all_games if g.get("full_date", ""))))
+                if all_dates:
+                    last_date_str = all_dates[-1]
+                    today_games = [g for g in all_games if g.get("full_date", "").startswith(last_date_str)]
+
         today_games.sort(key=lambda x: x.get("full_date", ""))
-        
+
         past_results = [g for g in all_games if g["state"] == "Finished"]
         past_results.sort(key=lambda x: x.get("full_date", ""), reverse=True)
 
-        swiss_games = [g for g in all_games if g["team1"] == "Schweiz" or g["team2"] == "Schweiz"]
+        swiss_games = [g for g in all_games if "Schweiz" in [g["team1"], g["team2"]]]
         swiss_games.sort(key=lambda x: x.get("full_date", ""))
-        
+
         return {
             "today_games": today_games,
             "past_results": past_results[:8],
             "swiss_games": swiss_games
         }
-        
+
     except Exception as e:
-        print(f"  [WARN] SRF Spielplan noch nicht verfuegbar oder API Fehler: {e}")
-        print("  [WARN] Verwende interne SRF-Fallback-Daten für die Gruppenphase.")
-        # Sichere Rückfalldaten, bis das Turnier startet und die SRF API die Daten liefert
+        print(f"  [WARN] Fehler beim Laden des Spielplans (API offline?): {e}")
+        print("  [WARN] Verwende interne Fallback-Daten für Schweizer Spiele.")
+        
+        fallback_games = [
+            {"team1": "Katar", "team1_country": "qa", "team2": "Schweiz", "team2_country": "ch",
+             "date_str": "Sa, 13. Juni", "time": "18:00", "venue": "Gruppe B",
+             "state": "Planned", "score": None, "full_date": "2026-06-13T18:00:00",
+             "group": "B", "type": "group"},
+            {"team1": "Schweiz", "team1_country": "ch", "team2": "Bosnien-Herzeg.", "team2_country": "ba",
+             "date_str": "Do, 18. Juni", "time": "18:00", "venue": "Gruppe B",
+             "state": "Planned", "score": None, "full_date": "2026-06-18T18:00:00",
+             "group": "B", "type": "group"},
+            {"team1": "Schweiz", "team1_country": "ch", "team2": "Kanada", "team2_country": "ca",
+             "date_str": "Mi, 24. Juni", "time": "18:00", "venue": "Gruppe B",
+             "state": "Planned", "score": None, "full_date": "2026-06-24T18:00:00",
+             "group": "B", "type": "group"}
+        ]
+        
+        today_str = datetime.now().strftime("%Y-%m-%d")
+        today_games = [g for g in fallback_games if g.get("full_date", "").startswith(today_str)]
+        
+        if not today_games:
+            future_games = [g for g in fallback_games if g.get("full_date", "") > today_str]
+            if future_games:
+                next_date_str = min(g.get("full_date", "")[:10] for g in future_games)
+                today_games = [g for g in fallback_games if g.get("full_date", "").startswith(next_date_str)]
+                
         return {
-            "today_games": [
-                {"team1": "Katar", "team1_country": "qa", "team2": "Schweiz", "team2_country": "ch",
-                 "date_str": "Sa, 13. Juni", "time": "18:00", "venue": "Gruppe B",
-                 "state": "Planned", "score": None, "full_date": "2026-06-13T18:00:00",
-                 "group": "B", "type": "group"}
-            ],
+            "today_games": today_games,
             "past_results": [],
-            "swiss_games": [
-                {"team1": "Katar", "team1_country": "qa", "team2": "Schweiz", "team2_country": "ch",
-                 "date_str": "Sa, 13. Juni", "time": "18:00", "venue": "Gruppe B",
-                 "state": "Planned", "score": None, "full_date": "2026-06-13T18:00:00",
-                 "group": "B", "type": "group"},
-                {"team1": "Schweiz", "team1_country": "ch", "team2": "Bosnien-Herzeg.", "team2_country": "ba",
-                 "date_str": "Do, 18. Juni", "time": "18:00", "venue": "Gruppe B",
-                 "state": "Planned", "score": None, "full_date": "2026-06-18T18:00:00",
-                 "group": "B", "type": "group"},
-                {"team1": "Schweiz", "team1_country": "ch", "team2": "Kanada", "team2_country": "ca",
-                 "date_str": "Mi, 24. Juni", "time": "18:00", "venue": "Gruppe B",
-                 "state": "Planned", "score": None, "full_date": "2026-06-24T18:00:00",
-                 "group": "B", "type": "group"}
-            ]
+            "swiss_games": fallback_games
         }
 
 

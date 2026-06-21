@@ -34,6 +34,8 @@ jobs:
       run: pip install requests beautifulsoup4
 
     - name: Scraper ausführen
+      env:
+        FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
       run: python scraper.py
 
     - name: Neue Daten committen und pushen
