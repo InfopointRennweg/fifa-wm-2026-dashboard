@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-20 17:55:31",
+    "last_updated": "2026-06-21 08:30:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Duell mit Elfenbeinküste - Neuer will's wie in Brasilien machen: «Es geht um Extrameter»",
-            "date": "20.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b2a646.webp"
+            "title": "Fussball-WM: Gruppe E - Edeljoker Undav schiesst Deutschland in die nächste Runde",
+            "date": "21.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bffd32.webp"
         },
         {
-            "title": "SRF-Programm in der Übersicht - Das läuft am Samstag an der FIFA WM 2026",
-            "date": "20.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ab49000.webp"
+            "title": "WM 2026: Gruppe F - Dominante Japaner überrollen Tunesien",
+            "date": "21.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f7e2f2.webp"
         }
     ],
     "schedule": {
