@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-21 10:09:21",
+    "last_updated": "2026-06-21 14:56:41",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball-WM: Gruppe E - Edeljoker Undav schiesst Deutschland in die nächste Runde",
+            "title": "Vor WM-Duell mit Saudi-Arabien - Spanien und die Frage: Sehen wir die EM- oder die WM-«Roja»?",
             "date": "21.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bffd32.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a13f6e6.webp"
         },
         {
-            "title": "Deutschlands Matchwinner - WM-Topskorer als Joker: Undav befeuert Debatte um seine Rolle",
+            "title": "SRF-Programm in der Übersicht - Das läuft am Sonntag an der FIFA WM 2026",
             "date": "21.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8d072f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f4e5ff.webp"
         }
     ],
     "schedule": {
