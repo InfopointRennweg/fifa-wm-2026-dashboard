@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-22 09:47:56",
+    "last_updated": "2026-06-22 12:31:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Fixe Trinkpausen an der WM - Hydration Breaks: Eine Charakterverfälschung des Fussballs?",
+            "date": "22.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6fbfcd.webp"
+        },
         {
             "title": "Rote Karten an der WM - Schon 8 Platzverweise – und alle flogen direkt",
             "date": "22.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/958752.webp"
-        },
-        {
-            "title": "WM 2026: Gruppe H - 2:2 – Kap Verde trotzt auch Uruguay ein Remis ab",
-            "date": "22.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cdaef0.webp"
         }
     ],
     "schedule": {
