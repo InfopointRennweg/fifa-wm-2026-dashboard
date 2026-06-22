@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-22 12:31:12",
+    "last_updated": "2026-06-22 17:16:18",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "SRF-Programm in der Übersicht - Mit 2022-Finalisten: Das läuft am Montag an der FIFA WM 2026",
+            "date": "22.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/66ad528.webp"
+        },
         {
             "title": "Fixe Trinkpausen an der WM - Hydration Breaks: Eine Charakterverfälschung des Fussballs?",
             "date": "22.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/6fbfcd.webp"
-        },
-        {
-            "title": "Rote Karten an der WM - Schon 8 Platzverweise – und alle flogen direkt",
-            "date": "22.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/958752.webp"
         }
     ],
     "schedule": {
@@ -51,8 +51,8 @@ const dashboardData = {
                 "date_str": "Mo, 22. Juni",
                 "time": "19:00",
                 "venue": "Group J",
-                "state": "Planned",
-                "score": null,
+                "state": "Live",
+                "score": "0 : 0",
                 "full_date": "2026-06-22T19:00:00",
                 "group": "GROUP_J",
                 "type": "group"
