@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-06-22 17:16:18",
+    "last_updated": "2026-06-22 19:54:20",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/66ad528.webp"
         },
         {
-            "title": "Fixe Trinkpausen an der WM - Hydration Breaks: Eine Charakterverfälschung des Fussballs?",
+            "title": "WM 2026: Gruppe J - «Man of the Match»: Messi beschert Argentinien den nächsten Sieg",
             "date": "22.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6fbfcd.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/46cb15.webp"
         }
     ],
     "schedule": {
@@ -51,8 +51,8 @@ const dashboardData = {
                 "date_str": "Mo, 22. Juni",
                 "time": "19:00",
                 "venue": "Group J",
-                "state": "Live",
-                "score": "0 : 0",
+                "state": "Finished",
+                "score": "2 : 0",
                 "full_date": "2026-06-22T19:00:00",
                 "group": "GROUP_J",
                 "type": "group"
@@ -73,6 +73,20 @@ const dashboardData = {
             }
         ],
         "past_results": [
+            {
+                "team1": "Argentinien",
+                "team1_country": "ar",
+                "team2": "Österreich",
+                "team2_country": "at",
+                "date_str": "Mo, 22. Juni",
+                "time": "19:00",
+                "venue": "Group J",
+                "state": "Finished",
+                "score": "2 : 0",
+                "full_date": "2026-06-22T19:00:00",
+                "group": "GROUP_J",
+                "type": "group"
+            },
             {
                 "team1": "Neuseeland",
                 "team1_country": "nz",
@@ -169,20 +183,6 @@ const dashboardData = {
                 "score": "2 : 1",
                 "full_date": "2026-06-20T22:00:00",
                 "group": "GROUP_E",
-                "type": "group"
-            },
-            {
-                "team1": "Niederlande",
-                "team1_country": "nl",
-                "team2": "Schweden",
-                "team2_country": "se",
-                "date_str": "Sa, 20. Juni",
-                "time": "19:00",
-                "venue": "Group F",
-                "state": "Finished",
-                "score": "5 : 1",
-                "full_date": "2026-06-20T19:00:00",
-                "group": "GROUP_F",
                 "type": "group"
             }
         ],
