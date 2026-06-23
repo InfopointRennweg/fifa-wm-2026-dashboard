@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-23 15:36:07",
+    "last_updated": "2026-06-23 18:22:03",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "«Three Lions» in Torlaune - Schlägt Englands Offensiv-Wucht auch gegen Ghana zu?",
+            "date": "23.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/06bdd4.webp"
+        },
         {
             "title": "SRF-Programm in der Übersicht - Mit England und Portugal: Das läuft am Dienstag an der WM 2026",
             "date": "23.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/d71378.webp"
-        },
-        {
-            "title": "Viel Wirbel bei den Iberern - Ronaldos Rolle spaltet Portugal",
-            "date": "23.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d0a4eb.webp"
         }
     ],
     "schedule": {
@@ -51,8 +51,8 @@ const dashboardData = {
                 "date_str": "Di, 23. Juni",
                 "time": "19:00",
                 "venue": "Group K",
-                "state": "Planned",
-                "score": null,
+                "state": "Live",
+                "score": "3 : 0",
                 "full_date": "2026-06-23T19:00:00",
                 "group": "GROUP_K",
                 "type": "group"
