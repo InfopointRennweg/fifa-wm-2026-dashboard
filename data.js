@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-23 07:48:16",
+    "last_updated": "2026-06-23 10:09:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Szenarien vor 3. Gruppenspiel - Schwebt der Geist der «Schande von Gijon» über der WM?",
+            "date": "23.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/01c6f7.webp"
+        },
         {
             "title": "Stimmen zur Regenschlacht - Längste Trinkpause der Welt: «Eine einzigartige Erfahrung»",
             "date": "23.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/b6c888d.webp"
-        },
-        {
-            "title": "WM 2026: Gruppe I - Gewitter inklusive: Frankreich erledigt Pflicht gegen den Irak",
-            "date": "23.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c50332.webp"
         }
     ],
     "schedule": {
