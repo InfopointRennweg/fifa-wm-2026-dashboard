@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-23 10:09:24",
+    "last_updated": "2026-06-23 15:36:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Szenarien vor 3. Gruppenspiel - Schwebt der Geist der «Schande von Gijon» über der WM?",
+            "title": "SRF-Programm in der Übersicht - Mit England und Portugal: Das läuft am Dienstag an der WM 2026",
             "date": "23.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/01c6f7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d71378.webp"
         },
         {
-            "title": "Stimmen zur Regenschlacht - Längste Trinkpause der Welt: «Eine einzigartige Erfahrung»",
+            "title": "Viel Wirbel bei den Iberern - Ronaldos Rolle spaltet Portugal",
             "date": "23.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b6c888d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d0a4eb.webp"
         }
     ],
     "schedule": {
