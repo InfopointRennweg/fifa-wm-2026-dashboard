@@ -1,60 +1,104 @@
 const dashboardData = {
-    "last_updated": "2026-06-22 19:54:20",
+    "last_updated": "2026-06-23 07:48:16",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SRF-Programm in der Übersicht - Mit 2022-Finalisten: Das läuft am Montag an der FIFA WM 2026",
-            "date": "22.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/66ad528.webp"
+            "title": "Stimmen zur Regenschlacht - Längste Trinkpause der Welt: «Eine einzigartige Erfahrung»",
+            "date": "23.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b6c888d.webp"
         },
         {
-            "title": "WM 2026: Gruppe J - «Man of the Match»: Messi beschert Argentinien den nächsten Sieg",
-            "date": "22.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/46cb15.webp"
+            "title": "WM 2026: Gruppe I - Gewitter inklusive: Frankreich erledigt Pflicht gegen den Irak",
+            "date": "23.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/c50332.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Uruguay",
-                "team1_country": "uy",
-                "team2": "Cape Verde Islands",
-                "team2_country": "",
-                "date_str": "Mo, 22. Juni",
-                "time": "00:00",
-                "venue": "Group H",
+                "team1": "Norwegen",
+                "team1_country": "no",
+                "team2": "Senegal",
+                "team2_country": "sn",
+                "date_str": "Di, 23. Juni",
+                "time": "02:00",
+                "venue": "Group I",
                 "state": "Finished",
-                "score": "2 : 2",
-                "full_date": "2026-06-22T00:00:00",
-                "group": "GROUP_H",
+                "score": "3 : 2",
+                "full_date": "2026-06-23T02:00:00",
+                "group": "GROUP_I",
                 "type": "group"
             },
             {
-                "team1": "Neuseeland",
-                "team1_country": "nz",
-                "team2": "Ägypten",
-                "team2_country": "eg",
-                "date_str": "Mo, 22. Juni",
-                "time": "03:00",
-                "venue": "Group G",
-                "state": "Finished",
-                "score": "1 : 3",
-                "full_date": "2026-06-22T03:00:00",
-                "group": "GROUP_G",
-                "type": "group"
-            },
-            {
-                "team1": "Argentinien",
-                "team1_country": "ar",
-                "team2": "Österreich",
-                "team2_country": "at",
-                "date_str": "Mo, 22. Juni",
-                "time": "19:00",
+                "team1": "Jordanien",
+                "team1_country": "jo",
+                "team2": "Algerien",
+                "team2_country": "dz",
+                "date_str": "Di, 23. Juni",
+                "time": "05:00",
                 "venue": "Group J",
                 "state": "Finished",
-                "score": "2 : 0",
-                "full_date": "2026-06-22T19:00:00",
+                "score": "1 : 2",
+                "full_date": "2026-06-23T05:00:00",
                 "group": "GROUP_J",
+                "type": "group"
+            },
+            {
+                "team1": "Portugal",
+                "team1_country": "pt",
+                "team2": "Usbekistan",
+                "team2_country": "uz",
+                "date_str": "Di, 23. Juni",
+                "time": "19:00",
+                "venue": "Group K",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-06-23T19:00:00",
+                "group": "GROUP_K",
+                "type": "group"
+            },
+            {
+                "team1": "England",
+                "team1_country": "gb-eng",
+                "team2": "Ghana",
+                "team2_country": "gh",
+                "date_str": "Di, 23. Juni",
+                "time": "22:00",
+                "venue": "Group L",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-06-23T22:00:00",
+                "group": "GROUP_L",
+                "type": "group"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "Jordanien",
+                "team1_country": "jo",
+                "team2": "Algerien",
+                "team2_country": "dz",
+                "date_str": "Di, 23. Juni",
+                "time": "05:00",
+                "venue": "Group J",
+                "state": "Finished",
+                "score": "1 : 2",
+                "full_date": "2026-06-23T05:00:00",
+                "group": "GROUP_J",
+                "type": "group"
+            },
+            {
+                "team1": "Norwegen",
+                "team1_country": "no",
+                "team2": "Senegal",
+                "team2_country": "sn",
+                "date_str": "Di, 23. Juni",
+                "time": "02:00",
+                "venue": "Group I",
+                "state": "Finished",
+                "score": "3 : 2",
+                "full_date": "2026-06-23T02:00:00",
+                "group": "GROUP_I",
                 "type": "group"
             },
             {
@@ -65,14 +109,12 @@ const dashboardData = {
                 "date_str": "Mo, 22. Juni",
                 "time": "23:00",
                 "venue": "Group I",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "3 : 0",
                 "full_date": "2026-06-22T23:00:00",
                 "group": "GROUP_I",
                 "type": "group"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Argentinien",
                 "team1_country": "ar",
@@ -141,48 +183,6 @@ const dashboardData = {
                 "score": "4 : 0",
                 "full_date": "2026-06-21T18:00:00",
                 "group": "GROUP_H",
-                "type": "group"
-            },
-            {
-                "team1": "Tunesien",
-                "team1_country": "tn",
-                "team2": "Japan",
-                "team2_country": "jp",
-                "date_str": "So, 21. Juni",
-                "time": "06:00",
-                "venue": "Group F",
-                "state": "Finished",
-                "score": "0 : 4",
-                "full_date": "2026-06-21T06:00:00",
-                "group": "GROUP_F",
-                "type": "group"
-            },
-            {
-                "team1": "Ecuador",
-                "team1_country": "ec",
-                "team2": "Curaçao",
-                "team2_country": "cw",
-                "date_str": "So, 21. Juni",
-                "time": "02:00",
-                "venue": "Group E",
-                "state": "Finished",
-                "score": "0 : 0",
-                "full_date": "2026-06-21T02:00:00",
-                "group": "GROUP_E",
-                "type": "group"
-            },
-            {
-                "team1": "Deutschland",
-                "team1_country": "de",
-                "team2": "Elfenbeinküste",
-                "team2_country": "ci",
-                "date_str": "Sa, 20. Juni",
-                "time": "22:00",
-                "venue": "Group E",
-                "state": "Finished",
-                "score": "2 : 1",
-                "full_date": "2026-06-20T22:00:00",
-                "group": "GROUP_E",
                 "type": "group"
             }
         ],
