@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-24 07:39:43",
+    "last_updated": "2026-06-24 09:55:56",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Gruppe K - Kolumbien knackt die kongolesische Abwehr spät",
+            "title": "Beim WM-Debüt gegen England - Buhrufe und ein verweigerter Handschlag: Wirbel um Ghanas Partey",
             "date": "24.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/21c95c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/927cf2.webp"
         },
         {
-            "title": "Lebende Statue bei der WM - DR-Kongo-Fan «Lumumba Vea» zieht die Blicke auf sich",
+            "title": "WM 2026: Gruppe L - Englands «Powerplay» wirkungslos: Enttäuschendes 0:0 gegen Ghana",
             "date": "24.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/32d72b.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e1ae47.webp"
         }
     ],
     "schedule": {
