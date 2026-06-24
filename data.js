@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-24 15:19:43",
+    "last_updated": "2026-06-24 18:18:17",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "«Soccer»-Aufbruchstimmung - «Für Kanada geht es um so viel mehr als um das Ergebnis»",
+            "date": "23.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2137bc0.webp"
+        },
         {
             "title": "BC Place Vancouver - Wo die Frauen-Nati 2015 ausschied, wollen die Männer durchstarten",
             "date": "24.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/55df5fe.webp"
-        },
-        {
-            "title": "Medienkonferenz vor SUI-CAN - Yakin: «Fussball ist kein Wunschkonzert»",
-            "date": "24.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1564e4.webp"
         }
     ],
     "schedule": {
