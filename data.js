@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-25 09:50:34",
+    "last_updated": "2026-06-25 15:25:22",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Gruppe B - Nati ringt Kanada nieder und sichert sich den Gruppensieg",
-            "date": "24.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/72387b.webp"
+            "title": "SRF-Programm in der Übersicht - DFB-Elf und USA im Rausch: Das läuft am Donnerstag an der WM 2026",
+            "date": "25.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ae579d3.webp"
         },
         {
-            "title": "Breite im Nati-Kader - Yakins neuer Luxus: Jeder kann sich ins Team spielen",
+            "title": "WM 2026: Gruppe E - Bei Deutschland bleibt das grosse Rotieren trotz «Freispiel» aus",
             "date": "25.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0a19bb.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8ee14b.webp"
         }
     ],
     "schedule": {
