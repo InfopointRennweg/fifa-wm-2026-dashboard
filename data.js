@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-26 15:12:38",
+    "last_updated": "2026-06-26 18:10:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SRF-Programm in der Übersicht - Duell der Superstürmer? Das läuft am Freitag an der WM",
+            "title": "SRF-Programm in der Übersicht - Das läuft am Freitag an der WM",
             "date": "26.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/15ee8f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/537e11.webp"
         },
         {
-            "title": "Gipfeltreffen in Gruppe I - Mbappé brennt auf weitere Tore – Schonung für Haaland?",
+            "title": "WM: Gruppe H - Valverde mit Uruguay gegen Spanien unter Zugzwang",
             "date": "26.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/212059.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/85b43d.webp"
         }
     ],
     "schedule": {
