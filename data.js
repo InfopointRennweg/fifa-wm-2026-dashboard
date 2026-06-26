@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-26 07:51:44",
+    "last_updated": "2026-06-26 09:57:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Gruppe D - Australien verteidigt Rang 2 – Türkei gewinnt Kehrauspartie",
+            "title": "Coach nach der Gruppenphase - Yakin: «Ich könnte es mir ja einfach machen»",
             "date": "26.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e83dd22.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/334029.webp"
         },
         {
-            "title": "WM 2026: Gruppe F - Japan und Schweden nach Remis weiter  – «Oranje» holt Gruppensieg",
+            "title": "SRF-Quartett diskutiert - 3 Fragen und eine tickende Zeitbombe",
             "date": "26.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c78b9e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f8006c.webp"
         }
     ],
     "schedule": {
