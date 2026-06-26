@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-26 09:57:23",
+    "last_updated": "2026-06-26 15:12:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Coach nach der Gruppenphase - Yakin: «Ich könnte es mir ja einfach machen»",
+            "title": "SRF-Programm in der Übersicht - Duell der Superstürmer? Das läuft am Freitag an der WM",
             "date": "26.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/334029.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/15ee8f.webp"
         },
         {
-            "title": "SRF-Quartett diskutiert - 3 Fragen und eine tickende Zeitbombe",
+            "title": "Gipfeltreffen in Gruppe I - Mbappé brennt auf weitere Tore – Schonung für Haaland?",
             "date": "26.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f8006c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/212059.webp"
         }
     ],
     "schedule": {
