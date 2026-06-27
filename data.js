@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-06-27 09:10:35",
+    "last_updated": "2026-06-27 14:14:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -66,7 +66,7 @@ const dashboardData = {
                 "time": "05:00",
                 "venue": "Group G",
                 "state": "Finished",
-                "score": "1 : 2",
+                "score": "1 : 1",
                 "full_date": "2026-06-27T05:00:00",
                 "group": "GROUP_G",
                 "type": "group"
@@ -124,7 +124,7 @@ const dashboardData = {
                 "time": "05:00",
                 "venue": "Group G",
                 "state": "Finished",
-                "score": "1 : 2",
+                "score": "1 : 1",
                 "full_date": "2026-06-27T05:00:00",
                 "group": "GROUP_G",
                 "type": "group"
@@ -158,6 +158,34 @@ const dashboardData = {
                 "type": "group"
             },
             {
+                "team1": "Norwegen",
+                "team1_country": "no",
+                "team2": "Frankreich",
+                "team2_country": "fr",
+                "date_str": "Fr, 26. Juni",
+                "time": "21:00",
+                "venue": "Group I",
+                "state": "Finished",
+                "score": "1 : 4",
+                "full_date": "2026-06-26T21:00:00",
+                "group": "GROUP_I",
+                "type": "group"
+            },
+            {
+                "team1": "Senegal",
+                "team1_country": "sn",
+                "team2": "Irak",
+                "team2_country": "iq",
+                "date_str": "Fr, 26. Juni",
+                "time": "21:00",
+                "venue": "Group I",
+                "state": "Finished",
+                "score": "5 : 0",
+                "full_date": "2026-06-26T21:00:00",
+                "group": "GROUP_I",
+                "type": "group"
+            },
+            {
                 "team1": "Türkei",
                 "team1_country": "tr",
                 "team2": "USA",
@@ -183,34 +211,6 @@ const dashboardData = {
                 "score": "0 : 0",
                 "full_date": "2026-06-26T04:00:00",
                 "group": "GROUP_D",
-                "type": "group"
-            },
-            {
-                "team1": "Tunesien",
-                "team1_country": "tn",
-                "team2": "Niederlande",
-                "team2_country": "nl",
-                "date_str": "Fr, 26. Juni",
-                "time": "01:00",
-                "venue": "Group F",
-                "state": "Finished",
-                "score": "1 : 3",
-                "full_date": "2026-06-26T01:00:00",
-                "group": "GROUP_F",
-                "type": "group"
-            },
-            {
-                "team1": "Japan",
-                "team1_country": "jp",
-                "team2": "Schweden",
-                "team2_country": "se",
-                "date_str": "Fr, 26. Juni",
-                "time": "01:00",
-                "venue": "Group F",
-                "state": "Finished",
-                "score": "1 : 1",
-                "full_date": "2026-06-26T01:00:00",
-                "group": "GROUP_F",
                 "type": "group"
             }
         ],
