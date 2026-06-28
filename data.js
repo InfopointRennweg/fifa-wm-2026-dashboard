@@ -1,9 +1,9 @@
 const dashboardData = {
-    "last_updated": "2026-06-28 07:50:26",
+    "last_updated": "2026-06-28 09:40:05",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Sechzehntelfinals - Yakin trifft auf seinen Vorgänger Petkovic",
+            "title": "WM 2026: Sechzehntelfinals - Schweiz trifft auf Algerien, Yakin auf Vorgänger Petkovic",
             "date": "28.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/b7246c.webp"
         },
