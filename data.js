@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-28 09:40:05",
+    "last_updated": "2026-06-28 14:24:08",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Sechzehntelfinals - Schweiz trifft auf Algerien, Yakin auf Vorgänger Petkovic",
+            "title": "WM 2026: Favoriten im Check - Final-Affiche 2022 = Final-Affiche 2026? Stand jetzt nur logisch",
             "date": "28.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b7246c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/faee7c.webp"
         },
         {
-            "title": "Transfer des Nati-Captains? - Wechsel zu Chelsea? Das steckt hinter dem Xhaka-Gerücht",
-            "date": "27.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fab15f.webp"
+            "title": "Stimmen Sie ab - 72 Spiele, 215 Tore: Welches war der schönste Vorrunden-Treffer?",
+            "date": "28.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/75255e2.webp"
         }
     ],
     "schedule": {
