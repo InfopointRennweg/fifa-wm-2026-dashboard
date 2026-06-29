@@ -1,76 +1,50 @@
 const dashboardData = {
-    "last_updated": "2026-06-28 17:45:22",
+    "last_updated": "2026-06-29 08:58:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Favoriten im Check - Final-Affiche 2022 = Final-Affiche 2026? Stand jetzt nur logisch",
-            "date": "28.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/faee7c.webp"
+            "title": "WM: Vor 1/16-Final am Montag - Brasiliens individuelle Klasse oder Japans Kollektiv?",
+            "date": "29.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8adf9c3.webp"
         },
         {
-            "title": "Stimmen Sie ab - 72 Spiele, 215 Tore: Welches war der schönste Vorrunden-Treffer?",
-            "date": "28.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/75255e2.webp"
+            "title": "WM: Vor 1/16-Final GER vs. PAR - Nagelsmanns Rückkehr, Déjà-vu für Völler und die Frage nach Undav",
+            "date": "29.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4098d0.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Kolumbien",
-                "team1_country": "co",
-                "team2": "Portugal",
-                "team2_country": "pt",
-                "date_str": "So, 28. Juni",
-                "time": "01:30",
-                "venue": "Group K",
-                "state": "Finished",
-                "score": "0 : 0",
-                "full_date": "2026-06-28T01:30:00",
-                "group": "GROUP_K",
-                "type": "group"
+                "team1": "Brasilien",
+                "team1_country": "br",
+                "team2": "Japan",
+                "team2_country": "jp",
+                "date_str": "Mo, 29. Juni",
+                "time": "19:00",
+                "venue": "Last 32",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-06-29T19:00:00",
+                "group": null,
+                "type": "knockout"
             },
             {
-                "team1": "Congo DR",
-                "team1_country": "",
-                "team2": "Usbekistan",
-                "team2_country": "uz",
-                "date_str": "So, 28. Juni",
-                "time": "01:30",
-                "venue": "Group K",
-                "state": "Finished",
-                "score": "3 : 1",
-                "full_date": "2026-06-28T01:30:00",
-                "group": "GROUP_K",
-                "type": "group"
-            },
-            {
-                "team1": "Jordanien",
-                "team1_country": "jo",
-                "team2": "Argentinien",
-                "team2_country": "ar",
-                "date_str": "So, 28. Juni",
-                "time": "04:00",
-                "venue": "Group J",
-                "state": "Finished",
-                "score": "1 : 3",
-                "full_date": "2026-06-28T04:00:00",
-                "group": "GROUP_J",
-                "type": "group"
-            },
-            {
-                "team1": "Algerien",
-                "team1_country": "dz",
-                "team2": "Österreich",
-                "team2_country": "at",
-                "date_str": "So, 28. Juni",
-                "time": "04:00",
-                "venue": "Group J",
-                "state": "Finished",
-                "score": "3 : 3",
-                "full_date": "2026-06-28T04:00:00",
-                "group": "GROUP_J",
-                "type": "group"
-            },
+                "team1": "Deutschland",
+                "team1_country": "de",
+                "team2": "Paraguay",
+                "team2_country": "py",
+                "date_str": "Mo, 29. Juni",
+                "time": "22:30",
+                "venue": "Last 32",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-06-29T22:30:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
             {
                 "team1": "Südafrika",
                 "team1_country": "za",
@@ -79,14 +53,12 @@ const dashboardData = {
                 "date_str": "So, 28. Juni",
                 "time": "21:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "0 : 1",
                 "full_date": "2026-06-28T21:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Jordanien",
                 "team1_country": "jo",
@@ -181,20 +153,6 @@ const dashboardData = {
                 "venue": "Group G",
                 "state": "Finished",
                 "score": "1 : 5",
-                "full_date": "2026-06-27T05:00:00",
-                "group": "GROUP_G",
-                "type": "group"
-            },
-            {
-                "team1": "Ägypten",
-                "team1_country": "eg",
-                "team2": "Iran",
-                "team2_country": "ir",
-                "date_str": "Sa, 27. Juni",
-                "time": "05:00",
-                "venue": "Group G",
-                "state": "Finished",
-                "score": "1 : 1",
                 "full_date": "2026-06-27T05:00:00",
                 "group": "GROUP_G",
                 "type": "group"
