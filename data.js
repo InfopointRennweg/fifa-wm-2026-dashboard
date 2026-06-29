@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-29 16:25:12",
+    "last_updated": "2026-06-29 18:29:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
-        {
-            "title": "WM: Vor 1/16-Final am Montag - Brasiliens individuelle Klasse oder Japans Kollektiv?",
-            "date": "29.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8adf9c3.webp"
-        },
         {
             "title": "WM: Vor 1/16-Final GER vs. PAR - Nagelsmanns Rückkehr, Déjà-vu für Völler und die Frage nach Undav",
             "date": "29.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/4098d0.webp"
+        },
+        {
+            "title": "WM: Vor 1/16-Final NED vs. MAR - Nach Hiobsbotschaft: «Oranje» will auch für Gakpo-Familie siegen",
+            "date": "29.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9eeff6.webp"
         }
     ],
     "schedule": {
@@ -23,8 +23,8 @@ const dashboardData = {
                 "date_str": "Mo, 29. Juni",
                 "time": "19:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Live",
+                "score": "1 : 1",
                 "full_date": "2026-06-29T19:00:00",
                 "group": null,
                 "type": "knockout"
