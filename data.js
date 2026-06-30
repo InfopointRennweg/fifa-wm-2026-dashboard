@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-30 07:53:01",
+    "last_updated": "2026-06-30 10:06:06",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nach Deutschlands WM-Out - Neuer erklärt Comeback für beendet – Kimmich kämpferisch",
+            "date": "30.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d26630.webp"
+        },
         {
             "title": "WM 2026: 1/16-Final GER-PAR - Deutschland scheitert sensationell an Paraguay",
             "date": "30.06.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/98e1ca.webp"
-        },
-        {
-            "title": "Nagelsmann will weitermachen - Auf die Blamage folgt in Deutschland die Trainerdiskussion",
-            "date": "30.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d2a45e.webp"
         }
     ],
     "schedule": {
