@@ -491,14 +491,22 @@
             <!-- Divider Line -->
             <div style="height: 1px; background: rgba(218, 41, 28, 0.1); margin: 0.65rem 0; flex-shrink: 0;"></div>
 
-            <!-- Lower Half: Tableau -->
+            <!-- Lower Half: Past Results & QR Code -->
             <div class="schedule-half">
-                <h2>🏆 Turnier-Tableau <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(srf.ch)</span></h2>
-                <div class="content-scroll" style="border-radius: 8px; overflow: hidden; position: relative;">
-                    <iframe src="https://www.srf.ch/sport/resultcenter/fifa-wc-2026/results/football/wm/KoRound-1-1/tableau" 
-                            style="width: 100%; height: 100%; border: none; background: white;"
-                            sandbox="allow-scripts allow-same-origin"
-                            title="Turnier-Tableau"></iframe>
+                <h2>🏆 Letzte Resultate <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(football-data.org)</span></h2>
+                <div class="content-scroll" id="past-results-container">
+                    <div class="loading">Lade Resultate...</div>
+                </div>
+                
+                <!-- InfoPoint QR Code Integration for SRF Tableau -->
+                <div style="display: flex; align-items: center; justify-content: center; gap: 1rem; padding: 0.75rem; margin-top: 0.75rem; background: rgba(255,255,255,0.65); border-radius: 6px; border: 1px dashed rgba(218,41,28,0.3); box-shadow: 0 2px 8px rgba(0,0,0,0.02); flex-shrink: 0;">
+                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://www.srf.ch/sport/resultcenter/fifa-wc-2026/results/football/wm/KoRound-1-1/tableau" 
+                         alt="SRF Tableau QR Code" 
+                         style="width: 50px; height: 50px; border-radius: 4px;">
+                    <div style="font-size: 0.8rem; color: var(--text-muted); line-height: 1.3;">
+                        <strong style="color: #0f172a;">Kompletter WM-Turnierbaum</strong><br>
+                        QR-Code scannen für den interaktiven Turnierbaum auf SRF.ch
+                    </div>
                 </div>
             </div>
         </div>
