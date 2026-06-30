@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-30 15:13:21",
+    "last_updated": "2026-06-30 18:19:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Offensivjuwel im Porträt - Der algerische Manzambi heisst Maza",
+            "title": "WM: Vor 1/16-Final FRA vs. SWE - Jetzt trifft auch noch Dembélé: Frankreich mit voller Offensive",
             "date": "30.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/22e90f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2bc539.webp"
         },
         {
-            "title": "WM: 1/16-Final am FR um 5 Uhr - Stars, Stärken, Schwächen: Nati-Gegner Algerien im Fokus",
-            "date": "29.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8231ac.webp"
+            "title": "WM: 1/16-Final MEX vs. ECU - Mexiko setzt auf Aztekenstadion und Aguirre-Effekt",
+            "date": "30.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9ee447.webp"
         }
     ],
     "schedule": {
@@ -37,8 +37,8 @@ const dashboardData = {
                 "date_str": "Di, 30. Juni",
                 "time": "19:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Live",
+                "score": "0 : 1",
                 "full_date": "2026-06-30T19:00:00",
                 "group": null,
                 "type": "knockout"
