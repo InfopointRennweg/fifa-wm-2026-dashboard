@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-06-30 10:06:06",
+    "last_updated": "2026-06-30 15:13:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Deutschlands WM-Out - Neuer erklärt Comeback für beendet – Kimmich kämpferisch",
+            "title": "Offensivjuwel im Porträt - Der algerische Manzambi heisst Maza",
             "date": "30.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d26630.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/22e90f.webp"
         },
         {
-            "title": "WM 2026: 1/16-Final GER-PAR - Deutschland scheitert sensationell an Paraguay",
-            "date": "30.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/98e1ca.webp"
+            "title": "WM: 1/16-Final am FR um 5 Uhr - Stars, Stärken, Schwächen: Nati-Gegner Algerien im Fokus",
+            "date": "29.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8231ac.webp"
         }
     ],
     "schedule": {
