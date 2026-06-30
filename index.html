@@ -434,11 +434,14 @@
             <!-- Divider Line -->
             <div style="height: 1px; background: rgba(218, 41, 28, 0.1); margin: 0.65rem 0; flex-shrink: 0;"></div>
 
-            <!-- Lower Half: Past Results -->
+            <!-- Lower Half: Tableau -->
             <div class="schedule-half">
-                <h2>🏆 Letzte Resultate <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(football-data.org)</span></h2>
-                <div class="content-scroll" id="past-results-container">
-                    <div class="loading">Lade Resultate...</div>
+                <h2>🏆 Turnier-Tableau <span style="font-size: 0.8rem; color: var(--text-muted); text-transform: none; font-weight: normal; margin-left: auto;">(srf.ch)</span></h2>
+                <div class="content-scroll" style="border-radius: 8px; overflow: hidden; position: relative;">
+                    <iframe src="https://www.srf.ch/sport/resultcenter/fifa-wc-2026/results/football/wm/KoRound-1-1/tableau" 
+                            style="width: 100%; height: 100%; border: none; background: white;"
+                            sandbox="allow-scripts allow-same-origin"
+                            title="Turnier-Tableau"></iframe>
                 </div>
             </div>
         </div>
