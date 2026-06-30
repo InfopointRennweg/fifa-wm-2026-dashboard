@@ -19,6 +19,11 @@
             --accent-dark: #c8102e;   /* Dunkleres Rot für Hover */
         }
 
+        html {
+            /* Dynamically scales rem units based on viewport width to perfectly fit into smaller iframes */
+            font-size: clamp(11px, 1.25vw, 16px);
+        }
+
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
         body {
@@ -171,8 +176,8 @@
         .dashboard-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 1.5rem;
-            padding: 1.5rem 2rem;
+            gap: 1rem;
+            padding: 1rem 1.5rem;
             flex: 1;
             overflow: hidden;
         }
