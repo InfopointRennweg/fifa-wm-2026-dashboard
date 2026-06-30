@@ -1,31 +1,75 @@
 const dashboardData = {
-    "last_updated": "2026-06-29 18:29:45",
+    "last_updated": "2026-06-30 07:53:01",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM: Vor 1/16-Final GER vs. PAR - Nagelsmanns Rückkehr, Déjà-vu für Völler und die Frage nach Undav",
-            "date": "29.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4098d0.webp"
+            "title": "WM 2026: 1/16-Final GER-PAR - Deutschland scheitert sensationell an Paraguay",
+            "date": "30.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/98e1ca.webp"
         },
         {
-            "title": "WM: Vor 1/16-Final NED vs. MAR - Nach Hiobsbotschaft: «Oranje» will auch für Gakpo-Familie siegen",
-            "date": "29.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9eeff6.webp"
+            "title": "Nagelsmann will weitermachen - Auf die Blamage folgt in Deutschland die Trainerdiskussion",
+            "date": "30.06.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d2a45e.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Brasilien",
-                "team1_country": "br",
-                "team2": "Japan",
-                "team2_country": "jp",
-                "date_str": "Mo, 29. Juni",
+                "team1": "Niederlande",
+                "team1_country": "nl",
+                "team2": "Marokko",
+                "team2_country": "ma",
+                "date_str": "Di, 30. Juni",
+                "time": "03:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "3 : 4",
+                "full_date": "2026-06-30T03:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Elfenbeinküste",
+                "team1_country": "ci",
+                "team2": "Norwegen",
+                "team2_country": "no",
+                "date_str": "Di, 30. Juni",
                 "time": "19:00",
                 "venue": "Last 32",
-                "state": "Live",
-                "score": "1 : 1",
-                "full_date": "2026-06-29T19:00:00",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-06-30T19:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Frankreich",
+                "team1_country": "fr",
+                "team2": "Schweden",
+                "team2_country": "se",
+                "date_str": "Di, 30. Juni",
+                "time": "23:00",
+                "venue": "Last 32",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-06-30T23:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "Niederlande",
+                "team1_country": "nl",
+                "team2": "Marokko",
+                "team2_country": "ma",
+                "date_str": "Di, 30. Juni",
+                "time": "03:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "3 : 4",
+                "full_date": "2026-06-30T03:00:00",
                 "group": null,
                 "type": "knockout"
             },
@@ -37,14 +81,26 @@ const dashboardData = {
                 "date_str": "Mo, 29. Juni",
                 "time": "22:30",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "4 : 5",
                 "full_date": "2026-06-29T22:30:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
+            {
+                "team1": "Brasilien",
+                "team1_country": "br",
+                "team2": "Japan",
+                "team2_country": "jp",
+                "date_str": "Mo, 29. Juni",
+                "time": "19:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "2 : 1",
+                "full_date": "2026-06-29T19:00:00",
+                "group": null,
+                "type": "knockout"
+            },
             {
                 "team1": "Südafrika",
                 "team1_country": "za",
@@ -113,48 +169,6 @@ const dashboardData = {
                 "score": "3 : 1",
                 "full_date": "2026-06-28T01:30:00",
                 "group": "GROUP_K",
-                "type": "group"
-            },
-            {
-                "team1": "Panama",
-                "team1_country": "pa",
-                "team2": "England",
-                "team2_country": "gb-eng",
-                "date_str": "Sa, 27. Juni",
-                "time": "23:00",
-                "venue": "Group L",
-                "state": "Finished",
-                "score": "0 : 2",
-                "full_date": "2026-06-27T23:00:00",
-                "group": "GROUP_L",
-                "type": "group"
-            },
-            {
-                "team1": "Kroatien",
-                "team1_country": "hr",
-                "team2": "Ghana",
-                "team2_country": "gh",
-                "date_str": "Sa, 27. Juni",
-                "time": "23:00",
-                "venue": "Group L",
-                "state": "Finished",
-                "score": "2 : 1",
-                "full_date": "2026-06-27T23:00:00",
-                "group": "GROUP_L",
-                "type": "group"
-            },
-            {
-                "team1": "Neuseeland",
-                "team1_country": "nz",
-                "team2": "Belgien",
-                "team2_country": "be",
-                "date_str": "Sa, 27. Juni",
-                "time": "05:00",
-                "venue": "Group G",
-                "state": "Finished",
-                "score": "1 : 5",
-                "full_date": "2026-06-27T05:00:00",
-                "group": "GROUP_G",
                 "type": "group"
             }
         ],
