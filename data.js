@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-01 10:28:27",
+    "last_updated": "2026-07-01 15:20:50",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: 1/16-Final FRA-SWE - Frankreichs Zauberkünstler spielen Schweden schwindlig",
+            "title": "Programm in der Übersicht - Gastgeber USA gefordert: Das läuft am Mittwoch an der WM",
             "date": "01.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/878865.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/26ed7ec.webp"
         },
         {
-            "title": "WM 2026: 1/16-Final MEX-ECU - Mexiko besiegt K.o.-Spiel-Fluch – ausgerechnet im Aztekenstadion",
+            "title": "WM: Vor 1/16-Final ENG vs. COD - Englands Premiere gegen DR Kongo: Krimi oder Spaziergang?",
             "date": "01.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/793916.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b5f421.webp"
         }
     ],
     "schedule": {
