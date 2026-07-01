@@ -1,45 +1,75 @@
 const dashboardData = {
-    "last_updated": "2026-06-30 18:19:27",
+    "last_updated": "2026-07-01 08:12:17",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM: Vor 1/16-Final FRA vs. SWE - Jetzt trifft auch noch Dembélé: Frankreich mit voller Offensive",
-            "date": "30.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2bc539.webp"
+            "title": "WM 2026: 1/16-Final FRA-SWE - Frankreichs Zauberkünstler spielen Schweden schwindlig",
+            "date": "01.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/878865.webp"
         },
         {
-            "title": "WM: 1/16-Final MEX vs. ECU - Mexiko setzt auf Aztekenstadion und Aguirre-Effekt",
-            "date": "30.06.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9ee447.webp"
+            "title": "WM 2026: 1/16-Final MEX-ECU - Mexiko besiegt K.o.-Spiel-Fluch – ausgerechnet im Aztekenstadion",
+            "date": "01.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/793916.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Niederlande",
-                "team1_country": "nl",
-                "team2": "Marokko",
-                "team2_country": "ma",
-                "date_str": "Di, 30. Juni",
+                "team1": "Mexiko",
+                "team1_country": "mx",
+                "team2": "Ecuador",
+                "team2_country": "ec",
+                "date_str": "Mi, 1. Juli",
                 "time": "03:00",
                 "venue": "Last 32",
                 "state": "Finished",
-                "score": "3 : 4",
-                "full_date": "2026-06-30T03:00:00",
+                "score": "2 : 0",
+                "full_date": "2026-07-01T03:00:00",
                 "group": null,
                 "type": "knockout"
             },
             {
-                "team1": "Elfenbeinküste",
-                "team1_country": "ci",
-                "team2": "Norwegen",
-                "team2_country": "no",
-                "date_str": "Di, 30. Juni",
-                "time": "19:00",
+                "team1": "England",
+                "team1_country": "gb-eng",
+                "team2": "Congo DR",
+                "team2_country": "",
+                "date_str": "Mi, 1. Juli",
+                "time": "18:00",
                 "venue": "Last 32",
-                "state": "Live",
-                "score": "0 : 1",
-                "full_date": "2026-06-30T19:00:00",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-01T18:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Belgien",
+                "team1_country": "be",
+                "team2": "Senegal",
+                "team2_country": "sn",
+                "date_str": "Mi, 1. Juli",
+                "time": "22:00",
+                "venue": "Last 32",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-01T22:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "Mexiko",
+                "team1_country": "mx",
+                "team2": "Ecuador",
+                "team2_country": "ec",
+                "date_str": "Mi, 1. Juli",
+                "time": "03:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "2 : 0",
+                "full_date": "2026-07-01T03:00:00",
                 "group": null,
                 "type": "knockout"
             },
@@ -51,14 +81,26 @@ const dashboardData = {
                 "date_str": "Di, 30. Juni",
                 "time": "23:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "3 : 0",
                 "full_date": "2026-06-30T23:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
+            {
+                "team1": "Elfenbeinküste",
+                "team1_country": "ci",
+                "team2": "Norwegen",
+                "team2_country": "no",
+                "date_str": "Di, 30. Juni",
+                "time": "19:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "1 : 2",
+                "full_date": "2026-06-30T19:00:00",
+                "group": null,
+                "type": "knockout"
+            },
             {
                 "team1": "Niederlande",
                 "team1_country": "nl",
@@ -127,48 +169,6 @@ const dashboardData = {
                 "score": "1 : 3",
                 "full_date": "2026-06-28T04:00:00",
                 "group": "GROUP_J",
-                "type": "group"
-            },
-            {
-                "team1": "Algerien",
-                "team1_country": "dz",
-                "team2": "Österreich",
-                "team2_country": "at",
-                "date_str": "So, 28. Juni",
-                "time": "04:00",
-                "venue": "Group J",
-                "state": "Finished",
-                "score": "3 : 3",
-                "full_date": "2026-06-28T04:00:00",
-                "group": "GROUP_J",
-                "type": "group"
-            },
-            {
-                "team1": "Kolumbien",
-                "team1_country": "co",
-                "team2": "Portugal",
-                "team2_country": "pt",
-                "date_str": "So, 28. Juni",
-                "time": "01:30",
-                "venue": "Group K",
-                "state": "Finished",
-                "score": "0 : 0",
-                "full_date": "2026-06-28T01:30:00",
-                "group": "GROUP_K",
-                "type": "group"
-            },
-            {
-                "team1": "Congo DR",
-                "team1_country": "",
-                "team2": "Usbekistan",
-                "team2_country": "uz",
-                "date_str": "So, 28. Juni",
-                "time": "01:30",
-                "venue": "Group K",
-                "state": "Finished",
-                "score": "3 : 1",
-                "full_date": "2026-06-28T01:30:00",
-                "group": "GROUP_K",
                 "type": "group"
             }
         ],
