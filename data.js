@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-01 15:20:50",
+    "last_updated": "2026-07-01 18:26:15",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "WM 2026: 1/16-Final ENG – DRK - Die DR Kongo hofft bis kurz vor Schluss – dann schlägt Kane zu",
+            "date": "01.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/39d9eb.webp"
+        },
         {
             "title": "Programm in der Übersicht - Gastgeber USA gefordert: Das läuft am Mittwoch an der WM",
             "date": "01.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/26ed7ec.webp"
-        },
-        {
-            "title": "WM: Vor 1/16-Final ENG vs. COD - Englands Premiere gegen DR Kongo: Krimi oder Spaziergang?",
-            "date": "01.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b5f421.webp"
         }
     ],
     "schedule": {
@@ -37,8 +37,8 @@ const dashboardData = {
                 "date_str": "Mi, 1. Juli",
                 "time": "18:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "2 : 1",
                 "full_date": "2026-07-01T18:00:00",
                 "group": null,
                 "type": "knockout"
@@ -59,6 +59,20 @@ const dashboardData = {
             }
         ],
         "past_results": [
+            {
+                "team1": "England",
+                "team1_country": "gb-eng",
+                "team2": "Congo DR",
+                "team2_country": "",
+                "date_str": "Mi, 1. Juli",
+                "time": "18:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "2 : 1",
+                "full_date": "2026-07-01T18:00:00",
+                "group": null,
+                "type": "knockout"
+            },
             {
                 "team1": "Mexiko",
                 "team1_country": "mx",
@@ -156,20 +170,6 @@ const dashboardData = {
                 "full_date": "2026-06-28T21:00:00",
                 "group": null,
                 "type": "knockout"
-            },
-            {
-                "team1": "Jordanien",
-                "team1_country": "jo",
-                "team2": "Argentinien",
-                "team2_country": "ar",
-                "date_str": "So, 28. Juni",
-                "time": "04:00",
-                "venue": "Group J",
-                "state": "Finished",
-                "score": "1 : 3",
-                "full_date": "2026-06-28T04:00:00",
-                "group": "GROUP_J",
-                "type": "group"
             }
         ],
         "swiss_games": [
