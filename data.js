@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-02 07:31:06",
+    "last_updated": "2026-07-02 09:41:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
-        {
-            "title": "WM 2026: 1/16-Final USA-BIH - Balogun trifft, sieht Rot & schaut zu, wie die USA dennoch siegen",
-            "date": "02.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f0d09b.webp"
-        },
         {
             "title": "WM 2026: 1/16-Final BEL-SEN - Belgien sitzt schon fast im Flieger – und dreht dann das Spiel",
             "date": "02.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/ad961e.webp"
+        },
+        {
+            "title": "Last-Minute-Sieg über Senegal - Tielemans lässt Belgiens «Goldene Generation» noch einmal träumen",
+            "date": "02.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8faa1b.webp"
         }
     ],
     "schedule": {
