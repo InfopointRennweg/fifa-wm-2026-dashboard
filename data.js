@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-02 09:41:52",
+    "last_updated": "2026-07-02 14:41:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: 1/16-Final BEL-SEN - Belgien sitzt schon fast im Flieger – und dreht dann das Spiel",
+            "title": "SRF-Umfrage vor 1/16-Final - Über 80 Prozent glauben an ein Schweizer Weiterkommen – und Sie?",
             "date": "02.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ad961e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d8d14c.webp"
         },
         {
-            "title": "Last-Minute-Sieg über Senegal - Tielemans lässt Belgiens «Goldene Generation» noch einmal träumen",
+            "title": "Vor WM-Sechzehntelfinal - Gegen Petkovics Algerier: Die Nati als Lustkiller und Wehmacher?",
             "date": "02.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8faa1b.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/353d83.webp"
         }
     ],
     "schedule": {
