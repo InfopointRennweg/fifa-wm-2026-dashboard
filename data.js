@@ -1,45 +1,61 @@
 const dashboardData = {
-    "last_updated": "2026-07-01 18:26:15",
+    "last_updated": "2026-07-02 07:31:06",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: 1/16-Final ENG – DRK - Die DR Kongo hofft bis kurz vor Schluss – dann schlägt Kane zu",
-            "date": "01.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/39d9eb.webp"
+            "title": "WM 2026: 1/16-Final USA-BIH - Balogun trifft, sieht Rot & schaut zu, wie die USA dennoch siegen",
+            "date": "02.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f0d09b.webp"
         },
         {
-            "title": "Programm in der Übersicht - Gastgeber USA gefordert: Das läuft am Mittwoch an der WM",
-            "date": "01.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/26ed7ec.webp"
+            "title": "WM 2026: 1/16-Final BEL-SEN - Belgien sitzt schon fast im Flieger – und dreht dann das Spiel",
+            "date": "02.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ad961e.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Mexiko",
-                "team1_country": "mx",
-                "team2": "Ecuador",
-                "team2_country": "ec",
-                "date_str": "Mi, 1. Juli",
-                "time": "03:00",
+                "team1": "USA",
+                "team1_country": "us",
+                "team2": "Bosnia-Herzegovina",
+                "team2_country": "",
+                "date_str": "Do, 2. Juli",
+                "time": "02:00",
                 "venue": "Last 32",
                 "state": "Finished",
                 "score": "2 : 0",
-                "full_date": "2026-07-01T03:00:00",
+                "full_date": "2026-07-02T02:00:00",
                 "group": null,
                 "type": "knockout"
             },
             {
-                "team1": "England",
-                "team1_country": "gb-eng",
-                "team2": "Congo DR",
+                "team1": "Spanien",
+                "team1_country": "es",
+                "team2": "Österreich",
+                "team2_country": "at",
+                "date_str": "Do, 2. Juli",
+                "time": "21:00",
+                "venue": "Last 32",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-02T21:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "USA",
+                "team1_country": "us",
+                "team2": "Bosnia-Herzegovina",
                 "team2_country": "",
-                "date_str": "Mi, 1. Juli",
-                "time": "18:00",
+                "date_str": "Do, 2. Juli",
+                "time": "02:00",
                 "venue": "Last 32",
                 "state": "Finished",
-                "score": "2 : 1",
-                "full_date": "2026-07-01T18:00:00",
+                "score": "2 : 0",
+                "full_date": "2026-07-02T02:00:00",
                 "group": null,
                 "type": "knockout"
             },
@@ -51,14 +67,12 @@ const dashboardData = {
                 "date_str": "Mi, 1. Juli",
                 "time": "22:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "3 : 2",
                 "full_date": "2026-07-01T22:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "England",
                 "team1_country": "gb-eng",
@@ -79,11 +93,11 @@ const dashboardData = {
                 "team2": "Ecuador",
                 "team2_country": "ec",
                 "date_str": "Mi, 1. Juli",
-                "time": "03:00",
+                "time": "04:00",
                 "venue": "Last 32",
                 "state": "Finished",
                 "score": "2 : 0",
-                "full_date": "2026-07-01T03:00:00",
+                "full_date": "2026-07-01T04:00:00",
                 "group": null,
                 "type": "knockout"
             },
@@ -140,34 +154,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "4 : 5",
                 "full_date": "2026-06-29T22:30:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Brasilien",
-                "team1_country": "br",
-                "team2": "Japan",
-                "team2_country": "jp",
-                "date_str": "Mo, 29. Juni",
-                "time": "19:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "2 : 1",
-                "full_date": "2026-06-29T19:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Südafrika",
-                "team1_country": "za",
-                "team2": "Kanada",
-                "team2_country": "ca",
-                "date_str": "So, 28. Juni",
-                "time": "21:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "0 : 1",
-                "full_date": "2026-06-28T21:00:00",
                 "group": null,
                 "type": "knockout"
             }
