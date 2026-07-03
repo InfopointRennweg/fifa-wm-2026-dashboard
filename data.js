@@ -1,31 +1,89 @@
 const dashboardData = {
-    "last_updated": "2026-07-02 18:14:48",
+    "last_updated": "2026-07-03 07:19:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SRF-Umfrage vor 1/16-Final - Über 80 Prozent glauben an ein Schweizer Weiterkommen – und Sie?",
-            "date": "02.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d8d14c.webp"
+            "title": "WM 2026: 1/16-Final SUI-ALG - WM-Achtelfinal kann kommen: Die Nati schlägt auch Algerien",
+            "date": "03.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5ff76c.webp"
         },
         {
-            "title": "Vor WM-Sechzehntelfinal - Gegen Petkovics Algerier: Die Nati als Lustkiller und Wehmacher?",
-            "date": "02.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/353d83.webp"
+            "title": "WM-Achtelfinal am 7.7., 22 Uhr - Für Nati geht's weiter: Wieder in Vancouver vs. Kolumbien/Ghana",
+            "date": "03.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/dd85fff.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "USA",
-                "team1_country": "us",
-                "team2": "Bosnia-Herzegovina",
-                "team2_country": "",
-                "date_str": "Do, 2. Juli",
-                "time": "02:00",
+                "team1": "Portugal",
+                "team1_country": "pt",
+                "team2": "Kroatien",
+                "team2_country": "hr",
+                "date_str": "Fr, 3. Juli",
+                "time": "01:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "2 : 1",
+                "full_date": "2026-07-03T01:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Schweiz",
+                "team1_country": "ch",
+                "team2": "Algerien",
+                "team2_country": "dz",
+                "date_str": "Fr, 3. Juli",
+                "time": "05:00",
                 "venue": "Last 32",
                 "state": "Finished",
                 "score": "2 : 0",
-                "full_date": "2026-07-02T02:00:00",
+                "full_date": "2026-07-03T05:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Australien",
+                "team1_country": "au",
+                "team2": "Ägypten",
+                "team2_country": "eg",
+                "date_str": "Fr, 3. Juli",
+                "time": "20:00",
+                "venue": "Last 32",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-03T20:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "Schweiz",
+                "team1_country": "ch",
+                "team2": "Algerien",
+                "team2_country": "dz",
+                "date_str": "Fr, 3. Juli",
+                "time": "05:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "2 : 0",
+                "full_date": "2026-07-03T05:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Portugal",
+                "team1_country": "pt",
+                "team2": "Kroatien",
+                "team2_country": "hr",
+                "date_str": "Fr, 3. Juli",
+                "time": "01:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "2 : 1",
+                "full_date": "2026-07-03T01:00:00",
                 "group": null,
                 "type": "knockout"
             },
@@ -37,14 +95,12 @@ const dashboardData = {
                 "date_str": "Do, 2. Juli",
                 "time": "21:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "3 : 0",
                 "full_date": "2026-07-02T21:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "USA",
                 "team1_country": "us",
@@ -114,48 +170,6 @@ const dashboardData = {
                 "full_date": "2026-06-30T23:00:00",
                 "group": null,
                 "type": "knockout"
-            },
-            {
-                "team1": "Elfenbeinküste",
-                "team1_country": "ci",
-                "team2": "Norwegen",
-                "team2_country": "no",
-                "date_str": "Di, 30. Juni",
-                "time": "19:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "1 : 2",
-                "full_date": "2026-06-30T19:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Niederlande",
-                "team1_country": "nl",
-                "team2": "Marokko",
-                "team2_country": "ma",
-                "date_str": "Di, 30. Juni",
-                "time": "03:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "3 : 4",
-                "full_date": "2026-06-30T03:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Deutschland",
-                "team1_country": "de",
-                "team2": "Paraguay",
-                "team2_country": "py",
-                "date_str": "Mo, 29. Juni",
-                "time": "22:30",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "4 : 5",
-                "full_date": "2026-06-29T22:30:00",
-                "group": null,
-                "type": "knockout"
             }
         ],
         "swiss_games": [
@@ -209,8 +223,8 @@ const dashboardData = {
                 "date_str": "Fr, 3. Juli",
                 "time": "05:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "2 : 0",
                 "full_date": "2026-07-03T05:00:00",
                 "group": null,
                 "type": "knockout"
