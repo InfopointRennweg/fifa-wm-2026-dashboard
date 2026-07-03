@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-03 14:52:53",
+    "last_updated": "2026-07-03 17:57:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Rechtsverteidiger brilliert - Was lange währt, wird endlich gut: «Zakaria-Experiment» geht auf",
+            "title": "WM-Programm in der Übersicht - Messi in Miami: Das läuft am Freitag und in der Nacht auf Samstag",
             "date": "03.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/71d8df.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/cf14fb.webp"
         },
         {
-            "title": "Medien zum Sieg gegen Algerien - Nati «zu ausgefuchst» – auch dank «Hindernisläufer» Manzambi",
+            "title": "WM: Kap Verde vor 1/16-Final - «Wer Weltmeister wird? Ich hoffe, wir, Kap Verde»",
             "date": "03.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1f72fbe.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f4ee07.webp"
         }
     ],
     "schedule": {
