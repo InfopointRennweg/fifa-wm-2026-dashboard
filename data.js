@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-03 09:41:24",
+    "last_updated": "2026-07-03 14:52:53",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
-        {
-            "title": "WM 2026: 1/16-Final SUI-ALG - WM-Achtelfinal kann kommen: Die Nati schlägt auch Algerien",
-            "date": "03.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5ff76c.webp"
-        },
         {
             "title": "Rechtsverteidiger brilliert - Was lange währt, wird endlich gut: «Zakaria-Experiment» geht auf",
             "date": "03.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/71d8df.webp"
+        },
+        {
+            "title": "Medien zum Sieg gegen Algerien - Nati «zu ausgefuchst» – auch dank «Hindernisläufer» Manzambi",
+            "date": "03.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1f72fbe.webp"
         }
     ],
     "schedule": {
