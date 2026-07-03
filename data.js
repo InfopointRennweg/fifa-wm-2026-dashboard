@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-07-03 07:19:23",
+    "last_updated": "2026-07-03 09:41:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/5ff76c.webp"
         },
         {
-            "title": "WM-Achtelfinal am 7.7., 22 Uhr - Für Nati geht's weiter: Wieder in Vancouver vs. Kolumbien/Ghana",
+            "title": "Rechtsverteidiger brilliert - Was lange währt, wird endlich gut: «Zakaria-Experiment» geht auf",
             "date": "03.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dd85fff.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/71d8df.webp"
         }
     ],
     "schedule": {
