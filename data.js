@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-04 09:04:17",
+    "last_updated": "2026-07-04 14:10:09",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: 1/16-Final ARG-CPV - Kap Verde verpasst die Sensation gegen Argentinien nur knapp",
+            "title": "WM-Programm in der Übersicht - Erste Achtelfinals mit Favorit Frankreich: Das läuft am Samstag",
             "date": "04.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/768d7d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4f21c1.webp"
         },
         {
-            "title": "WM 2026: 1/16-Final COL-GHA - Kolumbien macht Achtelfinal-Duell mit der Schweiz perfekt",
+            "title": "WM 2026: Vor 1. Achtelfinal - «Grauenvoller Albtraum»: Kanada fürchtet «Gigant» Marokko",
             "date": "04.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6f5dab.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1be9cab.webp"
         }
     ],
     "schedule": {
