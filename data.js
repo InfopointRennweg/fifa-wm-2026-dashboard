@@ -1,45 +1,103 @@
 const dashboardData = {
-    "last_updated": "2026-07-03 17:57:46",
+    "last_updated": "2026-07-04 06:46:04",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Programm in der Übersicht - Messi in Miami: Das läuft am Freitag und in der Nacht auf Samstag",
-            "date": "03.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cf14fb.webp"
+            "title": "WM 2026: 1/16-Final ARG-CPV - Kap Verde verpasst die Sensation gegen Argentinien nur knapp",
+            "date": "04.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/768d7d.webp"
         },
         {
-            "title": "WM: Kap Verde vor 1/16-Final - «Wer Weltmeister wird? Ich hoffe, wir, Kap Verde»",
-            "date": "03.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f4ee07.webp"
+            "title": "WM 2026: 1/16-Final COL-GHA - Kolumbien macht Achtelfinal-Duell mit der Schweiz perfekt",
+            "date": "04.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6f5dab.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Portugal",
-                "team1_country": "pt",
-                "team2": "Kroatien",
-                "team2_country": "hr",
-                "date_str": "Fr, 3. Juli",
-                "time": "01:00",
+                "team1": "Argentinien",
+                "team1_country": "ar",
+                "team2": "Cape Verde Islands",
+                "team2_country": "",
+                "date_str": "Sa, 4. Juli",
+                "time": "00:00",
                 "venue": "Last 32",
                 "state": "Finished",
-                "score": "2 : 1",
-                "full_date": "2026-07-03T01:00:00",
+                "score": "3 : 2",
+                "full_date": "2026-07-04T00:00:00",
                 "group": null,
                 "type": "knockout"
             },
             {
-                "team1": "Schweiz",
-                "team1_country": "ch",
-                "team2": "Algerien",
-                "team2_country": "dz",
-                "date_str": "Fr, 3. Juli",
-                "time": "05:00",
+                "team1": "Kolumbien",
+                "team1_country": "co",
+                "team2": "Ghana",
+                "team2_country": "gh",
+                "date_str": "Sa, 4. Juli",
+                "time": "03:30",
                 "venue": "Last 32",
                 "state": "Finished",
-                "score": "2 : 0",
-                "full_date": "2026-07-03T05:00:00",
+                "score": "1 : 0",
+                "full_date": "2026-07-04T03:30:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Kanada",
+                "team1_country": "ca",
+                "team2": "Marokko",
+                "team2_country": "ma",
+                "date_str": "Sa, 4. Juli",
+                "time": "19:00",
+                "venue": "Last 16",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-04T19:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Paraguay",
+                "team1_country": "py",
+                "team2": "Frankreich",
+                "team2_country": "fr",
+                "date_str": "Sa, 4. Juli",
+                "time": "23:00",
+                "venue": "Last 16",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-04T23:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "Kolumbien",
+                "team1_country": "co",
+                "team2": "Ghana",
+                "team2_country": "gh",
+                "date_str": "Sa, 4. Juli",
+                "time": "03:30",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "1 : 0",
+                "full_date": "2026-07-04T03:30:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Argentinien",
+                "team1_country": "ar",
+                "team2": "Cape Verde Islands",
+                "team2_country": "",
+                "date_str": "Sa, 4. Juli",
+                "time": "00:00",
+                "venue": "Last 32",
+                "state": "Finished",
+                "score": "3 : 2",
+                "full_date": "2026-07-04T00:00:00",
                 "group": null,
                 "type": "knockout"
             },
@@ -51,14 +109,12 @@ const dashboardData = {
                 "date_str": "Fr, 3. Juli",
                 "time": "20:00",
                 "venue": "Last 32",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "3 : 5",
                 "full_date": "2026-07-03T20:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Schweiz",
                 "team1_country": "ch",
@@ -128,48 +184,6 @@ const dashboardData = {
                 "full_date": "2026-07-01T22:00:00",
                 "group": null,
                 "type": "knockout"
-            },
-            {
-                "team1": "England",
-                "team1_country": "gb-eng",
-                "team2": "Congo DR",
-                "team2_country": "",
-                "date_str": "Mi, 1. Juli",
-                "time": "18:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "2 : 1",
-                "full_date": "2026-07-01T18:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Mexiko",
-                "team1_country": "mx",
-                "team2": "Ecuador",
-                "team2_country": "ec",
-                "date_str": "Mi, 1. Juli",
-                "time": "04:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "2 : 0",
-                "full_date": "2026-07-01T04:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Frankreich",
-                "team1_country": "fr",
-                "team2": "Schweden",
-                "team2_country": "se",
-                "date_str": "Di, 30. Juni",
-                "time": "23:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "3 : 0",
-                "full_date": "2026-06-30T23:00:00",
-                "group": null,
-                "type": "knockout"
             }
         ],
         "swiss_games": [
@@ -226,6 +240,20 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "2 : 0",
                 "full_date": "2026-07-03T05:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Schweiz",
+                "team1_country": "ch",
+                "team2": "Kolumbien",
+                "team2_country": "co",
+                "date_str": "Di, 7. Juli",
+                "time": "22:00",
+                "venue": "Last 16",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-07T22:00:00",
                 "group": null,
                 "type": "knockout"
             }
