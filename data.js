@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-07-04 14:10:09",
+    "last_updated": "2026-07-04 17:35:22",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/4f21c1.webp"
         },
         {
-            "title": "WM 2026: Vor 1. Achtelfinal - «Grauenvoller Albtraum»: Kanada fürchtet «Gigant» Marokko",
+            "title": "WM 2026: Vor 2. Achtelfinal - Einer wie Zidane? Warum Olise ein Anti-Fussballer ist",
             "date": "04.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1be9cab.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f47330.webp"
         }
     ],
     "schedule": {
@@ -51,8 +51,8 @@ const dashboardData = {
                 "date_str": "Sa, 4. Juli",
                 "time": "19:00",
                 "venue": "Last 16",
-                "state": "Planned",
-                "score": null,
+                "state": "Live",
+                "score": "0 : 0",
                 "full_date": "2026-07-04T19:00:00",
                 "group": null,
                 "type": "knockout"
