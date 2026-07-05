@@ -1,45 +1,47 @@
 const dashboardData = {
-    "last_updated": "2026-07-04 17:35:22",
+    "last_updated": "2026-07-05 07:24:26",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Programm in der Übersicht - Erste Achtelfinals mit Favorit Frankreich: Das läuft am Samstag",
-            "date": "04.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4f21c1.webp"
+            "title": "WM 2026: Achtelfinal PAR – FRA - Frankreich müht sich gegen Paraguay in den Viertelfinal",
+            "date": "05.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0b934a.webp"
         },
         {
-            "title": "WM 2026: Vor 2. Achtelfinal - Einer wie Zidane? Warum Olise ein Anti-Fussballer ist",
+            "title": "WM 2026: Achtelfinal CAN – MAR - Ounahi lässt Marokko jubeln und zieht Kanada den Stecker",
             "date": "04.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f47330.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/801fc8.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Argentinien",
-                "team1_country": "ar",
-                "team2": "Cape Verde Islands",
-                "team2_country": "",
-                "date_str": "Sa, 4. Juli",
-                "time": "00:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "3 : 2",
-                "full_date": "2026-07-04T00:00:00",
+                "team1": "Brasilien",
+                "team1_country": "br",
+                "team2": "Norwegen",
+                "team2_country": "no",
+                "date_str": "So, 5. Juli",
+                "time": "22:00",
+                "venue": "Last 16",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-05T22:00:00",
                 "group": null,
                 "type": "knockout"
-            },
+            }
+        ],
+        "past_results": [
             {
-                "team1": "Kolumbien",
-                "team1_country": "co",
-                "team2": "Ghana",
-                "team2_country": "gh",
+                "team1": "Paraguay",
+                "team1_country": "py",
+                "team2": "Frankreich",
+                "team2_country": "fr",
                 "date_str": "Sa, 4. Juli",
-                "time": "03:30",
-                "venue": "Last 32",
+                "time": "23:00",
+                "venue": "Last 16",
                 "state": "Finished",
-                "score": "1 : 0",
-                "full_date": "2026-07-04T03:30:00",
+                "score": "0 : 1",
+                "full_date": "2026-07-04T23:00:00",
                 "group": null,
                 "type": "knockout"
             },
@@ -51,28 +53,12 @@ const dashboardData = {
                 "date_str": "Sa, 4. Juli",
                 "time": "19:00",
                 "venue": "Last 16",
-                "state": "Live",
-                "score": "0 : 0",
+                "state": "Finished",
+                "score": "0 : 3",
                 "full_date": "2026-07-04T19:00:00",
                 "group": null,
                 "type": "knockout"
             },
-            {
-                "team1": "Paraguay",
-                "team1_country": "py",
-                "team2": "Frankreich",
-                "team2_country": "fr",
-                "date_str": "Sa, 4. Juli",
-                "time": "23:00",
-                "venue": "Last 16",
-                "state": "Planned",
-                "score": null,
-                "full_date": "2026-07-04T23:00:00",
-                "group": null,
-                "type": "knockout"
-            }
-        ],
-        "past_results": [
             {
                 "team1": "Kolumbien",
                 "team1_country": "co",
@@ -154,34 +140,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "3 : 0",
                 "full_date": "2026-07-02T21:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "USA",
-                "team1_country": "us",
-                "team2": "Bosnia-Herzegovina",
-                "team2_country": "",
-                "date_str": "Do, 2. Juli",
-                "time": "02:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "2 : 0",
-                "full_date": "2026-07-02T02:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Belgien",
-                "team1_country": "be",
-                "team2": "Senegal",
-                "team2_country": "sn",
-                "date_str": "Mi, 1. Juli",
-                "time": "22:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "3 : 2",
-                "full_date": "2026-07-01T22:00:00",
                 "group": null,
                 "type": "knockout"
             }
