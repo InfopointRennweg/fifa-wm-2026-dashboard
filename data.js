@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-05 09:26:34",
+    "last_updated": "2026-07-05 14:17:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Achtelfinal PAR – FRA - Frankreich müht sich gegen Paraguay in den Viertelfinal",
+            "title": "WM-1/8-Final: Dienstag, 22 Uhr - Viel Erfahrung, viel Klasse: Kolumbien wird zum echten Prüfstein",
             "date": "05.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0b934a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/7a849b5.webp"
         },
         {
-            "title": "WM 2026: Achtelfinal CAN – MAR - Ounahi lässt Marokko jubeln und zieht Kanada den Stecker",
+            "title": "WM 2026: Nati-Gegner bekannt - Die Schweiz trifft im Achtelfinal auf Kolumbien",
             "date": "04.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/801fc8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f633f2.webp"
         }
     ],
     "schedule": {
