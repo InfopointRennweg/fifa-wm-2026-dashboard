@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-06 08:19:32",
+    "last_updated": "2026-07-06 11:11:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Achtelfinal MEX – ENG - Mega-Spektakel im Aztekenstadion: England schaltet Mexiko aus",
+            "title": "WM-Programm in der Übersicht - Mit Schocker Portugal vs. Spanien: Das läuft am Montag",
             "date": "06.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f2feb4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e31fce.webp"
         },
         {
-            "title": "Nach Englands Sieg - Sturz beim Feiern: Henderson «schwer» verletzt im Spital",
+            "title": "WM 2026: Vor 5. WM-Achtelfinal - Rodri oder Vitinha: Wer lenkt sein Team in die Viertelfinals?",
             "date": "06.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/03a266.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a3c7ddb.webp"
         }
     ],
     "schedule": {
