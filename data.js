@@ -1,20 +1,64 @@
 const dashboardData = {
-    "last_updated": "2026-07-05 17:37:21",
+    "last_updated": "2026-07-06 08:19:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Programm in der Übersicht - Mit Brasilien und England: Das läuft am Sonntag und in der Nacht",
-            "date": "05.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5a2e04.webp"
+            "title": "WM 2026: Achtelfinal MEX – ENG - Mega-Spektakel im Aztekenstadion: England schaltet Mexiko aus",
+            "date": "06.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f2feb4.webp"
         },
         {
-            "title": "WM 2026: Vor 3. Achtelfinal - Brasiliens Respekt vor Norwegens «Riesen»",
-            "date": "05.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2957f2.webp"
+            "title": "Nach Englands Sieg - Sturz beim Feiern: Henderson «schwer» verletzt im Spital",
+            "date": "06.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/03a266.webp"
         }
     ],
     "schedule": {
         "today_games": [
+            {
+                "team1": "Mexiko",
+                "team1_country": "mx",
+                "team2": "England",
+                "team2_country": "gb-eng",
+                "date_str": "Mo, 6. Juli",
+                "time": "03:00",
+                "venue": "Last 16",
+                "state": "Finished",
+                "score": "2 : 3",
+                "full_date": "2026-07-06T03:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Portugal",
+                "team1_country": "pt",
+                "team2": "Spanien",
+                "team2_country": "es",
+                "date_str": "Mo, 6. Juli",
+                "time": "21:00",
+                "venue": "Last 16",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-06T21:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "Mexiko",
+                "team1_country": "mx",
+                "team2": "England",
+                "team2_country": "gb-eng",
+                "date_str": "Mo, 6. Juli",
+                "time": "03:00",
+                "venue": "Last 16",
+                "state": "Finished",
+                "score": "2 : 3",
+                "full_date": "2026-07-06T03:00:00",
+                "group": null,
+                "type": "knockout"
+            },
             {
                 "team1": "Brasilien",
                 "team1_country": "br",
@@ -23,14 +67,12 @@ const dashboardData = {
                 "date_str": "So, 5. Juli",
                 "time": "22:00",
                 "venue": "Last 16",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "1 : 2",
                 "full_date": "2026-07-05T22:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Paraguay",
                 "team1_country": "py",
@@ -112,34 +154,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "2 : 0",
                 "full_date": "2026-07-03T05:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Portugal",
-                "team1_country": "pt",
-                "team2": "Kroatien",
-                "team2_country": "hr",
-                "date_str": "Fr, 3. Juli",
-                "time": "01:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "2 : 1",
-                "full_date": "2026-07-03T01:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Spanien",
-                "team1_country": "es",
-                "team2": "Österreich",
-                "team2_country": "at",
-                "date_str": "Do, 2. Juli",
-                "time": "21:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "3 : 0",
-                "full_date": "2026-07-02T21:00:00",
                 "group": null,
                 "type": "knockout"
             }
