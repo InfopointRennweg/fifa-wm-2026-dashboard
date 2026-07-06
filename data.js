@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-06 11:11:35",
+    "last_updated": "2026-07-06 16:01:48",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Programm in der Übersicht - Mit Schocker Portugal vs. Spanien: Das läuft am Montag",
-            "date": "06.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e31fce.webp"
+            "title": "Trump persönlich intervenierte - Balogun-Sperre aufgehoben: Belgien ficht Fifa-Entscheid an",
+            "date": "05.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/05b635.webp"
         },
         {
-            "title": "WM 2026: Vor 5. WM-Achtelfinal - Rodri oder Vitinha: Wer lenkt sein Team in die Viertelfinals?",
+            "title": "Der Offensivspieler im Fokus - Kolumbien hat Luis Diaz – doch «der wahre Star ist das Team»",
             "date": "06.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a3c7ddb.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6cd53e.webp"
         }
     ],
     "schedule": {
