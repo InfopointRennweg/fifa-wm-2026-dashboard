@@ -1,11 +1,11 @@
 const dashboardData = {
-    "last_updated": "2026-07-07 15:26:51",
+    "last_updated": "2026-07-07 18:30:41",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fehlen Yakin 8 Skorerpunkte? - Abschlusstraining abgebrochen: Sorge um Manzambi, Vargas und Sow",
+            "title": "Vargas und Sow spielbereit - Knieprellung: Manzambi fehlt der Nati im WM-Achtelfinal",
             "date": "07.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2b4bf6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/96d5ae.webp"
         },
         {
             "title": "Umfrage vor 1/8-Final der Nati - Fast 80 Prozent glauben an Schweizer Sieg – stimmen Sie jetzt ab!",
@@ -37,8 +37,8 @@ const dashboardData = {
                 "date_str": "Di, 7. Juli",
                 "time": "18:00",
                 "venue": "Last 16",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "3 : 2",
                 "full_date": "2026-07-07T18:00:00",
                 "group": null,
                 "type": "knockout"
@@ -59,6 +59,20 @@ const dashboardData = {
             }
         ],
         "past_results": [
+            {
+                "team1": "Argentinien",
+                "team1_country": "ar",
+                "team2": "Ägypten",
+                "team2_country": "eg",
+                "date_str": "Di, 7. Juli",
+                "time": "18:00",
+                "venue": "Last 16",
+                "state": "Finished",
+                "score": "3 : 2",
+                "full_date": "2026-07-07T18:00:00",
+                "group": null,
+                "type": "knockout"
+            },
             {
                 "team1": "USA",
                 "team1_country": "us",
@@ -154,20 +168,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "1 : 0",
                 "full_date": "2026-07-04T03:30:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Argentinien",
-                "team1_country": "ar",
-                "team2": "Cape Verde Islands",
-                "team2_country": "",
-                "date_str": "Sa, 4. Juli",
-                "time": "00:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "3 : 2",
-                "full_date": "2026-07-04T00:00:00",
                 "group": null,
                 "type": "knockout"
             }
