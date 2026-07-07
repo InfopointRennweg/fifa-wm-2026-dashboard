@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-07-07 07:36:18",
+    "last_updated": "2026-07-07 10:05:06",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/2b4bf6.webp"
         },
         {
-            "title": "Vor WM-Achtelfinal vs. COL - Yakin: «Es wird das wohl härteste Spiel bislang»",
+            "title": "Umfrage vor 1/8-Final der Nati - 80 Prozent glauben an Schweizer Sieg – stimmen Sie jetzt ab!",
             "date": "07.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e53afe.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1ac27a.webp"
         }
     ],
     "schedule": {
