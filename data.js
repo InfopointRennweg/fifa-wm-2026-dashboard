@@ -1,31 +1,75 @@
 const dashboardData = {
-    "last_updated": "2026-07-06 18:26:55",
+    "last_updated": "2026-07-07 07:36:18",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Programm in der Übersicht - Mit Schocker Portugal vs. Spanien: Das läuft am Montag",
-            "date": "06.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e31fce.webp"
+            "title": "Fehlen Yakin 8 Skorerpunkte? - Abschlusstraining abgebrochen: Sorge um Manzambi, Vargas und Sow",
+            "date": "07.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2b4bf6.webp"
         },
         {
-            "title": "WM 2026: Vor 5. WM-Achtelfinal - Rodri oder Vitinha: Wer lenkt sein Team in die Viertelfinals?",
-            "date": "06.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a3c7ddb.webp"
+            "title": "Vor WM-Achtelfinal vs. COL - Yakin: «Es wird das wohl härteste Spiel bislang»",
+            "date": "07.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e53afe.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Mexiko",
-                "team1_country": "mx",
-                "team2": "England",
-                "team2_country": "gb-eng",
-                "date_str": "Mo, 6. Juli",
-                "time": "03:00",
+                "team1": "USA",
+                "team1_country": "us",
+                "team2": "Belgien",
+                "team2_country": "be",
+                "date_str": "Di, 7. Juli",
+                "time": "02:00",
                 "venue": "Last 16",
                 "state": "Finished",
-                "score": "2 : 3",
-                "full_date": "2026-07-06T03:00:00",
+                "score": "1 : 4",
+                "full_date": "2026-07-07T02:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Argentinien",
+                "team1_country": "ar",
+                "team2": "Ägypten",
+                "team2_country": "eg",
+                "date_str": "Di, 7. Juli",
+                "time": "18:00",
+                "venue": "Last 16",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-07T18:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Schweiz",
+                "team1_country": "ch",
+                "team2": "Kolumbien",
+                "team2_country": "co",
+                "date_str": "Di, 7. Juli",
+                "time": "22:00",
+                "venue": "Last 16",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-07T22:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "USA",
+                "team1_country": "us",
+                "team2": "Belgien",
+                "team2_country": "be",
+                "date_str": "Di, 7. Juli",
+                "time": "02:00",
+                "venue": "Last 16",
+                "state": "Finished",
+                "score": "1 : 4",
+                "full_date": "2026-07-07T02:00:00",
                 "group": null,
                 "type": "knockout"
             },
@@ -37,14 +81,12 @@ const dashboardData = {
                 "date_str": "Mo, 6. Juli",
                 "time": "21:00",
                 "venue": "Last 16",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "0 : 1",
                 "full_date": "2026-07-06T21:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Mexiko",
                 "team1_country": "mx",
@@ -126,34 +168,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "3 : 2",
                 "full_date": "2026-07-04T00:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Australien",
-                "team1_country": "au",
-                "team2": "Ägypten",
-                "team2_country": "eg",
-                "date_str": "Fr, 3. Juli",
-                "time": "20:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "3 : 5",
-                "full_date": "2026-07-03T20:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Schweiz",
-                "team1_country": "ch",
-                "team2": "Algerien",
-                "team2_country": "dz",
-                "date_str": "Fr, 3. Juli",
-                "time": "05:00",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "2 : 0",
-                "full_date": "2026-07-03T05:00:00",
                 "group": null,
                 "type": "knockout"
             }
