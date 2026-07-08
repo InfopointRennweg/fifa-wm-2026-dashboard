@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-08 09:04:42",
+    "last_updated": "2026-07-08 14:56:49",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nervenstarke Joker vom Punkt - Yakin mit dem besseren Händchen als damals Kuhn",
+            "date": "08.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/dc4d8c.webp"
+        },
         {
             "title": "Zum Sieg gegen Kolumbien - Die Schweiz kann's auch «dreckig»",
             "date": "08.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/c4ef72.webp"
-        },
-        {
-            "title": "Medienecho zum Nati-Erfolg - Überwundenes «Penalty-Trauma» und Kampfansage an Messi und Co.",
-            "date": "08.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/30e9bf3.webp"
         }
     ],
     "schedule": {
