@@ -1,48 +1,36 @@
 const dashboardData = {
-    "last_updated": "2026-07-07 18:30:41",
+    "last_updated": "2026-07-08 06:27:17",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vargas und Sow spielbereit - Knieprellung: Manzambi fehlt der Nati im WM-Achtelfinal",
-            "date": "07.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/96d5ae.webp"
+            "title": "WM 2026: Achtelfinal SUI-COL - Nerven aus Stahl: Vargas schiesst die Nati in den WM-Viertelfinal",
+            "date": "08.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0db784.webp"
         },
         {
-            "title": "Umfrage vor 1/8-Final der Nati - Fast 80 Prozent glauben an Schweizer Sieg – stimmen Sie jetzt ab!",
-            "date": "07.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1ac27a.webp"
+            "title": "Viertelfinal vs. Argentinien - Nächster Halt Kansas City: So geht es für die Nati weiter",
+            "date": "08.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d0392e.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "USA",
-                "team1_country": "us",
-                "team2": "Belgien",
-                "team2_country": "be",
-                "date_str": "Di, 7. Juli",
-                "time": "02:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "1 : 4",
-                "full_date": "2026-07-07T02:00:00",
+                "team1": "Frankreich",
+                "team1_country": "fr",
+                "team2": "Marokko",
+                "team2_country": "ma",
+                "date_str": "Do, 9. Juli",
+                "time": "22:00",
+                "venue": "Quarter Finals",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-09T22:00:00",
                 "group": null,
                 "type": "knockout"
-            },
-            {
-                "team1": "Argentinien",
-                "team1_country": "ar",
-                "team2": "Ägypten",
-                "team2_country": "eg",
-                "date_str": "Di, 7. Juli",
-                "time": "18:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "3 : 2",
-                "full_date": "2026-07-07T18:00:00",
-                "group": null,
-                "type": "knockout"
-            },
+            }
+        ],
+        "past_results": [
             {
                 "team1": "Schweiz",
                 "team1_country": "ch",
@@ -51,14 +39,12 @@ const dashboardData = {
                 "date_str": "Di, 7. Juli",
                 "time": "22:00",
                 "venue": "Last 16",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "4 : 3",
                 "full_date": "2026-07-07T22:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Argentinien",
                 "team1_country": "ar",
@@ -156,20 +142,6 @@ const dashboardData = {
                 "full_date": "2026-07-04T19:00:00",
                 "group": null,
                 "type": "knockout"
-            },
-            {
-                "team1": "Kolumbien",
-                "team1_country": "co",
-                "team2": "Ghana",
-                "team2_country": "gh",
-                "date_str": "Sa, 4. Juli",
-                "time": "03:30",
-                "venue": "Last 32",
-                "state": "Finished",
-                "score": "1 : 0",
-                "full_date": "2026-07-04T03:30:00",
-                "group": null,
-                "type": "knockout"
             }
         ],
         "swiss_games": [
@@ -237,9 +209,23 @@ const dashboardData = {
                 "date_str": "Di, 7. Juli",
                 "time": "22:00",
                 "venue": "Last 16",
+                "state": "Finished",
+                "score": "4 : 3",
+                "full_date": "2026-07-07T22:00:00",
+                "group": null,
+                "type": "knockout"
+            },
+            {
+                "team1": "Argentinien",
+                "team1_country": "ar",
+                "team2": "Schweiz",
+                "team2_country": "ch",
+                "date_str": "So, 12. Juli",
+                "time": "03:00",
+                "venue": "Quarter Finals",
                 "state": "Planned",
                 "score": null,
-                "full_date": "2026-07-07T22:00:00",
+                "full_date": "2026-07-12T03:00:00",
                 "group": null,
                 "type": "knockout"
             }
