@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-08 06:27:17",
+    "last_updated": "2026-07-08 09:04:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Achtelfinal SUI-COL - Nerven aus Stahl: Vargas schiesst die Nati in den WM-Viertelfinal",
+            "title": "Zum Sieg gegen Kolumbien - Die Schweiz kann's auch «dreckig»",
             "date": "08.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0db784.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c4ef72.webp"
         },
         {
-            "title": "Viertelfinal vs. Argentinien - Nächster Halt Kansas City: So geht es für die Nati weiter",
+            "title": "Medienecho zum Nati-Erfolg - Überwundenes «Penalty-Trauma» und Kampfansage an Messi und Co.",
             "date": "08.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d0392e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/30e9bf3.webp"
         }
     ],
     "schedule": {
