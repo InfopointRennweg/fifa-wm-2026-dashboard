@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-08 18:01:01",
+    "last_updated": "2026-07-09 07:41:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nervenstarke Joker vom Punkt - Yakin mit dem besseren Händchen als damals Kuhn",
+            "title": "WM 2026: Nati-Vorbereitung - Callà: «Unsere medizinische Abteilung ist nun gefordert»",
             "date": "08.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dc4d8c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8d7b57.webp"
         },
         {
-            "title": "Zum Sieg gegen Kolumbien - Die Schweiz kann's auch «dreckig»",
+            "title": "Viertelfinal vs. Argentinien - Nächster Halt Kansas City: So geht es für die Nati weiter",
             "date": "08.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c4ef72.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d0392e.webp"
         }
     ],
     "schedule": {
