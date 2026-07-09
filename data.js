@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-09 15:42:13",
+    "last_updated": "2026-07-09 18:17:58",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Topleistungen an der WM - Wie Gregor Kobel aus Yann Sommers Schatten hechtet",
+            "title": "Vor WM-Viertelfinal ARG-SUI - Magier mit Schwächen: Beenden die Schweizer Messis WM-Karriere?",
             "date": "09.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2fe98f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/484d18.webp"
         },
         {
-            "title": "WM 2026: Nati-Vorbereitung - Callà: «Unsere medizinische Abteilung ist nun gefordert»",
-            "date": "08.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8d7b57.webp"
+            "title": "Fussball-Podcast Sykora Gisler - «Jetzt ist wirklich etwas Grosses greifbar»",
+            "date": "17.03.2023",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b36570.webp"
         }
     ],
     "schedule": {
