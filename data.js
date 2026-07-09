@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-09 07:41:00",
+    "last_updated": "2026-07-09 10:03:08",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Topleistungen an der WM - Wie Gregor Kobel aus Yann Sommers Schatten hechtet",
+            "date": "09.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2fe98f.webp"
+        },
         {
             "title": "WM 2026: Nati-Vorbereitung - Callà: «Unsere medizinische Abteilung ist nun gefordert»",
             "date": "08.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/8d7b57.webp"
-        },
-        {
-            "title": "Viertelfinal vs. Argentinien - Nächster Halt Kansas City: So geht es für die Nati weiter",
-            "date": "08.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d0392e.webp"
         }
     ],
     "schedule": {
