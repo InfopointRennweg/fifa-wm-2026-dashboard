@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-07-10 07:33:52",
+    "last_updated": "2026-07-10 09:58:59",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/aff4ec.webp"
         },
         {
-            "title": "25 WM-Einsätze als Trainer - Deschamps holt WM-Rekordtrainer Schön ein – und wird ihn ablösen",
+            "title": "Nach Aus gegen Frankreich - Marokko richtet die Augen bereits auf die Heim-WM 2030",
             "date": "10.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/569730.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1d85739.webp"
         }
     ],
     "schedule": {
