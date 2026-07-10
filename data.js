@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-10 15:13:47",
+    "last_updated": "2026-07-10 18:08:19",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "WM 2026: Bittere Nati-News - Manzambi fällt auch gegen Argentinien verletzt aus",
+            "date": "10.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/13d5f3.webp"
+        },
         {
             "title": "Spurensuche in Münchenstein - Murat Yakin: Die Basis zum Erfolg wurde früh gelegt",
             "date": "10.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/74a9bf.webp"
-        },
-        {
-            "title": "72 Jahre nach Hitzeschlacht - 12 Tore dürften es in Kansas City kaum werden",
-            "date": "10.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c42728.webp"
         }
     ],
     "schedule": {
