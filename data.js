@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-10 09:58:59",
+    "last_updated": "2026-07-10 15:13:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: 1/4-Final FRA – MAR - Nach Penalty-Fehlschuss: Mbappé erlöst Frankreich mit 20. WM-Goal",
+            "title": "Spurensuche in Münchenstein - Murat Yakin: Die Basis zum Erfolg wurde früh gelegt",
             "date": "10.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/aff4ec.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/74a9bf.webp"
         },
         {
-            "title": "Nach Aus gegen Frankreich - Marokko richtet die Augen bereits auf die Heim-WM 2030",
+            "title": "72 Jahre nach Hitzeschlacht - 12 Tore dürften es in Kansas City kaum werden",
             "date": "10.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1d85739.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c42728.webp"
         }
     ],
     "schedule": {
