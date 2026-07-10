@@ -1,20 +1,36 @@
 const dashboardData = {
-    "last_updated": "2026-07-09 18:17:58",
+    "last_updated": "2026-07-10 07:33:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor WM-Viertelfinal ARG-SUI - Magier mit Schwächen: Beenden die Schweizer Messis WM-Karriere?",
-            "date": "09.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/484d18.webp"
+            "title": "WM 2026: 1/4-Final FRA – MAR - Nach Penalty-Fehlschuss: Mbappé erlöst Frankreich mit 20. WM-Goal",
+            "date": "10.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/aff4ec.webp"
         },
         {
-            "title": "Fussball-Podcast Sykora Gisler - «Jetzt ist wirklich etwas Grosses greifbar»",
-            "date": "17.03.2023",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b36570.webp"
+            "title": "25 WM-Einsätze als Trainer - Deschamps holt WM-Rekordtrainer Schön ein – und wird ihn ablösen",
+            "date": "10.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/569730.webp"
         }
     ],
     "schedule": {
         "today_games": [
+            {
+                "team1": "Spanien",
+                "team1_country": "es",
+                "team2": "Belgien",
+                "team2_country": "be",
+                "date_str": "Fr, 10. Juli",
+                "time": "21:00",
+                "venue": "Quarter Finals",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-10T21:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
             {
                 "team1": "Frankreich",
                 "team1_country": "fr",
@@ -23,14 +39,12 @@ const dashboardData = {
                 "date_str": "Do, 9. Juli",
                 "time": "22:00",
                 "venue": "Quarter Finals",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "2 : 0",
                 "full_date": "2026-07-09T22:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Schweiz",
                 "team1_country": "ch",
@@ -126,20 +140,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "0 : 1",
                 "full_date": "2026-07-04T23:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Kanada",
-                "team1_country": "ca",
-                "team2": "Marokko",
-                "team2_country": "ma",
-                "date_str": "Sa, 4. Juli",
-                "time": "19:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "0 : 3",
-                "full_date": "2026-07-04T19:00:00",
                 "group": null,
                 "type": "knockout"
             }
