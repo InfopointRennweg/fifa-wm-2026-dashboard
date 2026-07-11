@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-11 08:18:48",
+    "last_updated": "2026-07-11 14:02:04",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: 1/4-Final ESP – BEL - Wieder Merino, wieder spät: Spanien steht im Halbfinal",
-            "date": "10.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2334450.webp"
+            "title": "12 Jahre nach Fehlschuss - Dzemaili: «Auch für mich wäre eine Revanche eine Genugtuung»",
+            "date": "11.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8f3f8d.webp"
         },
         {
-            "title": "Belgiens unglückliches WM-Aus - Nach «letztem Hurra»: Riesige Enttäuschung bei Courtois und Co.",
+            "title": "Arrowhead in Kansas City - Willkommen im lautesten Stadion der Welt",
             "date": "11.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6d1963.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f44832.webp"
         }
     ],
     "schedule": {
