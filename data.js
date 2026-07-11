@@ -1,20 +1,36 @@
 const dashboardData = {
-    "last_updated": "2026-07-10 18:08:19",
+    "last_updated": "2026-07-11 06:11:51",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Bittere Nati-News - Manzambi fällt auch gegen Argentinien verletzt aus",
+            "title": "WM 2026: 1/4-Final ESP – BEL - Wieder Merino, wieder spät: Spanien steht im Halbfinal",
             "date": "10.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/13d5f3.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2334450.webp"
         },
         {
-            "title": "Spurensuche in Münchenstein - Murat Yakin: Die Basis zum Erfolg wurde früh gelegt",
+            "title": "Reprise von der EM - Der 1. WM-Halbfinal steht fest",
             "date": "10.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/74a9bf.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/57b5e6.webp"
         }
     ],
     "schedule": {
         "today_games": [
+            {
+                "team1": "Norwegen",
+                "team1_country": "no",
+                "team2": "England",
+                "team2_country": "gb-eng",
+                "date_str": "Sa, 11. Juli",
+                "time": "23:00",
+                "venue": "Quarter Finals",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-11T23:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
             {
                 "team1": "Spanien",
                 "team1_country": "es",
@@ -23,14 +39,12 @@ const dashboardData = {
                 "date_str": "Fr, 10. Juli",
                 "time": "21:00",
                 "venue": "Quarter Finals",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "2 : 1",
                 "full_date": "2026-07-10T21:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Frankreich",
                 "team1_country": "fr",
@@ -126,20 +140,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "1 : 2",
                 "full_date": "2026-07-05T22:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Paraguay",
-                "team1_country": "py",
-                "team2": "Frankreich",
-                "team2_country": "fr",
-                "date_str": "Sa, 4. Juli",
-                "time": "23:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "0 : 1",
-                "full_date": "2026-07-04T23:00:00",
                 "group": null,
                 "type": "knockout"
             }
