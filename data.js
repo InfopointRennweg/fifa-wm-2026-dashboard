@@ -1,11 +1,11 @@
 const dashboardData = {
-    "last_updated": "2026-07-11 14:02:04",
+    "last_updated": "2026-07-11 17:30:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "12 Jahre nach Fehlschuss - Dzemaili: «Auch für mich wäre eine Revanche eine Genugtuung»",
+            "title": "Grosse Zuversicht vor Kracher - Drei Viertel der SRF-User sehen die Nati im Halbfinal – und Sie?",
             "date": "11.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8f3f8d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/579800.webp"
         },
         {
             "title": "Arrowhead in Kansas City - Willkommen im lautesten Stadion der Welt",
