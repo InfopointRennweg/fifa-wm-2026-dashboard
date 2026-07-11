@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-07-11 06:11:51",
+    "last_updated": "2026-07-11 08:18:48",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/2334450.webp"
         },
         {
-            "title": "Reprise von der EM - Der 1. WM-Halbfinal steht fest",
-            "date": "10.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/57b5e6.webp"
+            "title": "Belgiens unglückliches WM-Aus - Nach «letztem Hurra»: Riesige Enttäuschung bei Courtois und Co.",
+            "date": "11.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6d1963.webp"
         }
     ],
     "schedule": {
