@@ -1,20 +1,50 @@
 const dashboardData = {
-    "last_updated": "2026-07-11 17:30:42",
+    "last_updated": "2026-07-12 06:31:36",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Grosse Zuversicht vor Kracher - Drei Viertel der SRF-User sehen die Nati im Halbfinal – und Sie?",
-            "date": "11.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/579800.webp"
+            "title": "WM 2026: Viertelfinal ARG-SUI - Embolos Schwalbe ist zu viel: Nati-Traum platzt gegen Argentinien",
+            "date": "12.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/73f758.webp"
         },
         {
-            "title": "Arrowhead in Kansas City - Willkommen im lautesten Stadion der Welt",
-            "date": "11.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f44832.webp"
+            "title": "Rating Argentinien – Schweiz - Welche Nati-Spieler überzeugten im WM-Viertelfinal?",
+            "date": "12.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/c54662.webp"
         }
     ],
     "schedule": {
         "today_games": [
+            {
+                "team1": "Argentinien",
+                "team1_country": "ar",
+                "team2": "Schweiz",
+                "team2_country": "ch",
+                "date_str": "So, 12. Juli",
+                "time": "03:00",
+                "venue": "Quarter Finals",
+                "state": "Finished",
+                "score": "3 : 1",
+                "full_date": "2026-07-12T03:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
+            {
+                "team1": "Argentinien",
+                "team1_country": "ar",
+                "team2": "Schweiz",
+                "team2_country": "ch",
+                "date_str": "So, 12. Juli",
+                "time": "03:00",
+                "venue": "Quarter Finals",
+                "state": "Finished",
+                "score": "3 : 1",
+                "full_date": "2026-07-12T03:00:00",
+                "group": null,
+                "type": "knockout"
+            },
             {
                 "team1": "Norwegen",
                 "team1_country": "no",
@@ -23,14 +53,12 @@ const dashboardData = {
                 "date_str": "Sa, 11. Juli",
                 "time": "23:00",
                 "venue": "Quarter Finals",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "1 : 2",
                 "full_date": "2026-07-11T23:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Spanien",
                 "team1_country": "es",
@@ -114,34 +142,6 @@ const dashboardData = {
                 "full_date": "2026-07-06T21:00:00",
                 "group": null,
                 "type": "knockout"
-            },
-            {
-                "team1": "Mexiko",
-                "team1_country": "mx",
-                "team2": "England",
-                "team2_country": "gb-eng",
-                "date_str": "Mo, 6. Juli",
-                "time": "03:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "2 : 3",
-                "full_date": "2026-07-06T03:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Brasilien",
-                "team1_country": "br",
-                "team2": "Norwegen",
-                "team2_country": "no",
-                "date_str": "So, 5. Juli",
-                "time": "22:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "1 : 2",
-                "full_date": "2026-07-05T22:00:00",
-                "group": null,
-                "type": "knockout"
             }
         ],
         "swiss_games": [
@@ -223,8 +223,8 @@ const dashboardData = {
                 "date_str": "So, 12. Juli",
                 "time": "03:00",
                 "venue": "Quarter Finals",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "3 : 1",
                 "full_date": "2026-07-12T03:00:00",
                 "group": null,
                 "type": "knockout"
