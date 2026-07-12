@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-12 08:37:01",
+    "last_updated": "2026-07-12 14:06:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Viertelfinal ARG-SUI - Embolos Schwalbe ist zu viel: Nati-Traum platzt gegen Argentinien",
+            "title": "Die Medien zum WM-Out der Nati - Eine «peinliche rote Karte» oder eine, «die vom Himmel fällt»?",
             "date": "12.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/73f758.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0f6f7e2.webp"
         },
         {
-            "title": "Rating Argentinien – Schweiz - Welche Nati-Spieler überzeugten im WM-Viertelfinal?",
+            "title": "Mitspieler sprechen ihm Mut zu - Embolos WM: Unrühmlicher Anfang, unrühmliches Ende",
             "date": "12.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c54662.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c61b76c.webp"
         }
     ],
     "schedule": {
