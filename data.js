@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-13 09:52:33",
+    "last_updated": "2026-07-13 15:23:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Viertelfinal-Out - Von 3 bis 6: Das sind die Schweizer WM-Noten",
+            "title": "Junge sollen eingebaut werden - Kaum Rücktritte: So sieht Yakins Nati-Plan für die Zukunft aus",
             "date": "13.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ab1458.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8ae679.webp"
         },
         {
-            "title": "Unter allen Nati-Trainern - Nach doppeltem Viertelfinal-Einzug: Jetzt ist Yakin die Nummer 1",
+            "title": "Nach der WM 2026 - Schwierige EM-Quali droht: Schweiz in Nations League gefordert",
             "date": "13.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e7d0a7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/cb0a47.webp"
         }
     ],
     "schedule": {
