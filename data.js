@@ -1,31 +1,31 @@
 const dashboardData = {
-    "last_updated": "2026-07-12 17:33:26",
+    "last_updated": "2026-07-13 06:51:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Die Medien zum WM-Out der Nati - Eine «peinliche rote Karte» oder eine, «die vom Himmel fällt»?",
-            "date": "12.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0f6f7e2.webp"
+            "title": "Nach Viertelfinal-Out - Von 3 bis 6: Das sind die Schweizer WM-Noten",
+            "date": "13.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ab1458.webp"
         },
         {
-            "title": "Mitspieler sprechen ihm Mut zu - Embolos WM: Unrühmlicher Anfang, unrühmliches Ende",
+            "title": "Abschluss-Medienkonferenz - Am Ende überwiegt der Stolz",
             "date": "12.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c61b76c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8a77dd.webp"
         }
     ],
     "schedule": {
         "today_games": [
             {
-                "team1": "Argentinien",
-                "team1_country": "ar",
-                "team2": "Schweiz",
-                "team2_country": "ch",
-                "date_str": "So, 12. Juli",
-                "time": "03:00",
-                "venue": "Quarter Finals",
-                "state": "Finished",
-                "score": "3 : 1",
-                "full_date": "2026-07-12T03:00:00",
+                "team1": "Frankreich",
+                "team1_country": "fr",
+                "team2": "Spanien",
+                "team2_country": "es",
+                "date_str": "Di, 14. Juli",
+                "time": "21:00",
+                "venue": "Semi Finals",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-14T21:00:00",
                 "group": null,
                 "type": "knockout"
             }
