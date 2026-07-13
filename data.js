@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-07-13 06:51:52",
+    "last_updated": "2026-07-13 09:52:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/ab1458.webp"
         },
         {
-            "title": "Abschluss-Medienkonferenz - Am Ende überwiegt der Stolz",
-            "date": "12.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8a77dd.webp"
+            "title": "Unter allen Nati-Trainern - Nach doppeltem Viertelfinal-Einzug: Jetzt ist Yakin die Nummer 1",
+            "date": "13.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e7d0a7.webp"
         }
     ],
     "schedule": {
