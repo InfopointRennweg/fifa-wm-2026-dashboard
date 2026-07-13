@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-13 15:23:47",
+    "last_updated": "2026-07-13 18:17:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Klub-Wechsel zeichnen sich ab - Gleich mehrere Nati-Spieler sind auf dem Absprung",
+            "date": "13.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4c317d.webp"
+        },
         {
             "title": "Junge sollen eingebaut werden - Kaum Rücktritte: So sieht Yakins Nati-Plan für die Zukunft aus",
             "date": "13.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/8ae679.webp"
-        },
-        {
-            "title": "Nach der WM 2026 - Schwierige EM-Quali droht: Schweiz in Nations League gefordert",
-            "date": "13.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cb0a47.webp"
         }
     ],
     "schedule": {
