@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-14 08:33:42",
+    "last_updated": "2026-07-14 14:25:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Empfang auf Turbinenplatz - Tausende Fans bejubeln die Schweizer WM-Helden in Zürich",
+            "date": "14.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/208e16.webp"
+        },
         {
             "title": "Klub-Wechsel zeichnen sich ab - Gleich mehrere Nati-Spieler sind auf dem Absprung",
             "date": "13.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/4c317d.webp"
-        },
-        {
-            "title": "Junge sollen eingebaut werden - Kaum Rücktritte: So sieht Yakins Nati-Plan für die Zukunft aus",
-            "date": "13.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8ae679.webp"
         }
     ],
     "schedule": {
