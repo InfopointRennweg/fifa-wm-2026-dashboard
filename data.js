@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-07-15 06:12:24",
+    "last_updated": "2026-07-15 08:41:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/30de7d4.webp"
         },
         {
-            "title": "Ende einer Trainer-Ära - Genervter Deschamps scheitert am spanischen Bollwerk",
-            "date": "14.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/06df54.webp"
+            "title": "Pressestimmen zum 1. Halbfinal - Spaniens «Lektion für die Welt», Frankreichs «Desaster in Dallas»",
+            "date": "15.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2befb72.webp"
         }
     ],
     "schedule": {
