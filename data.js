@@ -1,20 +1,36 @@
 const dashboardData = {
-    "last_updated": "2026-07-14 17:41:45",
+    "last_updated": "2026-07-15 06:12:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor WM-Halbfinal FRA-ESP - Spanien: Urvertrauen in eigene Stärke > Respekt vor Gegner",
-            "date": "13.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b6d656.webp"
+            "title": "WM-Halbfinal FRA – ESP - «Adieu, les Bleus»: Spanien lässt Frankreichs Titelträume platzen",
+            "date": "14.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/30de7d4.webp"
         },
         {
-            "title": "Vor Halbfinal gegen Spanien - Olise: «Auf einem anderen Planeten» – und bald bei Real?",
-            "date": "13.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/151d17.webp"
+            "title": "Ende einer Trainer-Ära - Genervter Deschamps scheitert am spanischen Bollwerk",
+            "date": "14.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/06df54.webp"
         }
     ],
     "schedule": {
         "today_games": [
+            {
+                "team1": "England",
+                "team1_country": "gb-eng",
+                "team2": "Argentinien",
+                "team2_country": "ar",
+                "date_str": "Mi, 15. Juli",
+                "time": "21:00",
+                "venue": "Semi Finals",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-15T21:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
             {
                 "team1": "Frankreich",
                 "team1_country": "fr",
@@ -23,14 +39,12 @@ const dashboardData = {
                 "date_str": "Di, 14. Juli",
                 "time": "21:00",
                 "venue": "Semi Finals",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "0 : 2",
                 "full_date": "2026-07-14T21:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Argentinien",
                 "team1_country": "ar",
@@ -126,20 +140,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "1 : 4",
                 "full_date": "2026-07-07T02:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Portugal",
-                "team1_country": "pt",
-                "team2": "Spanien",
-                "team2_country": "es",
-                "date_str": "Mo, 6. Juli",
-                "time": "21:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "0 : 1",
-                "full_date": "2026-07-06T21:00:00",
                 "group": null,
                 "type": "knockout"
             }
