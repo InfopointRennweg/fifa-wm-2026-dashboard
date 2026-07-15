@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-15 08:41:00",
+    "last_updated": "2026-07-15 14:21:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Halbfinal FRA – ESP - «Adieu, les Bleus»: Spanien lässt Frankreichs Titelträume platzen",
-            "date": "14.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/30de7d4.webp"
+            "title": "Vor Halbfinal ENG – ARG - «Keine bewaffnete Revanche»: Falkland-Veteranen mahnen",
+            "date": "15.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bb231d.webp"
         },
         {
-            "title": "Pressestimmen zum 1. Halbfinal - Spaniens «Lektion für die Welt», Frankreichs «Desaster in Dallas»",
-            "date": "15.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2befb72.webp"
+            "title": "WM 2026: Vor Halbfinal-Kracher - Bellingham vs. Tuchel – und nun im Kollektiv gegen Messi?",
+            "date": "14.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/cad145.webp"
         }
     ],
     "schedule": {
