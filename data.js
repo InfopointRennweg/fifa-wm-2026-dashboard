@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-16 14:34:04",
+    "last_updated": "2026-07-16 17:46:49",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Titelverteidiger mental stark - Kopfsache Fussball: Argentinien macht es weltmeisterlich",
+            "date": "16.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6ddf58.webp"
+        },
         {
             "title": "Bizarre Bilder im WM-Halbfinal - Argentinier schmunzeln über Pickfords Penalty-Spickzettel",
             "date": "16.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/8a49e7.webp"
-        },
-        {
-            "title": "2:1-Sieg gegen England - 2 Messi-Assists: Argentinien mit grosser Wende in den WM-Final",
-            "date": "15.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/32dd26.webp"
         }
     ],
     "schedule": {
