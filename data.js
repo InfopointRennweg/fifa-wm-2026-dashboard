@@ -1,20 +1,36 @@
 const dashboardData = {
-    "last_updated": "2026-07-15 17:48:20",
+    "last_updated": "2026-07-16 06:16:26",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor Halbfinal ENG – ARG - «Keine bewaffnete Revanche»: Falkland-Veteranen mahnen",
+            "title": "2:1-Sieg gegen England - 2 Messi-Assists: Argentinien mit grosser Wende in den WM-Final",
             "date": "15.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bb231d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/32dd26.webp"
         },
         {
-            "title": "WM 2026: Vor Halbfinal-Kracher - Bellingham vs. Tuchel – und nun im Kollektiv gegen Messi?",
-            "date": "14.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cad145.webp"
+            "title": "Argentiniens späte Tore - «Keine Arroganz»: Die Last-Minute-Experten schlagen wieder zu",
+            "date": "16.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/7f8668.webp"
         }
     ],
     "schedule": {
         "today_games": [
+            {
+                "team1": "Frankreich",
+                "team1_country": "fr",
+                "team2": "England",
+                "team2_country": "gb-eng",
+                "date_str": "Sa, 18. Juli",
+                "time": "23:00",
+                "venue": "Third Place",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-18T23:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
             {
                 "team1": "England",
                 "team1_country": "gb-eng",
@@ -23,14 +39,12 @@ const dashboardData = {
                 "date_str": "Mi, 15. Juli",
                 "time": "21:00",
                 "venue": "Semi Finals",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "1 : 2",
                 "full_date": "2026-07-15T21:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "Frankreich",
                 "team1_country": "fr",
@@ -126,20 +140,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "3 : 2",
                 "full_date": "2026-07-07T18:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "USA",
-                "team1_country": "us",
-                "team2": "Belgien",
-                "team2_country": "be",
-                "date_str": "Di, 7. Juli",
-                "time": "02:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "1 : 4",
-                "full_date": "2026-07-07T02:00:00",
                 "group": null,
                 "type": "knockout"
             }
