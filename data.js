@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-17 08:32:59",
+    "last_updated": "2026-07-17 14:13:09",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Aufsteiger von Spanien - Pedro Porro: Es drohte die Horror-, nun winkt die Märchen-Saison",
+            "title": "Schiedsrichter-Experte - Amhof: «Visionen von Fifa und Uefa gehen in andere Richtungen»",
             "date": "17.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d0efb6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f12c04.webp"
         },
         {
-            "title": "Spezielle Traineraffiche - Im WM-Final: Lehrmeister de la Fuente trifft auf Schüler Scaloni",
+            "title": "Die Entdeckungen der WM 2026 - Eine Menge reifer Teenager und ein hoffnungsvoller Oldie",
             "date": "17.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bcd339.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/eb5bdb.webp"
         }
     ],
     "schedule": {
