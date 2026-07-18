@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-07-18 08:16:19",
+    "last_updated": "2026-07-18 13:58:15",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/bcb0d08.webp"
         },
         {
-            "title": "Schiedsrichter-Experte - Amhof: «Visionen von Fifa und Uefa gehen in andere Richtungen»",
-            "date": "17.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f12c04.webp"
+            "title": "Spanien – Argentinien im Final - «Mehr als Messi» gegen Yamal und Co.: Alles ist angerichtet",
+            "date": "18.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f0e9a0.webp"
         }
     ],
     "schedule": {
