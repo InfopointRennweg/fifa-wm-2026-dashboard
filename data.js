@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-18 06:04:08",
+    "last_updated": "2026-07-18 08:16:19",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "WM: Kleiner Final am Samstag - Das ungewollte Spiel: Frankreich, England und der Trostpreis",
+            "date": "18.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bcb0d08.webp"
+        },
         {
             "title": "Schiedsrichter-Experte - Amhof: «Visionen von Fifa und Uefa gehen in andere Richtungen»",
             "date": "17.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/f12c04.webp"
-        },
-        {
-            "title": "Die Entdeckungen der WM 2026 - Eine Menge reifer Teenager und ein hoffnungsvoller Oldie",
-            "date": "17.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/eb5bdb.webp"
         }
     ],
     "schedule": {
