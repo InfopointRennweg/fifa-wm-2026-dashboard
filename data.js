@@ -1,20 +1,36 @@
 const dashboardData = {
-    "last_updated": "2026-07-18 17:31:39",
+    "last_updated": "2026-07-19 06:29:04",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM: Kleiner Final am Samstag - Das ungewollte Spiel: Frankreich, England und der Trostpreis",
-            "date": "18.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bcb0d08.webp"
+            "title": "WM 2026: Spiel um Platz 3 - 4:0, 4:3, 6:4 – England bezwingt Frankreich in wahnsinnigem Duell",
+            "date": "19.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ab8d88.webp"
         },
         {
-            "title": "News zur WM 2026 - Land unter: Spanien muss Abschlusstraining absagen",
-            "date": "18.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b3cb63f.webp"
+            "title": "WM 2026: Nach Spiel um Platz 3 - Deschamps' «wunderschönes Erlebnis» – Tuchels grosses Kompliment",
+            "date": "19.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ba0775.webp"
         }
     ],
     "schedule": {
         "today_games": [
+            {
+                "team1": "Spanien",
+                "team1_country": "es",
+                "team2": "Argentinien",
+                "team2_country": "ar",
+                "date_str": "So, 19. Juli",
+                "time": "21:00",
+                "venue": "Final",
+                "state": "Planned",
+                "score": null,
+                "full_date": "2026-07-19T21:00:00",
+                "group": null,
+                "type": "knockout"
+            }
+        ],
+        "past_results": [
             {
                 "team1": "Frankreich",
                 "team1_country": "fr",
@@ -23,14 +39,12 @@ const dashboardData = {
                 "date_str": "Sa, 18. Juli",
                 "time": "23:00",
                 "venue": "Third Place",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "4 : 6",
                 "full_date": "2026-07-18T23:00:00",
                 "group": null,
                 "type": "knockout"
-            }
-        ],
-        "past_results": [
+            },
             {
                 "team1": "England",
                 "team1_country": "gb-eng",
@@ -126,20 +140,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "4 : 3",
                 "full_date": "2026-07-07T22:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Argentinien",
-                "team1_country": "ar",
-                "team2": "Ägypten",
-                "team2_country": "eg",
-                "date_str": "Di, 7. Juli",
-                "time": "18:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "3 : 2",
-                "full_date": "2026-07-07T18:00:00",
                 "group": null,
                 "type": "knockout"
             }
