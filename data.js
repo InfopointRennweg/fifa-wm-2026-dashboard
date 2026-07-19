@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-19 08:41:47",
+    "last_updated": "2026-07-19 14:03:31",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM 2026: Spiel um Platz 3 - 4:0, 4:3, 6:4 – England bezwingt Frankreich in wahnsinnigem Duell",
-            "date": "19.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ab8d88.webp"
+            "title": "News zur WM 2026 - Land unter: Spanien muss Abschlusstraining absagen",
+            "date": "18.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b3cb63f.webp"
         },
         {
-            "title": "WM 2026: Nach Spiel um Platz 3 - Deschamps' «wunderschönes Erlebnis» – Tuchels grosses Kompliment",
-            "date": "19.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ba0775.webp"
+            "title": "Spanien – Argentinien im Final - «Mehr als Messi» gegen Yamal und Co.: Alles ist angerichtet",
+            "date": "18.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f0e9a0.webp"
         }
     ],
     "schedule": {
