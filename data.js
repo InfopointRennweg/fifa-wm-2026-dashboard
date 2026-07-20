@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-19 17:32:11",
+    "last_updated": "2026-07-20 06:44:03",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News zur WM 2026 - Land unter: Spanien muss Abschlusstraining absagen",
-            "date": "18.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b3cb63f.webp"
+            "title": "Final WM 2026 - Joker Torres erlöst «La Roja»: Spanien ist Weltmeister!",
+            "date": "20.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0614600.webp"
         },
         {
-            "title": "Spanien – Argentinien im Final - «Mehr als Messi» gegen Yamal und Co.: Alles ist angerichtet",
-            "date": "18.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f0e9a0.webp"
+            "title": "Spanische Stimmen zum Triumph - «War eine harte WM»: Torres' Genugtuung und Simons Ungeduld",
+            "date": "20.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d9bfe7.webp"
         }
     ],
     "schedule": {
@@ -23,14 +23,28 @@ const dashboardData = {
                 "date_str": "So, 19. Juli",
                 "time": "21:00",
                 "venue": "Final",
-                "state": "Planned",
-                "score": null,
+                "state": "Finished",
+                "score": "1 : 0",
                 "full_date": "2026-07-19T21:00:00",
                 "group": null,
                 "type": "knockout"
             }
         ],
         "past_results": [
+            {
+                "team1": "Spanien",
+                "team1_country": "es",
+                "team2": "Argentinien",
+                "team2_country": "ar",
+                "date_str": "So, 19. Juli",
+                "time": "21:00",
+                "venue": "Final",
+                "state": "Finished",
+                "score": "1 : 0",
+                "full_date": "2026-07-19T21:00:00",
+                "group": null,
+                "type": "knockout"
+            },
             {
                 "team1": "Frankreich",
                 "team1_country": "fr",
@@ -126,20 +140,6 @@ const dashboardData = {
                 "state": "Finished",
                 "score": "2 : 0",
                 "full_date": "2026-07-09T22:00:00",
-                "group": null,
-                "type": "knockout"
-            },
-            {
-                "team1": "Schweiz",
-                "team1_country": "ch",
-                "team2": "Kolumbien",
-                "team2_country": "co",
-                "date_str": "Di, 7. Juli",
-                "time": "22:00",
-                "venue": "Last 16",
-                "state": "Finished",
-                "score": "4 : 3",
-                "full_date": "2026-07-07T22:00:00",
                 "group": null,
                 "type": "knockout"
             }
