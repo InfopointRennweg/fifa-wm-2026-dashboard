@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-20 06:44:03",
+    "last_updated": "2026-07-20 09:40:44",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Final WM 2026 - Joker Torres erlöst «La Roja»: Spanien ist Weltmeister!",
+            "title": "Mit «Copy-Paste» zum Sieg 2026 - Spaniens fast unheimliche Parallelen zum 1. WM-Titel 2010",
             "date": "20.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0614600.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/11fa5a7.webp"
         },
         {
             "title": "Spanische Stimmen zum Triumph - «War eine harte WM»: Torres' Genugtuung und Simons Ungeduld",
             "date": "20.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d9bfe7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ed4933b.webp"
         }
     ],
     "schedule": {
