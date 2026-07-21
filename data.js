@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-20 18:29:50",
+    "last_updated": "2026-07-21 06:26:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Mit «Copy-Paste» zum Sieg 2026 - Spaniens fast unheimliche Parallelen zum 1. WM-Titel 2010",
-            "date": "20.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/11fa5a7.webp"
+            "title": "Nach Schwalbe im Viertelfinal - Embolo bricht sein Schweigen: «Werden stärker zurückkommen»",
+            "date": "21.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1dad31.webp"
         },
         {
-            "title": "Spanische Stimmen zum Triumph - «War eine harte WM»: Torres' Genugtuung und Simons Ungeduld",
-            "date": "20.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ed4933b.webp"
+            "title": "Empfang auf Turbinenplatz - Tausende Fans bejubeln die Schweizer WM-Helden in Zürich",
+            "date": "14.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/208e16.webp"
         }
     ],
     "schedule": {
