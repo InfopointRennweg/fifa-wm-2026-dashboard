@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-21 09:07:57",
+    "last_updated": "2026-07-21 14:35:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Grosses Interesse an der WM - SRF erreicht mit der Fussball-WM über vier Millionen Menschen",
+            "date": "21.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/108fa3.webp"
+        },
         {
             "title": "Mit «Copy-Paste» zum Sieg 2026 - Spaniens fast unheimliche Parallelen zum 1. WM-Titel 2010",
             "date": "20.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/11fa5a7.webp"
-        },
-        {
-            "title": "Spanische Stimmen zum Triumph - «War eine harte WM»: Torres' Genugtuung und Simons Ungeduld",
-            "date": "20.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ed4933b.webp"
         }
     ],
     "schedule": {
