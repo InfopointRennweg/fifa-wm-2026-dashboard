@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-22 09:06:56",
+    "last_updated": "2026-07-22 14:35:03",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Über 66 Milllionen sahen zu - WM-Final stellt neuen TV-Rekord in den USA auf",
+            "date": "22.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ba8786.webp"
+        },
         {
             "title": "Grosses Interesse an der WM - SRF erreicht mit der Fussball-WM über vier Millionen Menschen",
             "date": "21.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/108fa3.webp"
-        },
-        {
-            "title": "Mit «Copy-Paste» zum Sieg 2026 - Spaniens fast unheimliche Parallelen zum 1. WM-Titel 2010",
-            "date": "20.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/11fa5a7.webp"
         }
     ],
     "schedule": {
