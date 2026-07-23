@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-23 14:41:41",
+    "last_updated": "2026-07-23 17:55:49",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Thun verstärkt sich mit Yverdon-Mittelfeldspieler",
+            "date": "23.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/27e482e.webp"
+        },
         {
             "title": "Fifa soll Fehler zugeben - «Fall Balogun»: Norwegen will Beschwerde einreichen",
             "date": "23.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/0bf9bb.webp"
-        },
-        {
-            "title": "Hydration Breaks kommen nicht - Diese neuen Regeln gelten nun auch in der Super League",
-            "date": "23.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/be612e7.webp"
         }
     ],
     "schedule": {
