@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-23 06:29:10",
+    "last_updated": "2026-07-23 09:05:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Major League Soccer - Lewandowskis USA-Debüt misslingt, Griezmann trifft bei Sieg",
+            "date": "23.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/115940.webp"
+        },
         {
             "title": "Quali zur Conference League - Die formstarken «Brennnesseln» fordern Lugano",
             "date": "23.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/98610ff.webp"
-        },
-        {
-            "title": "Sion-Gegner in Quali zur ConfL - BATE Borissow: Einst «Königsklassen»-Jubel, jetzt Abstiegskampf",
-            "date": "23.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a1b164.webp"
         }
     ],
     "schedule": {
