@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-22 17:49:25",
+    "last_updated": "2026-07-23 06:29:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Über 66 Milllionen sahen zu - WM-Final stellt neuen TV-Rekord in den USA auf",
-            "date": "22.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ba8786.webp"
+            "title": "Quali zur Conference League - Die formstarken «Brennnesseln» fordern Lugano",
+            "date": "23.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/98610ff.webp"
         },
         {
-            "title": "Grosses Interesse an der WM - SRF erreicht mit der Fussball-WM über vier Millionen Menschen",
-            "date": "21.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/108fa3.webp"
+            "title": "Sion-Gegner in Quali zur ConfL - BATE Borissow: Einst «Königsklassen»-Jubel, jetzt Abstiegskampf",
+            "date": "23.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a1b164.webp"
         }
     ],
     "schedule": {
