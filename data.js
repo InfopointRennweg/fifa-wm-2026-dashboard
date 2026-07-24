@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-24 09:02:03",
+    "last_updated": "2026-07-24 14:21:19",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Platz 1 ja, Meisterpokal nein - Was, wenn Vaduz die Super League gewinnt?",
+            "title": "Spanien-Coach spricht Klartext - De la Fuente über Argentinien: «Unerträgliches Verhalten»",
             "date": "24.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ca4d1f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/be0333.webp"
         },
         {
-            "title": "Vom Mega- zum Giga-Event - Pläne schreiten voran: So sähe die WM mit 64 Teams aus",
+            "title": "Nagelsmann-Nachfolger - Klopp wird neuer Bundestrainer: Neustart und Mahnung an Medien",
             "date": "24.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/43dbd82.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ae9319.webp"
         }
     ],
     "schedule": {
