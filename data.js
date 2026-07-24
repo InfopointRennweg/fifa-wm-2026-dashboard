@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-24 06:24:38",
+    "last_updated": "2026-07-24 09:02:03",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SL-Auftakt: Luzern – Thun - Bertone: Der Meistertitel als Absprungrampe",
+            "title": "Platz 1 ja, Meisterpokal nein - Was, wenn Vaduz die Super League gewinnt?",
             "date": "24.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f2d8ef.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ca4d1f.webp"
         },
         {
-            "title": "FC Basel vor der neuen Saison - Lichtsteiner: «Dieses Team ist bereit, unsere Ziele zu erreichen»",
+            "title": "Vom Mega- zum Giga-Event - Pläne schreiten voran: So sähe die WM mit 64 Teams aus",
             "date": "24.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2e31582.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/43dbd82.webp"
         }
     ],
     "schedule": {
