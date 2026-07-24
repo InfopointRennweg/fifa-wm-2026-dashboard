@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-23 17:55:49",
+    "last_updated": "2026-07-24 06:24:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Thun verstärkt sich mit Yverdon-Mittelfeldspieler",
-            "date": "23.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/27e482e.webp"
+            "title": "SL-Auftakt: Luzern – Thun - Bertone: Der Meistertitel als Absprungrampe",
+            "date": "24.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f2d8ef.webp"
         },
         {
-            "title": "Fifa soll Fehler zugeben - «Fall Balogun»: Norwegen will Beschwerde einreichen",
-            "date": "23.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0bf9bb.webp"
+            "title": "FC Basel vor der neuen Saison - Lichtsteiner: «Dieses Team ist bereit, unsere Ziele zu erreichen»",
+            "date": "24.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2e31582.webp"
         }
     ],
     "schedule": {
