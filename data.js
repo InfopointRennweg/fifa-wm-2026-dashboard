@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-24 18:00:31",
+    "last_updated": "2026-07-25 06:16:53",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Challenge League: Saisonstart - Spätes Joker-Drama: Winterthur und Yverdon trennen sich 2:2",
+            "date": "24.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0388871.webp"
+        },
         {
             "title": "Soll am 8. Oktober stattfinden - Nach Skandal-Final beim Afrika Cup: TAS setzt Anhörung an",
             "date": "24.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/f0e084b.webp"
-        },
-        {
-            "title": "Spanien-Coach spricht Klartext - De la Fuente über Argentinien: «Unerträgliches Verhalten»",
-            "date": "24.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/be0333.webp"
         }
     ],
     "schedule": {
