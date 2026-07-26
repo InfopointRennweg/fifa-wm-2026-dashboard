@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-25 17:31:34",
+    "last_updated": "2026-07-26 06:35:26",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus dem Frauenfussball - Weltmeisterin Paralluelo zieht es nach Lyon",
+            "title": "3:1 zum Auftakt - Meisterliche Thuner Standards brechen FCL das Genick",
             "date": "25.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/47e3baa.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1c401c.webp"
         },
         {
-            "title": "Challenge League: Saisonstart - Spätes Joker-Drama: Winterthur und Yverdon trennen sich 2:2",
-            "date": "24.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0388871.webp"
+            "title": "1. Runde der Super League - Celar trifft vom Punkt: Geglückter Saisonstart für Basel in Genf",
+            "date": "25.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b45e9a1.webp"
         }
     ],
     "schedule": {
