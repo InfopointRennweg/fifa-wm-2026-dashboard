@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-26 14:09:56",
+    "last_updated": "2026-07-26 17:34:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "1. Runde der Super League - Als YB wankt, schlägt Essende zu",
+            "title": "Super League: 1. Spieltag - St. Galler Doppelschlag zieht dem FCZ den Stecker",
             "date": "26.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/156fd9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d903f1.webp"
         },
         {
-            "title": "3:1 zum Auftakt - Meisterliche Thuner Standards brechen FCL das Genick",
-            "date": "25.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1c401c.webp"
+            "title": "2:1-Sieg für die Tessiner - Lugano rettet Vorsprung gegen erfrischendes Vaduz über die Zeit",
+            "date": "26.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bb87d22.webp"
         }
     ],
     "schedule": {
