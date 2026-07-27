@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-26 17:34:00",
+    "last_updated": "2026-07-27 07:29:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "«Fussball-Opa» Kazuyoshi Miura - 59-jähriger «King Kazu» trifft erstmals seit 4 Jahren",
+            "date": "27.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/57fc59.webp"
+        },
         {
             "title": "Super League: 1. Spieltag - St. Galler Doppelschlag zieht dem FCZ den Stecker",
             "date": "26.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/d903f1.webp"
-        },
-        {
-            "title": "2:1-Sieg für die Tessiner - Lugano rettet Vorsprung gegen erfrischendes Vaduz über die Zeit",
-            "date": "26.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bb87d22.webp"
         }
     ],
     "schedule": {
