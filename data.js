@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-28 09:15:12",
+    "last_updated": "2026-07-28 15:01:20",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nachfolger von Deschamps - Vertrag bis 2030: Zidane übernimmt Frankreichs Nationalteam",
+            "title": "News aus der Super League - Sion holt Verteidiger von Juventus Turin",
             "date": "28.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6a5756.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/139f58c.webp"
         },
         {
-            "title": "Oberste Regelhüter mit Veto - Embolos Platzverweis entspricht doch nicht dem Regelwerk",
+            "title": "Europameister von 2021 - Rückkehr: Mancini soll «Squadra Azzurra» wieder zum Erfolg führen",
             "date": "28.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ae1170e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b57989.webp"
         }
     ],
     "schedule": {
