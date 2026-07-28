@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-28 15:01:20",
+    "last_updated": "2026-07-28 17:56:40",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Sanierung dürfte länger dauern - Kurz vor Saisonstart: Rayo Vallecano steht ohne Stadion da",
+            "date": "28.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/75a9b0.webp"
+        },
         {
             "title": "News aus der Super League - Sion holt Verteidiger von Juventus Turin",
             "date": "28.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/139f58c.webp"
-        },
-        {
-            "title": "Europameister von 2021 - Rückkehr: Mancini soll «Squadra Azzurra» wieder zum Erfolg führen",
-            "date": "28.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b57989.webp"
         }
     ],
     "schedule": {
