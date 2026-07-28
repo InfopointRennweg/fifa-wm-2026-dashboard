@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-27 18:06:55",
+    "last_updated": "2026-07-28 06:25:50",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fazit zum Super-League-Start - Torgefährliche Standard-Situationen und Tor-Debütanten zuhauf",
-            "date": "27.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4e995f.webp"
+            "title": "2. Runde in der CL-Quali - Im Hexenkessel Maksimir soll der Thuner Traum weiterleben",
+            "date": "28.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ec08218.webp"
         },
         {
-            "title": "Gegenseitige Anschuldigungen - «Zirkus»: Transfer-Experten Romano und Plettenberg zoffen sich",
+            "title": "Ref-Entscheide unter der Lupe - «Technisch klarste Lösung Penalty» – doch die Pfeife blieb stumm",
             "date": "27.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/268b9d8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/7629b8.webp"
         }
     ],
     "schedule": {
