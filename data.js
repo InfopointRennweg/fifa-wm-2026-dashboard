@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-28 06:25:50",
+    "last_updated": "2026-07-28 09:15:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "2. Runde in der CL-Quali - Im Hexenkessel Maksimir soll der Thuner Traum weiterleben",
+            "title": "Nachfolger von Deschamps - Vertrag bis 2030: Zidane übernimmt Frankreichs Nationalteam",
             "date": "28.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ec08218.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6a5756.webp"
         },
         {
-            "title": "Ref-Entscheide unter der Lupe - «Technisch klarste Lösung Penalty» – doch die Pfeife blieb stumm",
-            "date": "27.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7629b8.webp"
+            "title": "Oberste Regelhüter mit Veto - Embolos Platzverweis entspricht doch nicht dem Regelwerk",
+            "date": "28.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ae1170e.webp"
         }
     ],
     "schedule": {
