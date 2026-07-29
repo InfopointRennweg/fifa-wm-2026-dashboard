@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-29 14:52:17",
+    "last_updated": "2026-07-29 17:49:16",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Quali in der Conference League - Lugano erledigt seine Aufgabe im Kosovo souverän",
+            "date": "29.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f32651.webp"
+        },
         {
             "title": "Wegen Waldbränden in Europa - Turbulente FCSG-Reise nach Lissabon – ohne Goalie Zigi",
             "date": "29.07.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/7573539.webp"
-        },
-        {
-            "title": "All-Star-Game der MLS - Mit Rekord: Müller glänzt bei Skills Challenge",
-            "date": "29.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1c48ae6.webp"
         }
     ],
     "schedule": {
