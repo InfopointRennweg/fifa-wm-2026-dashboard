@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-29 06:29:31",
+    "last_updated": "2026-07-29 09:20:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Quali zur Conference League - Wird Lugano die Hinspiel-Ineffizienz im Kosovo zum Verhängnis?",
+            "title": "Nach IFAB-Stellungnahme - Fifa wehrt sich im Fall Embolo: «Entscheidung zulässig»",
             "date": "29.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/66ece4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/afbb14a.webp"
         },
         {
-            "title": "Tor und Rot - Marco Bürki: Thuns Captain als Dauer-Kartensammler",
-            "date": "28.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/243df3.webp"
+            "title": "Strittige Szene in Zagreb - «Maximal unfair»: Thuner Ärger nach Rot und Out in CL-Quali",
+            "date": "29.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/09b8af8.webp"
         }
     ],
     "schedule": {
