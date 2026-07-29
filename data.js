@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-28 17:56:40",
+    "last_updated": "2026-07-29 06:29:31",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Sanierung dürfte länger dauern - Kurz vor Saisonstart: Rayo Vallecano steht ohne Stadion da",
-            "date": "28.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/75a9b0.webp"
+            "title": "Quali zur Conference League - Wird Lugano die Hinspiel-Ineffizienz im Kosovo zum Verhängnis?",
+            "date": "29.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/66ece4.webp"
         },
         {
-            "title": "News aus der Super League - Sion holt Verteidiger von Juventus Turin",
+            "title": "Tor und Rot - Marco Bürki: Thuns Captain als Dauer-Kartensammler",
             "date": "28.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/139f58c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/243df3.webp"
         }
     ],
     "schedule": {
