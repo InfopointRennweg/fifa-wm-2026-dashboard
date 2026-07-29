@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-29 09:20:12",
+    "last_updated": "2026-07-29 14:52:17",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach IFAB-Stellungnahme - Fifa wehrt sich im Fall Embolo: «Entscheidung zulässig»",
+            "title": "Wegen Waldbränden in Europa - Turbulente FCSG-Reise nach Lissabon – ohne Goalie Zigi",
             "date": "29.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/afbb14a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/7573539.webp"
         },
         {
-            "title": "Strittige Szene in Zagreb - «Maximal unfair»: Thuner Ärger nach Rot und Out in CL-Quali",
+            "title": "All-Star-Game der MLS - Mit Rekord: Müller glänzt bei Skills Challenge",
             "date": "29.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/09b8af8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1c48ae6.webp"
         }
     ],
     "schedule": {
