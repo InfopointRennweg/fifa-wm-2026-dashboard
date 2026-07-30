@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-30 09:11:32",
+    "last_updated": "2026-07-30 14:51:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach 13 Monaten Leidenszeit - Erster YB-Einsatz: Bachmann mit emotionalem Comeback",
+            "title": "News aus der Super League - Lausanne holt Nachwuchsspieler von Manchester United",
             "date": "30.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/27b4a8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f17fb6.webp"
         },
         {
-            "title": "Europa-League-Quali: 2. Runde - Nach Hinspiel-Coup: St. Gallen kann in Lissabon fast nur gewinnen",
+            "title": "Internationale Fussball-News - Frey heuert erneut in Belgien an – Lacroix zu Chelsea",
             "date": "30.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cd6d8c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/98fe03.webp"
         }
     ],
     "schedule": {
