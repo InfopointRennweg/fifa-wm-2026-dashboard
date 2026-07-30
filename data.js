@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-29 17:49:16",
+    "last_updated": "2026-07-30 06:26:22",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Quali in der Conference League - Lugano erledigt seine Aufgabe im Kosovo souverän",
-            "date": "29.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f32651.webp"
+            "title": "Europa-League-Quali: 2. Runde - Nach Hinspiel-Coup: St. Gallen kann in Lissabon fast nur gewinnen",
+            "date": "30.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/cd6d8c.webp"
         },
         {
-            "title": "Wegen Waldbränden in Europa - Turbulente FCSG-Reise nach Lissabon – ohne Goalie Zigi",
-            "date": "29.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7573539.webp"
+            "title": "Rückspiel gegen Borissow - Vor Fans geht's für Sion um den ersten Sieg und die nächste Runde",
+            "date": "30.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bcecb1.webp"
         }
     ],
     "schedule": {
