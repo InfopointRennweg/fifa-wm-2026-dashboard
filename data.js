@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-30 17:57:12",
+    "last_updated": "2026-07-31 06:42:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Stürmer forciert Transfer - Barça-Lockrufe an Alvarez: Atletico reicht Beschwerde ein",
-            "date": "30.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/de011e.webp"
+            "title": "Nach schwerer Krankheit - Milan-Legende Franco Baresi verstorben",
+            "date": "31.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bada2c.webp"
         },
         {
-            "title": "News aus der Super League - Lausanne holt Nachwuchsspieler von Manchester United",
+            "title": "Europa League: 2. Quali-Runde - St. Gallens Europa-League-Traum platzt in Lissabon jäh",
             "date": "30.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f17fb6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/826d18.webp"
         }
     ],
     "schedule": {
