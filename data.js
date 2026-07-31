@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-31 15:00:33",
+    "last_updated": "2026-07-31 18:05:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Lausanne verpflichtet jungen Aussenverteidiger von PSG",
+            "title": "Nach Dopingsperre - Mudryk ab sofort wieder spielberechtigt",
             "date": "31.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/520dd3.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/3c085d.webp"
         },
         {
-            "title": "Internationale Fussball-News - Real Madrid holt erstmals seit Joselu wieder einen Mittelstürmer",
+            "title": "Nachfolge noch offen - Howe tritt als Newcastle-Trainer zurück",
             "date": "31.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d5dcf1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/127dfb.webp"
         }
     ],
     "schedule": {
