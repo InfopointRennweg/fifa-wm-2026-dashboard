@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-31 06:42:13",
+    "last_updated": "2026-07-31 09:22:26",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach schwerer Krankheit - Milan-Legende Franco Baresi verstorben",
+            "title": "News aus der Super League - Lausanne verpflichtet jungen Aussenverteidiger von PSG",
             "date": "31.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bada2c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/520dd3.webp"
         },
         {
-            "title": "Europa League: 2. Quali-Runde - St. Gallens Europa-League-Traum platzt in Lissabon jäh",
-            "date": "30.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/826d18.webp"
+            "title": "Internationale Fussball-News - Real Madrid holt erstmals seit Joselu wieder einen Mittelstürmer",
+            "date": "31.07.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d5dcf1.webp"
         }
     ],
     "schedule": {
