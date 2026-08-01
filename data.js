@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-07-31 18:05:33",
+    "last_updated": "2026-08-01 06:28:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Dopingsperre - Mudryk ab sofort wieder spielberechtigt",
-            "date": "31.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3c085d.webp"
+            "title": "Wirkt das 3:8 noch nach? - Unterhaltung garantiert: Im Berner Derby regnete es zuletzt Tore",
+            "date": "01.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d05665.webp"
         },
         {
-            "title": "Nachfolge noch offen - Howe tritt als Newcastle-Trainer zurück",
+            "title": "Niederlage gegen Union SG - Debüt missglückt: Sommer und Tsawa verlieren Supercup",
             "date": "31.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/127dfb.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/62df10.webp"
         }
     ],
     "schedule": {
