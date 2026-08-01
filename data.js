@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-01 06:28:00",
+    "last_updated": "2026-08-01 08:38:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Schweizer Fussball-News - Vincze verlässt FCZ Frauen Richtung Freiburg",
+            "date": "01.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/46a0d2.webp"
+        },
         {
             "title": "Wirkt das 3:8 noch nach? - Unterhaltung garantiert: Im Berner Derby regnete es zuletzt Tore",
             "date": "01.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/d05665.webp"
-        },
-        {
-            "title": "Niederlage gegen Union SG - Debüt missglückt: Sommer und Tsawa verlieren Supercup",
-            "date": "31.07.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/62df10.webp"
         }
     ],
     "schedule": {
