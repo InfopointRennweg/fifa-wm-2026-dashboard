@@ -1,11 +1,11 @@
 const dashboardData = {
-    "last_updated": "2026-08-01 08:38:35",
+    "last_updated": "2026-08-01 14:07:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Schweizer Fussball-News - Vincze verlässt FCZ Frauen Richtung Freiburg",
+            "title": "Schweizer Fussball-News - Stürmer für Vaduz – Vincze verlässt FCZ Frauen",
             "date": "01.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/46a0d2.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/5f0586.webp"
         },
         {
             "title": "Wirkt das 3:8 noch nach? - Unterhaltung garantiert: Im Berner Derby regnete es zuletzt Tore",
