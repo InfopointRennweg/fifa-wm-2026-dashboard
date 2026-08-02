@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-02 08:42:35",
+    "last_updated": "2026-08-02 14:09:40",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Super League: 2. Spieltag - Joker Owusu schiesst St. Gallen im Derby gegen Vaduz zum Sieg",
+            "date": "02.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0ebb5d.webp"
+        },
         {
             "title": "Höhenflug ohne abzuheben - «Hoarau-Nachfolger» ist angekommen – YB in toller Frühform",
             "date": "02.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/790afb.webp"
-        },
-        {
-            "title": "Duell alter Super-League-Hasen - Zeidler vs. Croci-Torti: Wer hat diesmal die Nase vorn?",
-            "date": "02.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ec3c19.webp"
         }
     ],
     "schedule": {
