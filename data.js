@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-03 10:11:21",
+    "last_updated": "2026-08-03 15:26:18",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Unterschiedliche Gemütslagen - Titel-Träume in Lugano – Ratlosigkeit in Luzern",
+            "title": "Champions-League-Qualifikation - Für Servette beginnt die Saison in Kasachstan",
             "date": "03.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5f787f7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/66163c.webp"
         },
         {
-            "title": "Bilder-Galerie - Erste Titel, erste Tore und ein Penalty-Debakel sondergleichen",
+            "title": "Schweizer Europacup-Gegner - Noch ein Insel-Trip für Thun und ein Hammerlos für Sion?",
             "date": "03.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/220aa5.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/bfa718.webp"
         }
     ],
     "schedule": {
