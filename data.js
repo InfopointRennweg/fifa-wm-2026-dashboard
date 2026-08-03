@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-02 17:33:21",
+    "last_updated": "2026-08-03 06:58:26",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Internationale Fussball-News - PSG-Abgang fix: Kolo Muani wechselt zu Juventus",
+            "date": "02.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e87fbe.webp"
+        },
         {
             "title": "Super League: 2. Spieltag - Vom 0:1 zum 4:1 – Lugano siegt bei GC nach verbesserter 2. Hälfte",
             "date": "02.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/7730253.webp"
-        },
-        {
-            "title": "Super League: 2. Runde - Blitzrot und Goalie-Patzer leiten Luzerns Pleite in Sion ein",
-            "date": "02.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9c44cc.webp"
         }
     ],
     "schedule": {
