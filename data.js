@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-03 15:26:18",
+    "last_updated": "2026-08-03 18:17:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Vertrag aufgelöst: St. Gallen verliert seinen Assistenztrainer",
+            "date": "03.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5f0e6fd.webp"
+        },
         {
             "title": "Champions-League-Qualifikation - Für Servette beginnt die Saison in Kasachstan",
             "date": "03.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/66163c.webp"
-        },
-        {
-            "title": "Schweizer Europacup-Gegner - Noch ein Insel-Trip für Thun und ein Hammerlos für Sion?",
-            "date": "03.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bfa718.webp"
         }
     ],
     "schedule": {
