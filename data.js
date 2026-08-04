@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-04 06:26:10",
+    "last_updated": "2026-08-04 09:18:56",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "An WM an Nati gescheitert - Einvernehmliche Trennung: Petkovic nicht mehr Algerien-Trainer",
-            "date": "03.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4134d42.webp"
+            "title": "In der CL-Quali der Frauen - Servette Chênois löst seine 1. Aufgabe souverän",
+            "date": "04.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/99599d.webp"
         },
         {
-            "title": "Mainz-Trainer in Vorbereitung - Fischer: «Wiederholen wollen wir das auf keinen Fall»",
-            "date": "03.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4eba5a.webp"
+            "title": "Wechsel beim Schweizer Meister - Rapp löst Albrecht beim FC Thun per sofort als Sportchef ab",
+            "date": "04.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/87ceee.webp"
         }
     ],
     "schedule": {
