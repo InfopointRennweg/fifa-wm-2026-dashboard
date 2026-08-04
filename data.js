@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-03 18:17:33",
+    "last_updated": "2026-08-04 06:26:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Vertrag aufgelöst: St. Gallen verliert seinen Assistenztrainer",
+            "title": "An WM an Nati gescheitert - Einvernehmliche Trennung: Petkovic nicht mehr Algerien-Trainer",
             "date": "03.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5f0e6fd.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4134d42.webp"
         },
         {
-            "title": "Champions-League-Qualifikation - Für Servette beginnt die Saison in Kasachstan",
+            "title": "Mainz-Trainer in Vorbereitung - Fischer: «Wiederholen wollen wir das auf keinen Fall»",
             "date": "03.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/66163c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4eba5a.webp"
         }
     ],
     "schedule": {
