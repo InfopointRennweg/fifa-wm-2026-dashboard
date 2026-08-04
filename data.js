@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-04 15:03:46",
+    "last_updated": "2026-08-04 18:11:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Salah verlässt den FCB  – Mambwa fehlt YB",
+            "date": "04.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1df6e7.webp"
+        },
         {
             "title": "3 Tage vor Saisonstart - FCZ Frauen trennen sich von Trainer Gligoroski",
             "date": "04.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/19584f.webp"
-        },
-        {
-            "title": "In der CL-Quali der Frauen - Servette Chênois löst seine 1. Aufgabe souverän",
-            "date": "04.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/99599d.webp"
         }
     ],
     "schedule": {
