@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-04 09:18:56",
+    "last_updated": "2026-08-04 15:03:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "3 Tage vor Saisonstart - FCZ Frauen trennen sich von Trainer Gligoroski",
+            "date": "04.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/19584f.webp"
+        },
         {
             "title": "In der CL-Quali der Frauen - Servette Chênois löst seine 1. Aufgabe souverän",
             "date": "04.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/99599d.webp"
-        },
-        {
-            "title": "Wechsel beim Schweizer Meister - Rapp löst Albrecht beim FC Thun per sofort als Sportchef ab",
-            "date": "04.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/87ceee.webp"
         }
     ],
     "schedule": {
