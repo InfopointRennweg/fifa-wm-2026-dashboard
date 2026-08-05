@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-05 09:17:46",
+    "last_updated": "2026-08-05 14:56:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Salah verlässt den FCB  – Mambwa fehlt YB",
-            "date": "04.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1df6e7.webp"
+            "title": "Ablehnung der Fifa-Pläne - European Leagues stellt sich gegen WM-Aufstockung",
+            "date": "05.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9b7aee.webp"
         },
         {
-            "title": "3 Tage vor Saisonstart - FCZ Frauen trennen sich von Trainer Gligoroski",
-            "date": "04.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/19584f.webp"
+            "title": "3. Runde Conf.League-Quali - Der einstige Real-Madrid-Schreck fordert FCSG-Rumpfdefensive",
+            "date": "05.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f8bebe.webp"
         }
     ],
     "schedule": {
