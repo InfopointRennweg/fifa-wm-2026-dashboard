@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-06 09:20:06",
+    "last_updated": "2026-08-06 14:55:04",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Saisonstart am Freitag - In der Women's Super League geht's wieder los",
+            "title": "Internationale Fussball-News - Diomande von Leipzig zu Real – Forlan übernimmt «Urus»",
             "date": "06.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e54e7a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c8f5bd.webp"
         },
         {
-            "title": "Nimmersatter Superstar - Messi knackt Torrekord im Leagues Cup",
+            "title": "Frauen auf dem Vormarsch - Meilenstein in England: Trainerinnen in der Überzahl",
             "date": "06.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/44a9c0.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f636d8.webp"
         }
     ],
     "schedule": {
