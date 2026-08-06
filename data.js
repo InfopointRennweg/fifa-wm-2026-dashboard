@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-05 18:05:47",
+    "last_updated": "2026-08-06 06:28:54",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Ablehnung der Fifa-Pläne - European Leagues stellt sich gegen WM-Aufstockung",
-            "date": "05.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9b7aee.webp"
+            "title": "Afrika-Cup der Frauen - Zu früh gejubelt: Häuptle mit Sambia bitter gescheitert",
+            "date": "06.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/c9800d.webp"
         },
         {
-            "title": "3. Runde Conf.League-Quali - Der einstige Real-Madrid-Schreck fordert FCSG-Rumpfdefensive",
+            "title": "Internationale Fussball-News - Salah frenetisch empfangen – Jaissle folgt in Newcastle auf Howe",
             "date": "05.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f8bebe.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/804cae0.webp"
         }
     ],
     "schedule": {
