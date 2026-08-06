@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-06 06:28:54",
+    "last_updated": "2026-08-06 09:20:06",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Afrika-Cup der Frauen - Zu früh gejubelt: Häuptle mit Sambia bitter gescheitert",
+            "title": "Saisonstart am Freitag - In der Women's Super League geht's wieder los",
             "date": "06.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c9800d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e54e7a.webp"
         },
         {
-            "title": "Internationale Fussball-News - Salah frenetisch empfangen – Jaissle folgt in Newcastle auf Howe",
-            "date": "05.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/804cae0.webp"
+            "title": "Nimmersatter Superstar - Messi knackt Torrekord im Leagues Cup",
+            "date": "06.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/44a9c0.webp"
         }
     ],
     "schedule": {
