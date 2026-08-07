@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-07 13:50:49",
+    "last_updated": "2026-08-07 17:24:01",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Mehmedi wird Verwaltungsrat beim FC Winterthur",
+            "title": "4:0-Sieg gegen Aktobe - Servette Chênois nicht mehr weit von «Königsklasse» entfernt",
             "date": "07.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bef7ce.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/58728b.webp"
         },
         {
-            "title": "Internationale Fussball-News - Körperverletzung: Toney muss vor Gericht",
+            "title": "News aus der Super League - Mehmedi neu Verwaltungsrat bei Winterthur – Omlin wieder verletzt",
             "date": "07.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1d18ea8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/bef7ce.webp"
         }
     ],
     "schedule": {
