@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-06 14:55:04",
+    "last_updated": "2026-08-07 05:38:57",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Diomande von Leipzig zu Real – Forlan übernimmt «Urus»",
+            "title": "Europa League: 3. Quali-Runde - Starke Standards lassen Thun von Europa träumen",
             "date": "06.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c8f5bd.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1cdbe54.webp"
         },
         {
-            "title": "Frauen auf dem Vormarsch - Meilenstein in England: Trainerinnen in der Überzahl",
+            "title": "Von LaLiga in die Serie A - Sow verlässt den FC Sevilla nach 3 Jahren und geht nach Genua",
             "date": "06.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f636d8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/52e178.webp"
         }
     ],
     "schedule": {
