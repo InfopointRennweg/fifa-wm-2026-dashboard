@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-07 07:50:39",
+    "last_updated": "2026-08-07 13:50:49",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Auftakt in der 2. Bundesliga - Loretz, Besio & Co: 6 Schweizer mit unterschiedlichen Vorzeichen",
+            "title": "News aus der Super League - Mehmedi wird Verwaltungsrat beim FC Winterthur",
             "date": "07.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a4fff4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/bef7ce.webp"
         },
         {
-            "title": "Europa League: 3. Quali-Runde - Starke Standards lassen Thun von Europa träumen",
-            "date": "06.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1cdbe54.webp"
+            "title": "Internationale Fussball-News - Körperverletzung: Toney muss vor Gericht",
+            "date": "07.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1d18ea8.webp"
         }
     ],
     "schedule": {
