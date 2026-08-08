@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-08 07:27:56",
+    "last_updated": "2026-08-08 13:27:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Barcelona testet gegen Basel im St. Jakob-Park",
+            "date": "08.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/973fe3.webp"
+        },
         {
             "title": "SRF-Live-Spiel der 3. Runde - GC kommt Servette gerade recht",
             "date": "08.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/579d2fb.webp"
-        },
-        {
-            "title": "Challenge League: 3. Spieltag - Winterthur feiert den 1. Saisonsieg – auch Aarau jubelt erstmals",
-            "date": "07.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d6e41a.webp"
         }
     ],
     "schedule": {
