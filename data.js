@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-08 04:54:52",
+    "last_updated": "2026-08-08 07:27:56",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "SRF-Live-Spiel der 3. Runde - GC kommt Servette gerade recht",
+            "date": "08.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/579d2fb.webp"
+        },
         {
             "title": "Challenge League: 3. Spieltag - Winterthur feiert den 1. Saisonsieg – auch Aarau jubelt erstmals",
             "date": "07.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/d6e41a.webp"
-        },
-        {
-            "title": "Women's Super League - FCZ Frauen siegen trotz Trainerwirbel zum Saisonauftakt",
-            "date": "07.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0d9d2e.webp"
         }
     ],
     "schedule": {
