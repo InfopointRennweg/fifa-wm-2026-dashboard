@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-08 17:02:58",
+    "last_updated": "2026-08-09 05:03:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Zweitteuerster Klub-Transfer: Arsenal holt Guimaraes",
+            "title": "Super League: 3. Spieltag - Abrashi trifft, doch GC verliert erneut nach einer 1:0-Führung",
             "date": "08.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bb014f2.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/84c607.webp"
         },
         {
-            "title": "Champions-League-Qualifikation - Trotz Bachmann-Tor: YB verpasst europäisches Geschäft",
+            "title": "Super League: 3. Runde - Nach Fernandes-Rot: YB gibt in Lausanne 2:0-Führung aus der Hand",
             "date": "08.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/68f265.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/670861.webp"
         }
     ],
     "schedule": {
