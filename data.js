@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-09 13:32:02",
+    "last_updated": "2026-08-09 17:05:19",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Fecht-Olympiasiegerin sorgt für Novum im italienischen Fussball",
+            "title": "Super League: 3. Runde - Wilde Schlussminuten: St. Gallen und Luzern teilen die Punkte",
             "date": "09.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4e4ec3.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/dbb3c04.webp"
         },
         {
-            "title": "St. Gallen empfängt Luzern - Das «Nicht-Derby» im Zeichen des «Owusu-Symptoms»",
+            "title": "Super League: 3. Spieltag - Vaduz gibt wieder Führung(en) preis und verliert erneut 2:3",
             "date": "09.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3a6b68.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/21c186.webp"
         }
     ],
     "schedule": {
