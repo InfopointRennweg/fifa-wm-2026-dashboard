@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-10 13:56:55",
+    "last_updated": "2026-08-10 17:26:30",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Fernandes kassiert 2 Spielsperren",
+            "date": "10.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/dd32569.webp"
+        },
         {
             "title": "Blick auf das SL-Wochenende - Luganos Ansage, Thuns missglückter Spagat und Tore en masse",
             "date": "10.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/226ea0.webp"
-        },
-        {
-            "title": "Ex-GC-Stürmer in Antwerpen - Rückkehr mit Fallrückzieher: Frey dreht Spiel mit Doppelpack",
-            "date": "09.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0f1d0f.webp"
         }
     ],
     "schedule": {
