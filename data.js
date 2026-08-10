@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-10 05:24:50",
+    "last_updated": "2026-08-10 08:12:01",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Blick auf das SL-Wochenende - Luganos Ansage, Thuns missglückter Spagat und Tore en Masse",
+            "date": "10.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/226ea0.webp"
+        },
         {
             "title": "Ex-GC-Stürmer in Antwerpen - Rückkehr mit Fallrückzieher: Frey dreht Spiel mit Doppelpack",
             "date": "09.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/0f1d0f.webp"
-        },
-        {
-            "title": "Internationale Fussball-News - Digne kehrt nach 11 Jahren zu PSG zurück",
-            "date": "09.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/34434d.webp"
         }
     ],
     "schedule": {
