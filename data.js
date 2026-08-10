@@ -1,9 +1,9 @@
 const dashboardData = {
-    "last_updated": "2026-08-10 08:12:01",
+    "last_updated": "2026-08-10 13:56:55",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Blick auf das SL-Wochenende - Luganos Ansage, Thuns missglückter Spagat und Tore en Masse",
+            "title": "Blick auf das SL-Wochenende - Luganos Ansage, Thuns missglückter Spagat und Tore en masse",
             "date": "10.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/226ea0.webp"
         },
