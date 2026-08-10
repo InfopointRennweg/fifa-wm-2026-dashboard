@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-09 17:05:19",
+    "last_updated": "2026-08-10 05:24:50",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Super League: 3. Runde - Wilde Schlussminuten: St. Gallen und Luzern teilen die Punkte",
+            "title": "Ex-GC-Stürmer in Antwerpen - Rückkehr mit Fallrückzieher: Frey dreht Spiel mit Doppelpack",
             "date": "09.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dbb3c04.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0f1d0f.webp"
         },
         {
-            "title": "Super League: 3. Spieltag - Vaduz gibt wieder Führung(en) preis und verliert erneut 2:3",
+            "title": "Internationale Fussball-News - Digne kehrt nach 11 Jahren zu PSG zurück",
             "date": "09.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/21c186.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/34434d.webp"
         }
     ],
     "schedule": {
