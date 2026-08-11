@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-11 13:55:58",
+    "last_updated": "2026-08-11 17:28:54",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - YB mehrere Wochen ohne Imeri – ein Youngster für den Meister",
+            "date": "11.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0e5858.webp"
+        },
         {
             "title": "Qualifikation Champions League - Sparta Prag als letzte Hürde für Servette Chênois",
             "date": "11.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/f75ac8.webp"
-        },
-        {
-            "title": "1:3 gegen Aufsteiger Cottbus - Loretz steht in Hannover bereits etwas im Gegenwind",
-            "date": "11.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/05c87f.webp"
         }
     ],
     "schedule": {
