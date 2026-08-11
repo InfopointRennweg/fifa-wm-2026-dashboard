@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-11 07:44:49",
+    "last_updated": "2026-08-11 13:55:58",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Araujo wechselt leihweise von Barça zu Liverpool",
+            "title": "Qualifikation Champions League - Sparta Prag als letzte Hürde für Servette Chênois",
             "date": "11.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/adf61f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f75ac8.webp"
         },
         {
-            "title": "Refs sollen gestärkt werden - «Fussball, nicht Playstation»: Uefa will zum VAR-Ursprung zurück",
+            "title": "1:3 gegen Aufsteiger Cottbus - Loretz steht in Hannover bereits etwas im Gegenwind",
             "date": "11.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8a16e2.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/05c87f.webp"
         }
     ],
     "schedule": {
