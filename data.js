@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-11 05:06:29",
+    "last_updated": "2026-08-11 07:44:49",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Fernandes kassiert 2 Spielsperren – Lugano holt jungen Usbeken",
-            "date": "10.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dd32569.webp"
+            "title": "Internationale Fussball-News - Araujo wechselt leihweise von Barça zu Liverpool",
+            "date": "11.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/adf61f.webp"
         },
         {
-            "title": "Blick auf das SL-Wochenende - Luganos Ansage, Thuns missglückter Spagat und Tore en masse",
-            "date": "10.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/226ea0.webp"
+            "title": "Refs sollen gestärkt werden - «Fussball, nicht Playstation»: Uefa will zum VAR-Ursprung zurück",
+            "date": "11.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8a16e2.webp"
         }
     ],
     "schedule": {
