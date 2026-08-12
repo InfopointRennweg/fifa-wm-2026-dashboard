@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-12 13:58:15",
+    "last_updated": "2026-08-12 17:30:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Uefa Supercup am Mittwoch - Aston Villa will PSG auch ohne Manzambi die Stirn bieten",
+            "title": "Internationale Fussball-News - Lukaku und Vlahovic: Die nächsten Stars zieht es in die Türkei",
             "date": "12.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/787b1f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4e2dc1.webp"
         },
         {
-            "title": "News aus der Super League - YB mehrere Wochen ohne Imeri – ein Youngster für den Meister",
-            "date": "11.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0e5858.webp"
+            "title": "News aus der Super League - GC holt albanischen Nationalspieler für die Abwehr",
+            "date": "12.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/24e9e6.webp"
         }
     ],
     "schedule": {
