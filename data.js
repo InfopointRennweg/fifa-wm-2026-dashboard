@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-12 05:36:06",
+    "last_updated": "2026-08-12 07:58:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Uefa Supercup am Mittwoch - Aston Villa will PSG auch ohne Manzambi die Stirn bieten",
+            "date": "12.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/787b1f.webp"
+        },
         {
             "title": "News aus der Super League - YB mehrere Wochen ohne Imeri – ein Youngster für den Meister",
             "date": "11.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/0e5858.webp"
-        },
-        {
-            "title": "Qualifikation Champions League - Sparta Prag als letzte Hürde für Servette Chênois",
-            "date": "11.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f75ac8.webp"
         }
     ],
     "schedule": {
