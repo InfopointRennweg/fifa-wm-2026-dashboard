@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-13 05:38:27",
+    "last_updated": "2026-08-13 07:59:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Rückspiele in 3. Quali-Runde - Europacup-Aussichten sind rosig – nur Vaduz im Hintertreffen",
+            "date": "13.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4cd0e9.webp"
+        },
         {
             "title": "Uefa Supercup in Salzburg - Neue Saison, altes Bild: PSG holt den nächsten Pokal",
             "date": "12.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/30ccbb.webp"
-        },
-        {
-            "title": "Internationale Fussball-News - Xavi übernimmt «Elftal» – Star-Duo in die Türkei",
-            "date": "12.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/90e0a47.webp"
         }
     ],
     "schedule": {
