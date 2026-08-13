@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-12 17:30:21",
+    "last_updated": "2026-08-13 05:38:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Lukaku und Vlahovic: Die nächsten Stars zieht es in die Türkei",
+            "title": "Uefa Supercup in Salzburg - Neue Saison, altes Bild: PSG holt den nächsten Pokal",
             "date": "12.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4e2dc1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/30ccbb.webp"
         },
         {
-            "title": "News aus der Super League - GC holt albanischen Nationalspieler für die Abwehr",
+            "title": "Internationale Fussball-News - Xavi übernimmt «Elftal» – Star-Duo in die Türkei",
             "date": "12.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/24e9e6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/90e0a47.webp"
         }
     ],
     "schedule": {
