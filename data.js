@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-13 07:59:42",
+    "last_updated": "2026-08-13 13:59:04",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Kuriosum bei Testspiel - Penaltyschiessen ohne Torhüter: Malaga «gewinnt» Trophäe",
+            "date": "13.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a50d636.webp"
+        },
         {
             "title": "Rückspiele in 3. Quali-Runde - Europacup-Aussichten sind rosig – nur Vaduz im Hintertreffen",
             "date": "13.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/4cd0e9.webp"
-        },
-        {
-            "title": "Uefa Supercup in Salzburg - Neue Saison, altes Bild: PSG holt den nächsten Pokal",
-            "date": "12.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/30ccbb.webp"
         }
     ],
     "schedule": {
