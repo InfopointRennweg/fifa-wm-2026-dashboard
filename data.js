@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-14 07:56:39",
+    "last_updated": "2026-08-14 13:55:05",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "«Resultat völlig sekundär» - Die Thalwiler «Kumpel-Truppe» ist bereit für den Titelverteidiger",
+            "title": "Übersicht der Playoff-Gegner - Thun muss sich noch gedulden – Sions letzte Hürde heisst Ajax",
             "date": "14.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/25b3a9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b345de1.webp"
         },
         {
-            "title": "Vor Duell mit Basel am Freitag - Nach Europacup-Debakel: Bachmann soll YB in die Spur bringen",
+            "title": "News aus der Super League - 2 Spiele verschoben – GC holt von Moos – Abgänge bei FCB und FCZ",
             "date": "14.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9962ba.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/fed509a.webp"
         }
     ],
     "schedule": {
