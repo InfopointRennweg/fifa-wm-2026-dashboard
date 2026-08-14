@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-14 05:36:30",
+    "last_updated": "2026-08-14 07:56:39",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Conference League: Round-up - Playoffs sicher: Sion wieder dank Boteli – Lugano dank Comeback",
-            "date": "13.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2df97e.webp"
+            "title": "«Resultat völlig sekundär» - Die Thalwiler «Kumpel-Truppe» ist bereit für den Titelverteidiger",
+            "date": "14.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/25b3a9.webp"
         },
         {
-            "title": "Europa League: 3. Quali-Runde - Europacup-Ligaphase fix: Thun kann trotz Pleite auf Island jubeln",
-            "date": "13.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d8b311.webp"
+            "title": "Vor Duell mit Basel am Freitag - Nach Europacup-Debakel: Bachmann soll YB in die Spur bringen",
+            "date": "14.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9962ba.webp"
         }
     ],
     "schedule": {
