@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-15 13:08:46",
+    "last_updated": "2026-08-15 16:51:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "1. Runde Schweizer Cup - YB muss sich gedulden – Basel und Servette feiern Schützenfeste",
+            "date": "15.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/c1c9b4.webp"
+        },
         {
             "title": "News aus der Super League - GC holt Morandi zurück",
             "date": "15.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/372a5a.webp"
-        },
-        {
-            "title": "Freimann-Trio im Cup in Buochs - Heimspiel gegen die Brüder: «Zuhause fallen schon Sprüche»",
-            "date": "15.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1eacf9.webp"
         }
     ],
     "schedule": {
