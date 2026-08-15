@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-15 04:28:27",
+    "last_updated": "2026-08-15 07:05:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "1. Runde Schweizer Cup - Der FCZ in Tuggen mit Mühe – Lausanne souverän",
-            "date": "14.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d0b447.webp"
+            "title": "Kurz vor Cupspiel - Lausanne-Talent erzwingt Abgang – Klub verärgert",
+            "date": "15.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/15bd3d.webp"
         },
         {
-            "title": "Women's Super League - 2 Spiele, 6 Punkte: Basel besiegt auch YB",
-            "date": "14.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/982e4cd.webp"
+            "title": "Ausblick auf LaLiga-Saison - Ab Samstag rollt der Ball – aber nicht für die ewigen Favoriten",
+            "date": "15.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d3b383.webp"
         }
     ],
     "schedule": {
