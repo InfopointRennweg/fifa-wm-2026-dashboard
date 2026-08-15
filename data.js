@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-14 17:29:48",
+    "last_updated": "2026-08-15 04:28:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Übersicht der Playoff-Gegner - Thun muss sich noch gedulden – Sions letzte Hürde heisst Ajax",
+            "title": "1. Runde Schweizer Cup - Der FCZ in Tuggen mit Mühe – Lausanne souverän",
             "date": "14.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b345de1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d0b447.webp"
         },
         {
-            "title": "News aus der Super League - 2 Spiele verschoben – GC holt von Moos – Abgänge bei FCB und FCZ",
+            "title": "Women's Super League - 2 Spiele, 6 Punkte: Basel besiegt auch YB",
             "date": "14.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fed509a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/982e4cd.webp"
         }
     ],
     "schedule": {
