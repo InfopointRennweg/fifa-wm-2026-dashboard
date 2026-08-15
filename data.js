@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-15 07:05:47",
+    "last_updated": "2026-08-15 13:08:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Kurz vor Cupspiel - Lausanne-Talent erzwingt Abgang – Klub verärgert",
+            "title": "News aus der Super League - GC holt Morandi zurück",
             "date": "15.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/15bd3d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/372a5a.webp"
         },
         {
-            "title": "Ausblick auf LaLiga-Saison - Ab Samstag rollt der Ball – aber nicht für die ewigen Favoriten",
+            "title": "Freimann-Trio im Cup in Buochs - Heimspiel gegen die Brüder: «Zuhause fallen schon Sprüche»",
             "date": "15.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d3b383.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1eacf9.webp"
         }
     ],
     "schedule": {
