@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-16 13:10:09",
+    "last_updated": "2026-08-16 16:52:28",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Englischer Supercup am Sonntag - The Weeknd hat Prio: Arsenal vs. ManCity in Cardiff statt London",
+            "title": "Testspiel im St. Jakob-Park - Und dann trifft auch noch Yamal: Barcelona-Spektakel in Basel",
             "date": "16.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/515cbe.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/177ee9.webp"
         },
         {
-            "title": "1. Runde Schweizer Cup - YB beweist Geduld – Basel, GC und Servette locker weiter",
-            "date": "15.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c1c9b4.webp"
+            "title": "Supercup-Sieg über ManCity - Arsenal setzt im Community Shield ein frühes Ausrufezeichen",
+            "date": "16.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f50747.webp"
         }
     ],
     "schedule": {
