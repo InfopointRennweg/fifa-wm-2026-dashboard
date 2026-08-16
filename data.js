@@ -1,9 +1,9 @@
 const dashboardData = {
-    "last_updated": "2026-08-15 16:51:13",
+    "last_updated": "2026-08-16 04:33:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "1. Runde Schweizer Cup - YB muss sich gedulden – Basel und Servette feiern Schützenfeste",
+            "title": "1. Runde Schweizer Cup - YB beweist Geduld – Basel, GC und Servette locker weiter",
             "date": "15.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/c1c9b4.webp"
         },
