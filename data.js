@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-16 04:33:45",
+    "last_updated": "2026-08-16 07:08:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Englischer Supercup am Sonntag - The Weeknd hat Prio: Arsenal vs. ManCity in Cardiff statt London",
+            "date": "16.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/515cbe.webp"
+        },
         {
             "title": "1. Runde Schweizer Cup - YB beweist Geduld – Basel, GC und Servette locker weiter",
             "date": "15.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/c1c9b4.webp"
-        },
-        {
-            "title": "News aus der Super League - GC holt Morandi zurück",
-            "date": "15.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/372a5a.webp"
         }
     ],
     "schedule": {
