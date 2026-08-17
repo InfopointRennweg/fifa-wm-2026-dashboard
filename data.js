@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-17 13:22:05",
+    "last_updated": "2026-08-17 16:56:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Stürmer Yael Trepy - Beinahe ertrunken: Cagliari-Profi auf Intensivstation",
+            "date": "17.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a518af.webp"
+        },
         {
             "title": "City-Event mit Premiere - Während vier Tagen war Baden eine Beachsoccer-Hochburg",
             "date": "17.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/d708ef.webp"
-        },
-        {
-            "title": "Superstar plant Vermächtnis - «Wahrscheinlich mein letztes Jahr»: Ronaldo denkt an Rücktritt",
-            "date": "17.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/32a6ac.webp"
         }
     ],
     "schedule": {
