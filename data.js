@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-17 07:30:41",
+    "last_updated": "2026-08-17 13:22:05",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Belgier Pocognoli neuer schottischer Nationalcoach",
-            "date": "16.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/542946.webp"
+            "title": "City-Event mit Premiere - Während vier Tagen war Baden eine Beachsoccer-Hochburg",
+            "date": "17.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d708ef.webp"
         },
         {
-            "title": "Auslosung 2. Runde Cup - Aarau fordert den FCZ, Luzern muss zu Winterthur, Basel nach Nyon",
-            "date": "16.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1b735f.webp"
+            "title": "Superstar plant Vermächtnis - «Wahrscheinlich mein letztes Jahr»: Ronaldo denkt an Rücktritt",
+            "date": "17.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/32a6ac.webp"
         }
     ],
     "schedule": {
