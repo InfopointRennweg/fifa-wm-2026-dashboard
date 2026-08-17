@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-16 16:52:28",
+    "last_updated": "2026-08-17 04:39:51",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Testspiel im St. Jakob-Park - Und dann trifft auch noch Yamal: Barcelona-Spektakel in Basel",
+            "title": "Internationale Fussball-News - Belgier Pocognoli neuer schottischer Nationalcoach",
             "date": "16.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/177ee9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/542946.webp"
         },
         {
-            "title": "Supercup-Sieg über ManCity - Arsenal setzt im Community Shield ein frühes Ausrufezeichen",
+            "title": "Auslosung 2. Runde Cup - Aarau fordert den FCZ, Luzern muss zu Winterthur, Basel nach Nyon",
             "date": "16.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f50747.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1b735f.webp"
         }
     ],
     "schedule": {
