@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-08-18 13:24:37",
+    "last_updated": "2026-08-18 16:58:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,7 +8,7 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/c422a5.webp"
         },
         {
-            "title": "Transfersaga beendet - Barça gewinnt den Poker um Rodri – Real geht leer aus",
+            "title": "Transfer-Saga beendet - Rodri-Wechsel zu Barça offiziell – Real geht leer aus",
             "date": "18.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/d6cd8f.webp"
         }
