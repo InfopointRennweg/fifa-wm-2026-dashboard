@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-18 07:12:58",
+    "last_updated": "2026-08-18 13:24:37",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Kritik an Infantino - Fifa trennt sich von Betriebsdirektor Lamour",
-            "date": "17.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dc02ca.webp"
+            "title": "Internationale Fussball-News - Auf Leihbasis: Füllkrug kehrt zu Bremen zurück",
+            "date": "18.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/c422a5.webp"
         },
         {
-            "title": "Stürmer Yael Trepy - Beinahe ertrunken: Cagliari-Profi auf Intensivstation",
-            "date": "17.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a518af.webp"
+            "title": "Transfersaga beendet - Barça gewinnt den Poker um Rodri – Real geht leer aus",
+            "date": "18.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d6cd8f.webp"
         }
     ],
     "schedule": {
