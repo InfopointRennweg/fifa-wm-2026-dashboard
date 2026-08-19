@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-19 13:25:55",
+    "last_updated": "2026-08-19 16:56:36",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nach dem Cup ist vor der ConfL - Von Kerzers zu Ajax: Sion und der Kulturschock",
+            "date": "19.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/670502.webp"
+        },
         {
             "title": "Nach 11 Jahren bei Gladbach - Die Premier League ruft: Elvedi zieht es zu Leeds United",
             "date": "19.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/a79912.webp"
-        },
-        {
-            "title": "News aus der Super League - Lekoueiry erleidet Kreuzbandriss – Neuansetzungen in Super League",
-            "date": "19.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0173c5.webp"
         }
     ],
     "schedule": {
