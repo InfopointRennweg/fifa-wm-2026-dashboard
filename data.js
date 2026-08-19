@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-18 16:58:32",
+    "last_updated": "2026-08-19 04:34:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Auf Leihbasis: Füllkrug kehrt zu Bremen zurück",
+            "title": "Champions League: Playoffs - Lyon erkämpft sich Remis bei «Fener» – Zagreb verspielt Führung",
             "date": "18.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c422a5.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/3ae40a1.webp"
         },
         {
-            "title": "Transfer-Saga beendet - Rodri-Wechsel zu Barça offiziell – Real geht leer aus",
+            "title": "Erneuter Kollaps - Musiala: Entwarnung nach nächstem Schreckmoment",
             "date": "18.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d6cd8f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/106549.webp"
         }
     ],
     "schedule": {
