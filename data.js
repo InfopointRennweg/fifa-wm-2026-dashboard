@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-19 07:13:26",
+    "last_updated": "2026-08-19 13:25:55",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League: Playoffs - Lyon erkämpft sich Remis bei «Fener» – Zagreb verspielt Führung",
-            "date": "18.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3ae40a1.webp"
+            "title": "Nach 11 Jahren bei Gladbach - Die Premier League ruft: Elvedi zieht es zu Leeds United",
+            "date": "19.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a79912.webp"
         },
         {
-            "title": "Erneuter Kollaps - Musiala: Entwarnung nach nächstem Schreckmoment",
-            "date": "18.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/106549.webp"
+            "title": "News aus der Super League - Lekoueiry erleidet Kreuzbandriss – Neuansetzungen in Super League",
+            "date": "19.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0173c5.webp"
         }
     ],
     "schedule": {
