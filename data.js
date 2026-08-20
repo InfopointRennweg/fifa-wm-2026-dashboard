@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-20 13:28:02",
+    "last_updated": "2026-08-20 17:01:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Am 24. Juni - Die Frauen-WM 2027 wird im legendären Maracana eröffnet",
+            "date": "20.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bad98e.webp"
+        },
         {
             "title": "Saisonstart in ENG, ITA & FRA - 25 Schweizer Legionäre stehen in den Startlöchern",
             "date": "20.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/cd2b9a.webp"
-        },
-        {
-            "title": "Die Premier League legt los - Manzambi als Schweizer Attraktion und ein grosser Titelfavorit",
-            "date": "20.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a847d3.webp"
         }
     ],
     "schedule": {
