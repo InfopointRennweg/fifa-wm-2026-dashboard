@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-19 16:56:36",
+    "last_updated": "2026-08-20 04:35:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach dem Cup ist vor der ConfL - Von Kerzers zu Ajax: Sion und der Kulturschock",
+            "title": "Champions League: Playoffs - Celtic abgebrüht und spektakulär – Bodö vor nächster CL-Saison",
             "date": "19.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/670502.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/182d85.webp"
         },
         {
-            "title": "Nach 11 Jahren bei Gladbach - Die Premier League ruft: Elvedi zieht es zu Leeds United",
+            "title": "Playoffs Conference League - Nordsjaelland und das «Recht zu träumen»",
             "date": "19.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a79912.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4cc9da.webp"
         }
     ],
     "schedule": {
