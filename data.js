@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-20 07:21:41",
+    "last_updated": "2026-08-20 13:28:02",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "«Ein guter Schritt für mich» - Neuer Klub, ambitionierte Ziele: Egli will bei Union durchstarten",
+            "title": "Saisonstart in ENG, ITA & FRA - 25 Schweizer Legionäre stehen in den Startlöchern",
             "date": "20.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9c0dda.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/cd2b9a.webp"
         },
         {
-            "title": "Champions League: Playoffs - Celtic abgebrüht und spektakulär – Bodö vor nächster CL-Saison",
-            "date": "19.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/182d85.webp"
+            "title": "Die Premier League legt los - Manzambi als Schweizer Attraktion und ein grosser Titelfavorit",
+            "date": "20.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a847d3.webp"
         }
     ],
     "schedule": {
