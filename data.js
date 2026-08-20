@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-20 04:35:13",
+    "last_updated": "2026-08-20 07:21:41",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "«Ein guter Schritt für mich» - Neuer Klub, ambitionierte Ziele: Egli will bei Union durchstarten",
+            "date": "20.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9c0dda.webp"
+        },
         {
             "title": "Champions League: Playoffs - Celtic abgebrüht und spektakulär – Bodö vor nächster CL-Saison",
             "date": "19.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/182d85.webp"
-        },
-        {
-            "title": "Playoffs Conference League - Nordsjaelland und das «Recht zu träumen»",
-            "date": "19.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4cc9da.webp"
         }
     ],
     "schedule": {
