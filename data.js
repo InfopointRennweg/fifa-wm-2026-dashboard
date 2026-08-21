@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-21 13:26:48",
+    "last_updated": "2026-08-21 17:01:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Auch Molina muss aussetzen - 10 Spielsperren: Fifa zieht Paredes aus dem Verkehr",
+            "date": "21.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/763baad.webp"
+        },
         {
             "title": "Am Samstag geht es los - Serie A: Ein Topfavorit, drei Herausforderer und neun Schweizer",
             "date": "21.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/9560d5.webp"
-        },
-        {
-            "title": "Internationale Fussball-News - Sierro nach Vertragsauflösung bei Al-Shabab auf Klubsuche",
-            "date": "21.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/23c4df.webp"
         }
     ],
     "schedule": {
