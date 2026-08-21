@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-20 17:01:42",
+    "last_updated": "2026-08-21 04:35:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Am 24. Juni - Die Frauen-WM 2027 wird im legendären Maracana eröffnet",
+            "title": "ConfL: Playoff-Hinspiel - Nach wilder 2. Halbzeit: Sion zieht gegen Ajax den Kürzeren",
             "date": "20.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bad98e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f8d39a.webp"
         },
         {
-            "title": "Saisonstart in ENG, ITA & FRA - 25 Schweizer Legionäre stehen in den Startlöchern",
+            "title": "Playoffs Conference League - Geschenke aus Tel Aviv: Lugano erspielt sich leichten Vorteil",
             "date": "20.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cd2b9a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/52e128.webp"
         }
     ],
     "schedule": {
