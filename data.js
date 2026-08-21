@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-21 07:22:19",
+    "last_updated": "2026-08-21 13:26:48",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor Spitzenspiel gegen YB - Servettes Terchoun: Nach bitterem Dijon das schöne Double?",
+            "title": "Am Samstag geht es los - Serie A: Ein Topfavorit, drei Herausforderer und neun Schweizer",
             "date": "21.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/39d523.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/9560d5.webp"
         },
         {
-            "title": "ConfL: Playoff-Hinspiel - Nach wilder 2. Halbzeit: Sion zieht gegen Ajax den Kürzeren",
-            "date": "20.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f8d39a.webp"
+            "title": "Internationale Fussball-News - Sierro nach Vertragsauflösung bei Al-Shabab auf Klubsuche",
+            "date": "21.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/23c4df.webp"
         }
     ],
     "schedule": {
