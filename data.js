@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-22 13:10:05",
+    "last_updated": "2026-08-22 16:51:14",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Premier League am Samstag - ManUnited blamiert sich – Xhaka verliert mit Sunderland",
+            "date": "22.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/04ef3c4.webp"
+        },
         {
             "title": "Übersicht frühere Fifa-Sperren - Paredes auf Strafenskala weit, aber nicht ganz oben",
             "date": "22.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/e206cb.webp"
-        },
-        {
-            "title": "Die Gründe ihrer Rückkehr - Wälti: «Habe die Wertschätzung als Fussballerin vermisst»",
-            "date": "22.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/39c744.webp"
         }
     ],
     "schedule": {
