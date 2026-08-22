@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-21 17:01:45",
+    "last_updated": "2026-08-22 04:30:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Auch Molina muss aussetzen - 10 Spielsperren: Fifa zieht Paredes aus dem Verkehr",
+            "title": "Fussball aus den Topligen - Arsenal zeigt Aufsteiger Coventry zum Saisonstart den Meister",
             "date": "21.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/763baad.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ece9f2.webp"
         },
         {
-            "title": "Am Samstag geht es los - Serie A: Ein Topfavorit, drei Herausforderer und neun Schweizer",
+            "title": "Egli und Kamber in Startelf - Union Berlin muss sich zum Bundesliga-Auftakt Bayern beugen",
             "date": "21.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9560d5.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/cdd524.webp"
         }
     ],
     "schedule": {
