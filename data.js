@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-22 07:08:25",
+    "last_updated": "2026-08-22 13:10:05",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Arsenal zeigt Aufsteiger Coventry zum Saisonstart den Meister",
-            "date": "21.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ece9f2.webp"
+            "title": "Übersicht frühere Fifa-Sperren - Paredes auf Strafenskala weit, aber nicht ganz oben",
+            "date": "22.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e206cb.webp"
         },
         {
-            "title": "Egli und Kamber in Startelf - Union Berlin muss sich zum Bundesliga-Auftakt Bayern beugen",
-            "date": "21.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cdd524.webp"
+            "title": "Die Gründe ihrer Rückkehr - Wälti: «Habe die Wertschätzung als Fussballerin vermisst»",
+            "date": "22.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/39c744.webp"
         }
     ],
     "schedule": {
