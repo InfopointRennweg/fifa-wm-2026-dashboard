@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-23 07:09:36",
+    "last_updated": "2026-08-23 13:11:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Penaltyszene bei FCZ – FCB - Und wieder erhitzen sich an der Hands-Regel die Gemüter",
+            "date": "23.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/3a9eb9.webp"
+        },
         {
             "title": "Wildes 2:1 im Letzigrund - Dank Joker Shaqiri, Hexer Salvi und VAR: Basel siegt im Klassiker",
             "date": "22.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/97cf56.webp"
-        },
-        {
-            "title": "Fussball aus den Topligen - Romano schiesst Cagliari zum Sieg – Frey erneut mit Doppelpack",
-            "date": "22.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e6cd70.webp"
         }
     ],
     "schedule": {
