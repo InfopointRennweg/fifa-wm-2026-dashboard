@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-22 16:51:14",
+    "last_updated": "2026-08-23 04:34:30",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Premier League am Samstag - ManUnited blamiert sich – Xhaka verliert mit Sunderland",
+            "title": "Wildes 2:1 im Letzigrund - Dank Joker Shaqiri, Hexer Salvi und VAR: Basel siegt im Klassiker",
             "date": "22.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/04ef3c4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/97cf56.webp"
         },
         {
-            "title": "Übersicht frühere Fifa-Sperren - Paredes auf Strafenskala weit, aber nicht ganz oben",
+            "title": "Fussball aus den Topligen - Romano schiesst Cagliari zum Sieg – Frey erneut mit Doppelpack",
             "date": "22.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e206cb.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e6cd70.webp"
         }
     ],
     "schedule": {
