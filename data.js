@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-23 13:11:23",
+    "last_updated": "2026-08-23 16:52:54",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Penaltyszene bei FCZ – FCB - Und wieder erhitzen sich an der Hands-Regel die Gemüter",
+            "title": "Nati-Stürmer in die USA - Nach einem Jahr in Rennes: Embolo wechselt in die MLS",
             "date": "23.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3a9eb9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/43c6228.webp"
         },
         {
-            "title": "Wildes 2:1 im Letzigrund - Dank Joker Shaqiri, Hexer Salvi und VAR: Basel siegt im Klassiker",
-            "date": "22.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/97cf56.webp"
+            "title": "1. Runde im DFB-Pokal - Lustrinelli mit gelungenem Pflichtspieldebüt",
+            "date": "23.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/19f1c3.webp"
         }
     ],
     "schedule": {
