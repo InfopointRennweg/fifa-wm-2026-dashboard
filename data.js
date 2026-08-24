@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-24 04:41:51",
+    "last_updated": "2026-08-24 07:35:40",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Doppelpacker Torres rettet PSG – Barça feiert Kantersieg",
-            "date": "23.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/aeb9ff1.webp"
+            "title": "Fussball-Bilder vom Wochenende - Frisur-Kurswechsel, das unbekannte Jeddeloh und der «Ball-Schutz»",
+            "date": "24.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0d5efbe.webp"
         },
         {
-            "title": "Nati-Stürmer in die USA - Nach einem Jahr in Rennes: Embolo wechselt in die MLS",
-            "date": "23.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/43c6228.webp"
+            "title": "Wahl Fifa-Präsident - Ceferin fordert Infantino nicht heraus",
+            "date": "24.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/117f31.webp"
         }
     ],
     "schedule": {
