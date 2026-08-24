@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-23 16:52:54",
+    "last_updated": "2026-08-24 04:41:51",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Fussball aus den Topligen - Doppelpacker Torres rettet PSG – Barça feiert Kantersieg",
+            "date": "23.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/aeb9ff1.webp"
+        },
         {
             "title": "Nati-Stürmer in die USA - Nach einem Jahr in Rennes: Embolo wechselt in die MLS",
             "date": "23.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/43c6228.webp"
-        },
-        {
-            "title": "1. Runde im DFB-Pokal - Lustrinelli mit gelungenem Pflichtspieldebüt",
-            "date": "23.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/19f1c3.webp"
         }
     ],
     "schedule": {
