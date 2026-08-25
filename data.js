@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-24 17:05:34",
+    "last_updated": "2026-08-25 04:36:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Viele Abgänge beim Meister - Thuns Meisterteam zerfällt – das zeigen auch die Ergebnisse",
+            "title": "Erste Runde im DFB-Pokal - Schalke und Köln vermeiden frühe Pokal-Pleiten",
             "date": "24.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9a62c1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/54954d.webp"
         },
         {
-            "title": "Schweizerinnen im Ausland - Pilgrim schiesst Roma zum Sieg – Vallotto gewinnt 10-Tore-Spiel",
+            "title": "Fussball aus den Topligen - Chelsea gewinnt Derby nach Blitzstart – auch Römer Klubs siegen",
             "date": "24.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d1bea40.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ab8be5.webp"
         }
     ],
     "schedule": {
