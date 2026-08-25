@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-25 13:29:21",
+    "last_updated": "2026-08-25 17:06:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Tottenham holt auch noch Savinho",
+            "title": "Nach Freuler-Wechsel zu Piräus - Griechenland vs. Schweiz: «Technisch ist der Fussball besser»",
             "date": "25.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/df03d3.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6f49090.webp"
         },
         {
-            "title": "Kuriose Transfer-Pannen - Streikendes Faxgerät, fehlende Papiere und Schlamperei",
+            "title": "News aus der Super League - Nach Malachowskis Foul: Vierfacher Nasenbeinbruch bei Kamberi",
             "date": "25.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/295d71.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d49501.webp"
         }
     ],
     "schedule": {
