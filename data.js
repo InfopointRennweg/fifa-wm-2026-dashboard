@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-25 04:36:52",
+    "last_updated": "2026-08-25 07:23:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Adidas Azteca der WM 1986 - Maradonas «Hand Gottes»-Tor: Ball für Millionen versteigert",
+            "date": "25.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d13677.webp"
+        },
         {
             "title": "Erste Runde im DFB-Pokal - Schalke und Köln vermeiden frühe Pokal-Pleiten",
             "date": "24.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/54954d.webp"
-        },
-        {
-            "title": "Fussball aus den Topligen - Chelsea gewinnt Derby nach Blitzstart – auch Römer Klubs siegen",
-            "date": "24.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ab8be5.webp"
         }
     ],
     "schedule": {
