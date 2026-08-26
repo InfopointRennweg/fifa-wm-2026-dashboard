@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-25 17:06:07",
+    "last_updated": "2026-08-26 04:37:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Freuler-Wechsel zu Piräus - Griechenland vs. Schweiz: «Technisch ist der Fussball besser»",
+            "title": "Celtic verspielt ein 3:0 - Das Wunder von Linz: Der LASK erfüllt sich den CL-Traum",
             "date": "25.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6f49090.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4876ae.webp"
         },
         {
-            "title": "News aus der Super League - Nach Malachowskis Foul: Vierfacher Nasenbeinbruch bei Kamberi",
+            "title": "Champions League: Playoffs - Sabah schafft Premiere, Bodö/Glimt die Bestätigung",
             "date": "25.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d49501.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/db16d38.webp"
         }
     ],
     "schedule": {
