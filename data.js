@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-26 07:23:40",
+    "last_updated": "2026-08-26 13:34:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Celtic verspielt ein 3:0 - Das Wunder von Linz: Der LASK erfüllt sich den CL-Traum",
-            "date": "25.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4876ae.webp"
+            "title": "Schweizer Fussball-News - Nati-Assistentin Simic auch Co-Trainerin bei Nürnberg",
+            "date": "26.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e230dd.webp"
         },
         {
-            "title": "Champions League: Playoffs - Sabah schafft Premiere, Bodö/Glimt die Bestätigung",
-            "date": "25.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/db16d38.webp"
+            "title": "Internationale Fussball-News - ManCity zahlt 100 Mio. für Bouaddi – Palhinha verlässt Bayern",
+            "date": "26.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/578a46.webp"
         }
     ],
     "schedule": {
