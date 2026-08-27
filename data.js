@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-27 17:45:40",
+    "last_updated": "2026-08-27 22:30:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League: Auslosung - PSG trifft auf Barça und ManCity – Real Madrid muss zu Arsenal",
+            "title": "Playoffs Conference League - Früh Gelb-Rot nach Schwalbe: Kein Europa-Abenteuer für St. Gallen",
             "date": "27.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f4996d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f02e1a.webp"
         },
         {
-            "title": "In der CL-Quali angefangen - Hearts erreichen Conference League ohne einen einzigen Sieg",
+            "title": "Conference League: Playoffs - Trotz Boteli-Hattrick: Sion nach neuerlichem Torspektakel out",
             "date": "27.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cadb56.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/96d26c.webp"
         }
     ],
     "schedule": {
