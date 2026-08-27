@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-26 18:17:44",
+    "last_updated": "2026-08-27 14:59:20",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Schweizer Fussball-News - Nati-Assistentin Simic auch Co-Trainerin bei Nürnberg",
-            "date": "26.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e230dd.webp"
+            "title": "In der CL-Quali angefangen - Hearts erreichen Conference League ohne einen einzigen Sieg",
+            "date": "27.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/cadb56.webp"
         },
         {
-            "title": "Internationale Fussball-News - ManCity zahlt 100 Mio. für Bouaddi – Palhinha verlässt Bayern",
-            "date": "26.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/578a46.webp"
+            "title": "Transfer-Ticker - «Kommt nicht in Frage»: Alvarez-Wechsel zu Barça zerschlagen",
+            "date": "27.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d55e8a.webp"
         }
     ],
     "schedule": {
