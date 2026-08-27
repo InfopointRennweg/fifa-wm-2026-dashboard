@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-27 14:59:20",
+    "last_updated": "2026-08-27 17:45:40",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Champions League: Auslosung - PSG trifft auf Barça und ManCity – Real Madrid muss zu Arsenal",
+            "date": "27.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f4996d.webp"
+        },
         {
             "title": "In der CL-Quali angefangen - Hearts erreichen Conference League ohne einen einzigen Sieg",
             "date": "27.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/cadb56.webp"
-        },
-        {
-            "title": "Transfer-Ticker - «Kommt nicht in Frage»: Alvarez-Wechsel zu Barça zerschlagen",
-            "date": "27.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d55e8a.webp"
         }
     ],
     "schedule": {
