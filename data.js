@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-28 01:04:04",
+    "last_updated": "2026-08-28 15:54:44",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Playoffs Conference League - Früh Gelb-Rot nach Schwalbe: Kein Europa-Abenteuer für St. Gallen",
-            "date": "27.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f02e1a.webp"
+            "title": "Auslosung Conference League - Thun muss bei Ajax ran, Lugano gegen Roter Stern Belgrad",
+            "date": "28.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/3d36889.webp"
         },
         {
-            "title": "Conference League: Playoffs - Trotz Boteli-Hattrick: Sion nach neuerlichem Torspektakel out",
-            "date": "27.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/96d26c.webp"
+            "title": "Nach Hattrick in Amsterdam - Boteli trifft und trifft und trifft – wie lange noch für Sion?",
+            "date": "28.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/36e94a.webp"
         }
     ],
     "schedule": {
