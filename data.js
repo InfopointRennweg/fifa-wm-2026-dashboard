@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-28 18:53:23",
+    "last_updated": "2026-08-28 22:33:06",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Auslosung Conference League - Thun muss bei Ajax ran, Lugano gegen Roter Stern Belgrad",
+            "title": "Fussball aus den Topligen - Verdienter Auswärtssieg für ManCity – PSG punktet spät",
             "date": "28.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3d36889.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/86404db.webp"
         },
         {
-            "title": "Nach Hattrick in Amsterdam - Boteli trifft und trifft und trifft – wie lange noch für Sion?",
+            "title": "Auftakt der Bundesliga - Heimsieg gegen Stuttgart: Bayern startet erfolgreich",
             "date": "28.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/36e94a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0d385f.webp"
         }
     ],
     "schedule": {
