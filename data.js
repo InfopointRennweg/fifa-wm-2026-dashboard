@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-29 12:46:19",
+    "last_updated": "2026-08-29 16:50:40",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Neuer Stürmer: Lausanne bedient sich bei Nordsjaelland",
+            "title": "1. Spieltag der Bundesliga - Lustrinellis Union mit spätem Punkt – Elversberg schlägt Bayer",
             "date": "29.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bc37e13.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0ae395.webp"
         },
         {
-            "title": "SRF-Livespiel am Samstag - Lichtsteiner, Shaqiri und das Wankdorf: 5 Fragen vor YB – Basel",
+            "title": "Fussball aus den Topligen - Ndoye trifft bei Nottingham-Remis in Liverpool",
             "date": "29.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2a112f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/49bb87.webp"
         }
     ],
     "schedule": {
