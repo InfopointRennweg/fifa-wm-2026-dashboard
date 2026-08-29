@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-29 00:37:24",
+    "last_updated": "2026-08-29 10:48:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Verdienter Auswärtssieg für ManCity – PSG punktet spät",
-            "date": "28.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/86404db.webp"
+            "title": "News aus der Super League - Neuer Stürmer: Lausanne bedient sich bei Nordsjaelland",
+            "date": "29.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bc37e13.webp"
         },
         {
-            "title": "Auftakt der Bundesliga - Heimsieg gegen Stuttgart: Bayern startet erfolgreich",
-            "date": "28.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0d385f.webp"
+            "title": "SRF-Livespiel am Samstag - Lichtsteiner, Shaqiri und das Wankdorf: 5 Fragen vor YB – Basel",
+            "date": "29.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2a112f.webp"
         }
     ],
     "schedule": {
