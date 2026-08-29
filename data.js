@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-29 16:50:40",
+    "last_updated": "2026-08-29 19:28:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "1. Spieltag der Bundesliga - Lustrinellis Union mit spätem Punkt – Elversberg schlägt Bayer",
+            "title": "5. Runde der Super League - 10 Luzerner erkämpfen sich nach Fehlstart einen Punkt in Genf",
             "date": "29.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0ae395.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/16714f.webp"
         },
         {
-            "title": "Fussball aus den Topligen - Ndoye trifft bei Nottingham-Remis in Liverpool",
+            "title": "Super League, 5. Runde - Dank «Maskenmann» Kamberi und Emmanuel: FCZ siegt in Lausanne",
             "date": "29.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/49bb87.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/483c79.webp"
         }
     ],
     "schedule": {
