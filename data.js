@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-30 09:44:51",
+    "last_updated": "2026-08-30 12:04:54",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Aktiv auf dem Transfermarkt: Lausanne holt auch Cozza",
+            "date": "30.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/c64f7c.webp"
+        },
         {
             "title": "Aufsteiger Vaduz empfängt GC - Duell der beiden Sieglosen im «Ländle»",
             "date": "30.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/b5b61c.webp"
-        },
-        {
-            "title": "3:3-Remis im Wankdorf - 6 Tore, aber kein Sieger: YB kann Basel nicht in die Knie zwingen",
-            "date": "29.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/04738d.webp"
         }
     ],
     "schedule": {
