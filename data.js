@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-29 19:28:35",
+    "last_updated": "2026-08-30 09:44:51",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "5. Runde der Super League - 10 Luzerner erkämpfen sich nach Fehlstart einen Punkt in Genf",
-            "date": "29.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/16714f.webp"
+            "title": "Aufsteiger Vaduz empfängt GC - Duell der beiden Sieglosen im «Ländle»",
+            "date": "30.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b5b61c.webp"
         },
         {
-            "title": "Super League, 5. Runde - Dank «Maskenmann» Kamberi und Emmanuel: FCZ siegt in Lausanne",
+            "title": "3:3-Remis im Wankdorf - 6 Tore, aber kein Sieger: YB kann Basel nicht in die Knie zwingen",
             "date": "29.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/483c79.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/04738d.webp"
         }
     ],
     "schedule": {
