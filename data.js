@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-30 12:04:54",
+    "last_updated": "2026-08-30 16:55:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Aktiv auf dem Transfermarkt: Lausanne holt auch Cozza",
+            "title": "Super League, 5. Runde - Wildes 4:3 – Thun zeigt Meistergesicht und siegt in St. Gallen",
             "date": "30.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c64f7c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a583b7.webp"
         },
         {
-            "title": "Aufsteiger Vaduz empfängt GC - Duell der beiden Sieglosen im «Ländle»",
+            "title": "5:2-Erfolg im Rheinpark - Erster Saisonsieg: Vaduz behält gegen GC klar die Oberhand",
             "date": "30.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b5b61c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ef2bfd.webp"
         }
     ],
     "schedule": {
