@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-31 10:33:24",
+    "last_updated": "2026-08-31 14:14:03",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "FCB-Captain nur Bankdrücker - Shaqiri als Edelreservist: Nur vorübergehend oder bald dauerhaft?",
+            "title": "Noch vor Bundesliga-Debüt - Hoffenheim leiht Vogt nach Heidenheim aus",
             "date": "31.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/36d06a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2cdbc8.webp"
         },
         {
-            "title": "Nach 65 Länderspielen - Widmer tritt aus der Nati zurück",
+            "title": "Bessere Bedingungen - Schweizer Spitzenschiedsrichter werden Profis",
             "date": "31.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/37735c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/862b01.webp"
         }
     ],
     "schedule": {
