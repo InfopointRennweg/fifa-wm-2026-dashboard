@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-31 14:14:03",
+    "last_updated": "2026-08-31 19:12:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "WM-Final war letztes Spiel - «Tut in der Seele weh»: Messi tritt aus Nationalteam zurück",
+            "date": "31.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/7599a7.webp"
+        },
         {
             "title": "Noch vor Bundesliga-Debüt - Hoffenheim leiht Vogt nach Heidenheim aus",
             "date": "31.08.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/2cdbc8.webp"
-        },
-        {
-            "title": "Bessere Bedingungen - Schweizer Spitzenschiedsrichter werden Profis",
-            "date": "31.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/862b01.webp"
         }
     ],
     "schedule": {
