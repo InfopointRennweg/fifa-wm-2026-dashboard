@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-31 19:12:34",
+    "last_updated": "2026-08-31 21:34:25",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Final war letztes Spiel - «Tut in der Seele weh»: Messi tritt aus Nationalteam zurück",
+            "title": "Fussball aus den Topligen - Aston Villa unterliegt Arsenal ohne Manzambi – Barcelona souverän",
             "date": "31.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7599a7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/efadcf.webp"
         },
         {
-            "title": "Noch vor Bundesliga-Debüt - Hoffenheim leiht Vogt nach Heidenheim aus",
+            "title": "Nach fünf Jahren bei YB - Monteiro wechselt in die Serie A zu Lecce",
             "date": "31.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2cdbc8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/609bca.webp"
         }
     ],
     "schedule": {
