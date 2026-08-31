@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-08-30 19:23:39",
+    "last_updated": "2026-08-31 10:33:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Freiburg und Augsburg mit klaren Auftaktsiegen",
-            "date": "30.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f8fe90.webp"
+            "title": "FCB-Captain nur Bankdrücker - Shaqiri als Edelreservist: Nur vorübergehend oder bald dauerhaft?",
+            "date": "31.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/36d06a.webp"
         },
         {
-            "title": "Super League, 5. Runde - Wildes 4:3 – Thun zeigt Meistergesicht und siegt in St. Gallen",
-            "date": "30.08.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a583b7.webp"
+            "title": "Nach 65 Länderspielen - Widmer tritt aus der Nati zurück",
+            "date": "31.08.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/37735c.webp"
         }
     ],
     "schedule": {
