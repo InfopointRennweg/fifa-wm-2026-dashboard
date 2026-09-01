@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-01 11:52:44",
+    "last_updated": "2026-09-01 16:50:41",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Koindredi zurück in Lausanne – ein Este für Thun",
+            "title": "Chief Sports Officer beim SFV - Marinko Jurendic drückt zum Start den Finger in die Wunde",
             "date": "01.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/324443.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6ec1b17.webp"
         },
         {
-            "title": "Champions League bei SRF - Fabian Frei und Bruno Berner folgen auf Diego Benaglio",
+            "title": "Internationale Fussball-News - «Weg frei machen»: Rüdiger tritt aus DFB-Team zurück",
             "date": "01.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/680298.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/5b719a.webp"
         }
     ],
     "schedule": {
