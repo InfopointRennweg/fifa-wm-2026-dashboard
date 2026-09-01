@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-01 09:10:45",
+    "last_updated": "2026-09-01 11:52:44",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Koindredi zurück in Lausanne – ein Este für Thun",
+            "date": "01.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/324443.webp"
+        },
         {
             "title": "Champions League bei SRF - Fabian Frei und Bruno Berner folgen auf Diego Benaglio",
             "date": "01.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/680298.webp"
-        },
-        {
-            "title": "Über 41'000 Fans sind dabei - Alle wollen den BVB sehen: Hamburger Fünftligist mit Rekord",
-            "date": "01.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e7b88e.webp"
         }
     ],
     "schedule": {
