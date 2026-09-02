@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-01 19:29:17",
+    "last_updated": "2026-09-02 08:24:02",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Chief Sports Officer beim SFV - Marinko Jurendic drückt zum Start den Finger in die Wunde",
-            "date": "01.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6ec1b17.webp"
+            "title": "Rekordsumme in Premier League - Fernandez wechselt für 145 Millionen von Chelsea zu ManCity",
+            "date": "02.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/306646.webp"
         },
         {
-            "title": "Internationale Fussball-News - «Weg frei machen»: Rüdiger tritt aus DFB-Team zurück",
+            "title": "6. Runde der Super League - Jubilar Fassnacht schiesst den FCZ im Alleingang ab",
             "date": "01.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5b719a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c4d39f6.webp"
         }
     ],
     "schedule": {
