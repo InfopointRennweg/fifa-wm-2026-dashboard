@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-02 16:48:10",
+    "last_updated": "2026-09-02 19:27:28",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nach Heimsieg gegen Prag - Servette Chênois erfüllt sich den Traum von der Champions League",
+            "date": "02.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1cbebf.webp"
+        },
         {
             "title": "4,1 Milliarden Euro ausgegeben - Premier League: Eine Insel im Kaufrausch",
             "date": "02.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/7f5476.webp"
-        },
-        {
-            "title": "Disput mit Regierung - «Gedemütigt»: Aubameyang spielt nicht mehr für Gabun",
-            "date": "02.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3704fe.webp"
         }
     ],
     "schedule": {
