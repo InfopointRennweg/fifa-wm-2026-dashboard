@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-02 08:24:02",
+    "last_updated": "2026-09-02 11:33:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Rekordsumme in Premier League - Fernandez wechselt für 145 Millionen von Chelsea zu ManCity",
+            "title": "Nach Hattrick im Letzigrund - Beim FCZ wollte man ihn nicht: Fassnacht macht die 100 voll",
             "date": "02.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/306646.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/981219.webp"
         },
         {
-            "title": "6. Runde der Super League - Jubilar Fassnacht schiesst den FCZ im Alleingang ab",
-            "date": "01.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c4d39f6.webp"
+            "title": "News aus der Super League - Roche verlässt Lausanne in Richtung Belgien – Kablan lange out",
+            "date": "02.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1d416cd.webp"
         }
     ],
     "schedule": {
