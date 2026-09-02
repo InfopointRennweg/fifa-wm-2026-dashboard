@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-02 11:33:38",
+    "last_updated": "2026-09-02 16:48:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Hattrick im Letzigrund - Beim FCZ wollte man ihn nicht: Fassnacht macht die 100 voll",
+            "title": "4,1 Milliarden Euro ausgegeben - Premier League: Eine Insel im Kaufrausch",
             "date": "02.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/981219.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/7f5476.webp"
         },
         {
-            "title": "News aus der Super League - Roche verlässt Lausanne in Richtung Belgien – Kablan lange out",
+            "title": "Disput mit Regierung - «Gedemütigt»: Aubameyang spielt nicht mehr für Gabun",
             "date": "02.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1d416cd.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/3704fe.webp"
         }
     ],
     "schedule": {
