@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-02 19:27:28",
+    "last_updated": "2026-09-03 08:33:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Heimsieg gegen Prag - Servette Chênois erfüllt sich den Traum von der Champions League",
-            "date": "02.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1cbebf.webp"
+            "title": "Super League am Donnerstag - Lichtsteiner droht gegen Sion der Negativ-Hattrick",
+            "date": "03.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/cc6aba.webp"
         },
         {
-            "title": "4,1 Milliarden Euro ausgegeben - Premier League: Eine Insel im Kaufrausch",
-            "date": "02.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7f5476.webp"
+            "title": "Nach Nationalteam-Rücktritt - Ehre für Messi: Applaus in allen Ligen Argentiniens",
+            "date": "03.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d6e228.webp"
         }
     ],
     "schedule": {
