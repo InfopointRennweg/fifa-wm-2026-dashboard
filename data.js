@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-03 08:33:07",
+    "last_updated": "2026-09-03 11:29:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Super League am Donnerstag - Lichtsteiner droht gegen Sion der Negativ-Hattrick",
+            "title": "News aus der Super League - Französischer Innenverteidiger für Lausanne",
             "date": "03.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cc6aba.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/17c9e29.webp"
         },
         {
-            "title": "Nach Nationalteam-Rücktritt - Ehre für Messi: Applaus in allen Ligen Argentiniens",
+            "title": "Internationale Fussball-News - Dzeko kündigt Rücktritt aus Nationalteam an",
             "date": "03.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d6e228.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/9e5a19.webp"
         }
     ],
     "schedule": {
