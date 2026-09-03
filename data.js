@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-03 11:29:35",
+    "last_updated": "2026-09-03 16:37:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Französischer Innenverteidiger für Lausanne",
+            "title": "Rückkehr in die Serie A - Klubsuche beendet: Rodriguez kehrt zu Torino zurück",
             "date": "03.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/17c9e29.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/251145.webp"
         },
         {
-            "title": "Internationale Fussball-News - Dzeko kündigt Rücktritt aus Nationalteam an",
+            "title": "News aus der Super League - Französischer Innenverteidiger für Lausanne – Kabashi verlässt GC",
             "date": "03.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9e5a19.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/17c9e29.webp"
         }
     ],
     "schedule": {
