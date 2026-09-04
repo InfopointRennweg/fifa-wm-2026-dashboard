@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-03 19:22:42",
+    "last_updated": "2026-09-04 08:28:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Rückkehr in die Serie A - Klubsuche beendet: Rodriguez kehrt zu Torino zurück",
+            "title": "6. Runde der Super League - Perfekter Einstand: Ajeti schiesst Lugano zum Last-Minute-Sieg",
             "date": "03.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/251145.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/79a63b.webp"
         },
         {
-            "title": "News aus der Super League - Französischer Innenverteidiger für Lausanne – Kabashi verlässt GC",
+            "title": "Super League, 6. Runde - Einmal mehr Boteli: Sion-Juwel dreht Spiel in Basel im Alleingang",
             "date": "03.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/17c9e29.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c21e72.webp"
         }
     ],
     "schedule": {
