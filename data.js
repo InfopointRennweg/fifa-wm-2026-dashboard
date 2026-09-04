@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-04 11:32:47",
+    "last_updated": "2026-09-04 16:32:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Internationale Fussball-News - Sierro findet in der Serie A bei Parma Unterschlupf",
+            "date": "04.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/85cfd4.webp"
+        },
         {
             "title": "Women's Champions League - Servette trifft auf Titelverteidiger Barça und Rekordsieger Lyon",
             "date": "04.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/d77ba8.webp"
-        },
-        {
-            "title": "6. Runde der Super League - Perfekter Einstand: Ajeti schiesst Lugano zum Last-Minute-Sieg",
-            "date": "03.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/79a63b.webp"
         }
     ],
     "schedule": {
