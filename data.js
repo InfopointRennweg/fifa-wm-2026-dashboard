@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-05 15:28:10",
+    "last_updated": "2026-09-05 18:30:51",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Derby am Samstag live bei SRF - Kollers Wiedersehen mit GC – diesmal mit FCZ-Emblem",
+            "title": "Fussball aus den Topligen - Inter mit später Wende zum 3. Sieg",
             "date": "05.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/681780a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/269a67.webp"
         },
         {
-            "title": "Fussball aus den Topligen - Athekame mit Premierentor für Lyon – PSG und Real tauchen",
-            "date": "04.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7848ab.webp"
+            "title": "7. Runde der Super League - Nächstes Torfestival, aber kein Sieger im Wankdorf",
+            "date": "05.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5705e61.webp"
         }
     ],
     "schedule": {
