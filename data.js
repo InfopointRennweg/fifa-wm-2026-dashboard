@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-09-05 10:48:10",
+    "last_updated": "2026-09-05 15:28:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
