@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-04 19:03:26",
+    "last_updated": "2026-09-05 08:03:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Sierro findet in der Serie A bei Parma Unterschlupf",
-            "date": "04.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/85cfd4.webp"
+            "title": "Derby am Samstag live bei SRF - Kollers Wiedersehen mit GC – diesmal mit FCZ-Emblem",
+            "date": "05.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/681780a.webp"
         },
         {
-            "title": "Women's Champions League - Servette trifft auf Titelverteidiger Barça und Rekordsieger Lyon",
+            "title": "Fussball aus den Topligen - Athekame mit Premierentor für Lyon – PSG und Real tauchen",
             "date": "04.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d77ba8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/7848ab.webp"
         }
     ],
     "schedule": {
