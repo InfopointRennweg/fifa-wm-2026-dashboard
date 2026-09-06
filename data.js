@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-05 18:30:51",
+    "last_updated": "2026-09-06 08:22:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Inter mit später Wende zum 3. Sieg",
-            "date": "05.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/269a67.webp"
+            "title": "GC-Coach Zeidler ist irritiert - Pechvogel statt Derbyheld: Konsequenzen für Rückkehrer Morandi?",
+            "date": "06.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/dd3d61.webp"
         },
         {
-            "title": "7. Runde der Super League - Nächstes Torfestival, aber kein Sieger im Wankdorf",
-            "date": "05.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5705e61.webp"
+            "title": "In der MLS - Embolo trifft beim Debüt und punktet gegen Messi",
+            "date": "06.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/abad42.webp"
         }
     ],
     "schedule": {
