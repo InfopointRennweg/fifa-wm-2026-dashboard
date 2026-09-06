@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-06 15:41:21",
+    "last_updated": "2026-09-06 18:32:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "St. Gallen gewinnt in Genf - Servette am Boden – FCSG stoppt seine Baisse",
+            "title": "Premier League: 3. Spieltag - Arsenal feiert 2:1-Sieg im Derby – ManUnited lässt Punkte liegen",
             "date": "06.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b4c907.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/dc89e3f.webp"
         },
         {
-            "title": "News aus der Super League - Nach Basel gegen Lugano: Schiedsrichterin Blanco tritt zurück",
+            "title": "Fussball aus den Topligen - 5:0-Gala in Valencia – Barcelona nutzt Real-Patzer",
             "date": "06.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d03dd5.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/bf9bf0.webp"
         }
     ],
     "schedule": {
