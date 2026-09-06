@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-06 08:22:10",
+    "last_updated": "2026-09-06 11:10:43",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Vaduz-Überflieger im Fokus - Tore, Assists, Spielfreude: Dalipi führt den Aufsteiger an",
+            "date": "06.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/decbab.webp"
+        },
         {
             "title": "GC-Coach Zeidler ist irritiert - Pechvogel statt Derbyheld: Konsequenzen für Rückkehrer Morandi?",
             "date": "06.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/dd3d61.webp"
-        },
-        {
-            "title": "In der MLS - Embolo trifft beim Debüt und punktet gegen Messi",
-            "date": "06.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/abad42.webp"
         }
     ],
     "schedule": {
