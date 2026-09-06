@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-06 11:10:43",
+    "last_updated": "2026-09-06 15:41:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vaduz-Überflieger im Fokus - Tore, Assists, Spielfreude: Dalipi führt den Aufsteiger an",
+            "title": "St. Gallen gewinnt in Genf - Servette am Boden – FCSG stoppt seine Baisse",
             "date": "06.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/decbab.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b4c907.webp"
         },
         {
-            "title": "GC-Coach Zeidler ist irritiert - Pechvogel statt Derbyheld: Konsequenzen für Rückkehrer Morandi?",
+            "title": "News aus der Super League - Nach Basel gegen Lugano: Schiedsrichterin Blanco tritt zurück",
             "date": "06.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dd3d61.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d03dd5.webp"
         }
     ],
     "schedule": {
