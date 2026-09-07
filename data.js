@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-06 18:32:34",
+    "last_updated": "2026-09-07 08:55:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Premier League: 3. Spieltag - Arsenal feiert 2:1-Sieg im Derby – ManUnited lässt Punkte liegen",
-            "date": "06.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dc89e3f.webp"
+            "title": "Der FCB bleibt geduldig - Stocker: «Die Trainerfrage ist keine Debatte – im Moment»",
+            "date": "07.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b2063a.webp"
         },
         {
-            "title": "Fussball aus den Topligen - 5:0-Gala in Valencia – Barcelona nutzt Real-Patzer",
-            "date": "06.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bf9bf0.webp"
+            "title": "Internationale Fussball-News - Ex-Sion Coach Grosso muss in Florenz nach 3 Pleiten gehen",
+            "date": "07.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/cefcc68.webp"
         }
     ],
     "schedule": {
