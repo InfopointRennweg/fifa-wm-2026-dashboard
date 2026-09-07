@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-07 08:55:47",
+    "last_updated": "2026-09-07 12:52:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Der FCB bleibt geduldig - Stocker: «Die Trainerfrage ist keine Debatte – im Moment»",
+            "title": "Vor EM-Showdown in Italien - Warum die Schweiz im Beachsoccer zur Weltspitze gehört",
             "date": "07.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b2063a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/86337a6.webp"
         },
         {
-            "title": "Internationale Fussball-News - Ex-Sion Coach Grosso muss in Florenz nach 3 Pleiten gehen",
+            "title": "Schweizerinnen im Ausland - Wälti feierte England-Rückkehr ausgerechnet gegen Ex-Klub",
             "date": "07.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cefcc68.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b83b54.webp"
         }
     ],
     "schedule": {
