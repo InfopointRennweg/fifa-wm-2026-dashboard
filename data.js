@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-08 16:47:52",
+    "last_updated": "2026-09-08 19:31:25",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Ballon-d'Or-Nomination für Kobel und Manzambi",
+            "title": "Champions League: Round-up - Sommer patzt bei Brügges 2:3-Heimniederlage gegen Aston Villa",
             "date": "08.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d23e120.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/955810.webp"
         },
         {
-            "title": "In der CL gegen Leipzig - Como-Präsident macht Platz für treuste Fans",
+            "title": "Beachsoccer-EM in Viareggio - Tapfere Schweizer müssen sich zum Auftakt knapp geschlagen geben",
             "date": "08.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c4c328.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/711788.webp"
         }
     ],
     "schedule": {
