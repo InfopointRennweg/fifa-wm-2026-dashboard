@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-07 20:05:33",
+    "last_updated": "2026-09-08 08:36:44",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor EM-Showdown in Italien - Warum die Schweiz im Beachsoccer zur Weltspitze gehört",
-            "date": "07.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/86337a6.webp"
+            "title": "Auftakt der Ligaphase - Favoriten, Schweizer, Neulinge: Die Eckdaten zur Champions League",
+            "date": "08.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/969e14.webp"
         },
         {
-            "title": "Schweizerinnen im Ausland - Wälti feierte England-Rückkehr ausgerechnet gegen Ex-Klub",
-            "date": "07.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b83b54.webp"
+            "title": "Im Bernabéu gegen Inter - Mourinhos Rendezvous mit der Vergangenheit",
+            "date": "08.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/24f067.webp"
         }
     ],
     "schedule": {
