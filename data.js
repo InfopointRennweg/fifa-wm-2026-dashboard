@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-08 08:36:44",
+    "last_updated": "2026-09-08 11:32:59",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Auftakt der Ligaphase - Favoriten, Schweizer, Neulinge: Die Eckdaten zur Champions League",
+            "title": "Nach Rücktritt von Blanco - Schiedsrichterinnen in der Super League: Zurück auf Feld 1?",
             "date": "08.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/969e14.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/24a942d.webp"
         },
         {
-            "title": "Im Bernabéu gegen Inter - Mourinhos Rendezvous mit der Vergangenheit",
+            "title": "News aus der Super League - Basel holt Verteidiger Michelin – Görtler mehrere Wochen out",
             "date": "08.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/24f067.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/af60e1.webp"
         }
     ],
     "schedule": {
