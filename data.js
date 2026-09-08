@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-08 11:32:59",
+    "last_updated": "2026-09-08 16:47:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Rücktritt von Blanco - Schiedsrichterinnen in der Super League: Zurück auf Feld 1?",
+            "title": "Internationale Fussball-News - Ballon-d'Or-Nomination für Kobel und Manzambi",
             "date": "08.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/24a942d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d23e120.webp"
         },
         {
-            "title": "News aus der Super League - Basel holt Verteidiger Michelin – Görtler mehrere Wochen out",
+            "title": "In der CL gegen Leipzig - Como-Präsident macht Platz für treuste Fans",
             "date": "08.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/af60e1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c4c328.webp"
         }
     ],
     "schedule": {
