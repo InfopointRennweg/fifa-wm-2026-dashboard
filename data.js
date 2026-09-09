@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-08 19:31:25",
+    "last_updated": "2026-09-09 08:38:43",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League: Round-up - Sommer patzt bei Brügges 2:3-Heimniederlage gegen Aston Villa",
-            "date": "08.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/955810.webp"
+            "title": "Champions League live bei SRF - Liverpool vs. Atletico: Ein Appetizer als Déjà-vu-Erlebnis",
+            "date": "09.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f3388c7.webp"
         },
         {
-            "title": "Beachsoccer-EM in Viareggio - Tapfere Schweizer müssen sich zum Auftakt knapp geschlagen geben",
-            "date": "08.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/711788.webp"
+            "title": "CL-Auftakt gegen Bratislava - Nach diversen Ausrutschern: Findet PSG zu alter Stärke?",
+            "date": "09.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9493d1.webp"
         }
     ],
     "schedule": {
