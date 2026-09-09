@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-09 16:50:28",
+    "last_updated": "2026-09-09 19:23:20",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Beachsoccer-EM in Viareggio - Nach heftigem Sturm: Schweizerinnen unterliegen der Ukraine",
+            "title": "Champions League: Round-up - Barça schenkt Feyenoord eine Handvoll Tore ein",
             "date": "09.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2ce22a4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/32a3e9.webp"
         },
         {
-            "title": "Trotz Vertrag bis 2029 - Nach der Lugano-Pleite: Der FCB entlässt Trainer Lichtsteiner",
+            "title": "Women's Super League: 5. Runde - Servette landet gegen Yverdon den vierten Sieg in Folge",
             "date": "09.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8e3cc4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2c7ede.webp"
         }
     ],
     "schedule": {
