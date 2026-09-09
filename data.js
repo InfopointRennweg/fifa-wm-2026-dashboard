@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-09 08:38:43",
+    "last_updated": "2026-09-09 11:39:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League live bei SRF - Liverpool vs. Atletico: Ein Appetizer als Déjà-vu-Erlebnis",
+            "title": "News aus der Super League - Auch Konietzke fehlt St. Gallen mehrere Wochen",
             "date": "09.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f3388c7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e6c999.webp"
         },
         {
-            "title": "CL-Auftakt gegen Bratislava - Nach diversen Ausrutschern: Findet PSG zu alter Stärke?",
+            "title": "Tormonster in Champions League - 59 aus 59: Haaland läuft zum Einstieg schon wieder hochtourig",
             "date": "09.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9493d1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c5fc32.webp"
         }
     ],
     "schedule": {
