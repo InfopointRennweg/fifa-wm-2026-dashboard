@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-10 08:39:28",
+    "last_updated": "2026-09-10 11:37:09",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Schweizer Fussball-News - Frauen-Nati muss gegen Israel in Ungarn ran",
+            "title": "Nicht mehr unter Trainer Yakin - «Bis auf Weiteres»: Okafor tritt aus der Nati zurück",
             "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/98ed04.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2e67ec.webp"
         },
         {
-            "title": "Französischer Cup - Fussball-Zwerg Miquelon reist 4000 km über den Atlantik",
+            "title": "FC Basel trennt sich vom Coach - Lichtsteiner: Chronik einer angekündigten Entlassung",
             "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/503979.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0095b0.webp"
         }
     ],
     "schedule": {
