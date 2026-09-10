@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-10 16:36:55",
+    "last_updated": "2026-09-10 19:11:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News zur Fifa - Französischer Verband gegen Infantino – neuer Job für Fernandes",
+            "title": "Champions League am Donnerstag - Ex-Lausanner sichert «Fener» Punkt – auch PSV mit Remis",
             "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2cfa9f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/36112d.webp"
         },
         {
-            "title": "SFV hat das Nachsehen - Romano entscheidet sich für Italien",
+            "title": "Beachsoccer-EM in Viareggio - Schweizer landen Prestigesieg gegen Portugal",
             "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/26ab4f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b3002d.webp"
         }
     ],
     "schedule": {
