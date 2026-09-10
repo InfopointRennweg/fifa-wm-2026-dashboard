@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-10 11:37:09",
+    "last_updated": "2026-09-10 16:36:55",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nicht mehr unter Trainer Yakin - «Bis auf Weiteres»: Okafor tritt aus der Nati zurück",
+            "title": "News zur Fifa - Französischer Verband gegen Infantino – neuer Job für Fernandes",
             "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2e67ec.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2cfa9f.webp"
         },
         {
-            "title": "FC Basel trennt sich vom Coach - Lichtsteiner: Chronik einer angekündigten Entlassung",
+            "title": "SFV hat das Nachsehen - Romano entscheidet sich für Italien",
             "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0095b0.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/26ab4f.webp"
         }
     ],
     "schedule": {
