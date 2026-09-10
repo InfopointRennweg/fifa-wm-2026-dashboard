@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-09 19:23:20",
+    "last_updated": "2026-09-10 08:39:28",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League: Round-up - Barça schenkt Feyenoord eine Handvoll Tore ein",
-            "date": "09.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/32a3e9.webp"
+            "title": "Schweizer Fussball-News - Frauen-Nati muss gegen Israel in Ungarn ran",
+            "date": "10.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/98ed04.webp"
         },
         {
-            "title": "Women's Super League: 5. Runde - Servette landet gegen Yverdon den vierten Sieg in Folge",
-            "date": "09.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2c7ede.webp"
+            "title": "Französischer Cup - Fussball-Zwerg Miquelon reist 4000 km über den Atlantik",
+            "date": "10.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/503979.webp"
         }
     ],
     "schedule": {
