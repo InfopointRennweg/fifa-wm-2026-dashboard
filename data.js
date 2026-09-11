@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-11 11:38:43",
+    "last_updated": "2026-09-11 16:41:48",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "CL-Fehlstart für Leipzig - David Raum: «Ordentlich einen auf den Deckel gekriegt»",
+            "title": "Beachsoccer-EM in Viareggio - Schweizer Nati steht nach hartem Kampf im EM-Halbfinal",
             "date": "11.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/227484.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/06964f.webp"
         },
         {
-            "title": "Champions League: 1. Spieltag - Musiala krönt Comeback mit Tor – Bayern mit Kantersieg",
-            "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4d1089d.webp"
+            "title": "Im Alter von 93 Jahren - Ehemaliger YB- und SFV-Präsident Zloczower verstorben",
+            "date": "11.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/727e5b.webp"
         }
     ],
     "schedule": {
