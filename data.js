@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-10 19:11:45",
+    "last_updated": "2026-09-11 08:34:54",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League am Donnerstag - Ex-Lausanner sichert «Fener» Punkt – auch PSV mit Remis",
-            "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/36112d.webp"
+            "title": "CL-Fehlstart für Leipzig - David Raum: «Ordentlich einen auf den Deckel gekriegt»",
+            "date": "11.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/227484.webp"
         },
         {
-            "title": "Beachsoccer-EM in Viareggio - Schweizer landen Prestigesieg gegen Portugal",
+            "title": "Champions League: 1. Spieltag - Musiala krönt Comeback mit Tor – Bayern mit Kantersieg",
             "date": "10.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b3002d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4d1089d.webp"
         }
     ],
     "schedule": {
