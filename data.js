@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-12 11:03:03",
+    "last_updated": "2026-09-12 15:45:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "3. Spieltag in der Bundesliga - Dortmund und Freiburg weiter makellos – Rieder-Assist bei Remis",
+            "date": "12.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5feb8a.webp"
+        },
         {
             "title": "Bundesliga: 3. Spieltag - Situation verschärft sich: Lustrinellis Union unterliegt Schalke",
             "date": "11.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/c1fcb9a.webp"
-        },
-        {
-            "title": "Beachsoccer-EM in Viareggio - Schweizer Nati steht nach hartem Kampf im EM-Halbfinal",
-            "date": "11.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/06964f.webp"
         }
     ],
     "schedule": {
