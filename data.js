@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-12 15:45:23",
+    "last_updated": "2026-09-12 18:36:50",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "3. Spieltag in der Bundesliga - Dortmund und Freiburg weiter makellos – Rieder-Assist bei Remis",
+            "title": "Meister lässt erneut Federn - Nach Bürkis Ellbogenschlag: GC entführt drei Punkte aus Thun",
             "date": "12.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5feb8a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/525fc3.webp"
         },
         {
-            "title": "Bundesliga: 3. Spieltag - Situation verschärft sich: Lustrinellis Union unterliegt Schalke",
-            "date": "11.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c1fcb9a.webp"
+            "title": "Super League, 8. Runde - Nächste Boteli-Show: Sion gewinnt in St. Gallen",
+            "date": "12.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4e6bc6.webp"
         }
     ],
     "schedule": {
