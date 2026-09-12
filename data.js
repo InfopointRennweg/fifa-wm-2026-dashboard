@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-11 19:13:50",
+    "last_updated": "2026-09-12 08:22:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Bundesliga: 3. Spieltag - Situation verschärft sich: Lustrinellis Union unterliegt Schalke",
+            "date": "11.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/c1fcb9a.webp"
+        },
         {
             "title": "Beachsoccer-EM in Viareggio - Schweizer Nati steht nach hartem Kampf im EM-Halbfinal",
             "date": "11.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/06964f.webp"
-        },
-        {
-            "title": "Im Alter von 93 Jahren - Ehemaliger YB- und SFV-Präsident Zloczower verstorben",
-            "date": "11.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/727e5b.webp"
         }
     ],
     "schedule": {
