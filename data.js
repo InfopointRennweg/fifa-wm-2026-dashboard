@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-12 18:36:50",
+    "last_updated": "2026-09-13 12:11:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Meister lässt erneut Federn - Nach Bürkis Ellbogenschlag: GC entführt drei Punkte aus Thun",
-            "date": "12.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/525fc3.webp"
+            "title": "Internationale Fussball-News - Polanski nicht mehr Gladbach-Trainer – Sabitzer mit Nati-Pause",
+            "date": "13.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/510f9b.webp"
         },
         {
-            "title": "Super League, 8. Runde - Nächste Boteli-Show: Sion gewinnt in St. Gallen",
-            "date": "12.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4e6bc6.webp"
+            "title": "3. Spieltag Bundesliga - Ort ohne Bahnhof empfängt Milliardenteam",
+            "date": "13.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/dd09a7.webp"
         }
     ],
     "schedule": {
