@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-13 16:34:24",
+    "last_updated": "2026-09-13 18:53:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Beachsoccer-EM in Viareggio - Der 24. Penalty entscheidet: Nati holt EM-Bronze",
+            "title": "Duell Meister vs. Aufsteiger - Kane zieht tapferen Elversbergern den Zahn",
             "date": "13.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/de872a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/400cce.webp"
         },
         {
-            "title": "2:1 gegen Aufsteiger Vaduz - Emmanuel macht Zürcher Wende in der Nachspielzeit perfekt",
+            "title": "City schlägt United - Haaland entscheidet Manchester-Derby trotz langer Unterzahl",
             "date": "13.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8bac7f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/bfe1cb.webp"
         }
     ],
     "schedule": {
