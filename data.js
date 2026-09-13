@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-13 12:11:00",
+    "last_updated": "2026-09-13 16:34:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Polanski nicht mehr Gladbach-Trainer – Sabitzer mit Nati-Pause",
+            "title": "Beachsoccer-EM in Viareggio - Der 24. Penalty entscheidet: Nati holt EM-Bronze",
             "date": "13.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/510f9b.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/de872a.webp"
         },
         {
-            "title": "3. Spieltag Bundesliga - Ort ohne Bahnhof empfängt Milliardenteam",
+            "title": "2:1 gegen Aufsteiger Vaduz - Emmanuel macht Zürcher Wende in der Nachspielzeit perfekt",
             "date": "13.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dd09a7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8bac7f.webp"
         }
     ],
     "schedule": {
