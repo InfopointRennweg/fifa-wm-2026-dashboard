@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-14 13:08:24",
+    "last_updated": "2026-09-14 18:08:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "1. Trainer-Station im Ausland - Lustrinellis Herausforderung bei Union: «Wir sind noch am Anfang»",
+            "title": "Auch Ronaldo schaltet sich ein - Schmähgesänge über verstorbenen Jota: Fans drohen Konsequenzen",
             "date": "14.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/992674.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/712766b.webp"
         },
         {
-            "title": "Bizarre Situation in Hamburg - Beim HSV herrscht trotz Horrorstart Euphorie statt Tristesse",
+            "title": "Schweizerinnen im Ausland - Andrade und Csillag präsentieren sich treffsicher",
             "date": "14.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ceae68.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b7d1aa.webp"
         }
     ],
     "schedule": {
