@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-13 18:53:13",
+    "last_updated": "2026-09-14 09:34:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Duell Meister vs. Aufsteiger - Kane zieht tapferen Elversbergern den Zahn",
-            "date": "13.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/400cce.webp"
+            "title": "Nach 24 Länderspielen - YB-Torjäger Fassnacht erklärt Rücktritt aus dem Nationalteam",
+            "date": "14.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/706d82.webp"
         },
         {
-            "title": "City schlägt United - Haaland entscheidet Manchester-Derby trotz langer Unterzahl",
-            "date": "13.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bfe1cb.webp"
+            "title": "Fussball-Weekend in Bildern - Von gezeichneten Nati-Spielern und heiklen Jubelgesten",
+            "date": "14.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/abe519.webp"
         }
     ],
     "schedule": {
