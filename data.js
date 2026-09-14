@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-14 09:34:33",
+    "last_updated": "2026-09-14 13:08:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach 24 Länderspielen - YB-Torjäger Fassnacht erklärt Rücktritt aus dem Nationalteam",
+            "title": "1. Trainer-Station im Ausland - Lustrinellis Herausforderung bei Union: «Wir sind noch am Anfang»",
             "date": "14.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/706d82.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/992674.webp"
         },
         {
-            "title": "Fussball-Weekend in Bildern - Von gezeichneten Nati-Spielern und heiklen Jubelgesten",
+            "title": "Bizarre Situation in Hamburg - Beim HSV herrscht trotz Horrorstart Euphorie statt Tristesse",
             "date": "14.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/abe519.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ceae68.webp"
         }
     ],
     "schedule": {
