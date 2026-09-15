@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-14 20:25:34",
+    "last_updated": "2026-09-15 09:12:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Auch Ronaldo schaltet sich ein - Schmähgesänge über verstorbenen Jota: Fans drohen Konsequenzen",
-            "date": "14.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/712766b.webp"
+            "title": "Fall aus der Nordwestschweiz - Transferstreitigkeiten gibt es auch bei den Amateuren",
+            "date": "15.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f0f745.webp"
         },
         {
-            "title": "Schweizerinnen im Ausland - Andrade und Csillag präsentieren sich treffsicher",
-            "date": "14.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b7d1aa.webp"
+            "title": "Nachtragsspiel gegen GC - Wirbelt die Sion-Offensive auch im Letzigrund?",
+            "date": "15.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/64f88f.webp"
         }
     ],
     "schedule": {
