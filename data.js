@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-15 17:12:49",
+    "last_updated": "2026-09-15 19:46:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nachtragsspiel im Letzigrund - Sions Joker schiessen GC ab",
+            "date": "15.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8e4457.webp"
+        },
         {
             "title": "Internationale Fussball-News - Toppmöller in Lens bereits Geschichte",
             "date": "15.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/0fa1301.webp"
-        },
-        {
-            "title": "Diverse Entscheide am Dienstag - Finals der Champions League in München und Barcelona",
-            "date": "15.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/db6fb6.webp"
         }
     ],
     "schedule": {
