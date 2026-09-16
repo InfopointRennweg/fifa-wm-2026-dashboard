@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-16 09:04:44",
+    "last_updated": "2026-09-16 11:53:31",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor 5 Jahren noch drittklassig - Sunderland steht eine magische Nacht bevor",
+            "title": "Erste Saison bei RB Salzburg - Schmid: «Die Nati ist bei mir ein etwas schwieriges Thema»",
             "date": "16.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/56ccc4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/3a93f2.webp"
         },
         {
-            "title": "Europa League im Exil - Weniger Fans, weniger Geld: So leidet Hapoel bei «Heimspielen»",
+            "title": "Internationale Fussball-News - Trainer Tedesco bei Bologna schon wieder weg",
             "date": "16.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f3332f6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e7fe1b.webp"
         }
     ],
     "schedule": {
