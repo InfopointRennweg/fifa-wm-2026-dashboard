@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-15 19:46:46",
+    "last_updated": "2026-09-16 09:04:44",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nachtragsspiel im Letzigrund - Sions Joker schiessen GC ab",
-            "date": "15.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8e4457.webp"
+            "title": "Vor 5 Jahren noch drittklassig - Sunderland steht eine magische Nacht bevor",
+            "date": "16.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/56ccc4.webp"
         },
         {
-            "title": "Internationale Fussball-News - Toppmöller in Lens bereits Geschichte",
-            "date": "15.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0fa1301.webp"
+            "title": "Europa League im Exil - Weniger Fans, weniger Geld: So leidet Hapoel bei «Heimspielen»",
+            "date": "16.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f3332f6.webp"
         }
     ],
     "schedule": {
