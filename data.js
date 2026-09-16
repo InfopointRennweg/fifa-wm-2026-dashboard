@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-16 11:53:31",
+    "last_updated": "2026-09-16 17:13:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nach 2 Monaten beim neuen Klub - Bei West Ham und im 24. Stock: Riesen ist in London angekommen",
+            "date": "16.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a667aca.webp"
+        },
         {
             "title": "Erste Saison bei RB Salzburg - Schmid: «Die Nati ist bei mir ein etwas schwieriges Thema»",
             "date": "16.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/3a93f2.webp"
-        },
-        {
-            "title": "Internationale Fussball-News - Trainer Tedesco bei Bologna schon wieder weg",
-            "date": "16.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e7fe1b.webp"
         }
     ],
     "schedule": {
