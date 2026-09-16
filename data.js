@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-16 17:13:52",
+    "last_updated": "2026-09-16 19:38:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach 2 Monaten beim neuen Klub - Bei West Ham und im 24. Stock: Riesen ist in London angekommen",
+            "title": "Nachtragsspiel der 4. Runde - 4 Tore vor der Pause: Lugano überfährt schwache St. Galler",
             "date": "16.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a667aca.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/02dad47.webp"
         },
         {
-            "title": "Erste Saison bei RB Salzburg - Schmid: «Die Nati ist bei mir ein etwas schwieriges Thema»",
+            "title": "Nachtragsspiel der 4. Runde - Thuns Moral bleibt unbelohnt: Servette jubelt am Ende doch",
             "date": "16.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3a93f2.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/fc3a35.webp"
         }
     ],
     "schedule": {
