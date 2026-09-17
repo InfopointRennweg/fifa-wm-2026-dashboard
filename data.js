@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-16 19:38:52",
+    "last_updated": "2026-09-17 09:13:03",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nachtragsspiel der 4. Runde - 4 Tore vor der Pause: Lugano überfährt schwache St. Galler",
-            "date": "16.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/02dad47.webp"
+            "title": "1. Aufgebot des DFB-Trainers - Mit vielen neuen Namen: Klopp beruft 44-köpfiges Mega-Kader",
+            "date": "17.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/68b546.webp"
         },
         {
-            "title": "Nachtragsspiel der 4. Runde - Thuns Moral bleibt unbelohnt: Servette jubelt am Ende doch",
-            "date": "16.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fc3a35.webp"
+            "title": "Ulisses Garcia bei Marseille - «Empfehle nicht, in die Stadt zu gehen, wenn du verlierst»",
+            "date": "17.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8ba448.webp"
         }
     ],
     "schedule": {
