@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-17 11:56:19",
+    "last_updated": "2026-09-17 17:12:39",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "GC-Flügelstürmer im Fokus - Krasniqi wirbelt und dribbelt – doch er will noch mehr",
+            "date": "17.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f0e24fe.webp"
+        },
         {
             "title": "Für die Nations-League-Spiele - Yakin bietet Boteli und Britschgi auf – auch Manzambi dabei",
             "date": "17.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/900552.webp"
-        },
-        {
-            "title": "1. Aufgebot des DFB-Trainers - Mit vielen neuen Namen: Klopp beruft 44-köpfiges Mega-Kader",
-            "date": "17.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/68b546.webp"
         }
     ],
     "schedule": {
