@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-18 16:39:08",
+    "last_updated": "2026-09-18 19:07:11",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "«Fenomeno» feiert Geburtstag - Ronaldo wird 50 – seine Tore sind unvergessen",
+            "title": "Basels Interimstrainer - Nocentini: Dank Shaqiri zum nächsten Sieg – im letzten Spiel?",
             "date": "18.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f87e34.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/70a98f.webp"
         },
         {
-            "title": "Nach Degradierung an der WM - Baumann rechnet mit Ex-DFB-Trainer Nagelsmann ab",
+            "title": "Laut «Blick» - Ermittlungen gegen Xhaka wegen gefälschtem Covid-Zertifikat",
             "date": "18.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b80f4f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ecd98f.webp"
         }
     ],
     "schedule": {
