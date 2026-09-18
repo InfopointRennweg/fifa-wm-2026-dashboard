@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-17 19:48:08",
+    "last_updated": "2026-09-18 08:46:26",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "GC-Flügelstürmer im Fokus - Krasniqi wirbelt und dribbelt – doch er will noch mehr",
-            "date": "17.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f0e24fe.webp"
+            "title": "Starker FCZ-Saisonstart - Tor um Tor dank grosser Leichtigkeit: Dubs hat «richtig Spass»",
+            "date": "18.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ee7457.webp"
         },
         {
-            "title": "Für die Nations-League-Spiele - Yakin bietet Boteli und Britschgi auf – auch Manzambi dabei",
+            "title": "1. Runde in der Europa League - Besiktas schlägt Marseille – gelungenes Debüt für Bournemouth",
             "date": "17.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/900552.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d38544.webp"
         }
     ],
     "schedule": {
