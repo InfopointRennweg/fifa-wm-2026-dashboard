@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-18 11:34:45",
+    "last_updated": "2026-09-18 16:39:08",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Wegen Fehlen von Extrazügen - Sion – FCZ: Anpfiff auf 18:00 Uhr vorverlegt",
+            "title": "«Fenomeno» feiert Geburtstag - Ronaldo wird 50 – seine Tore sind unvergessen",
             "date": "18.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0277949.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f87e34.webp"
         },
         {
-            "title": "Portugals Cupsieger Torreense - Ein Zweitligist mischt die Europa League auf",
+            "title": "Nach Degradierung an der WM - Baumann rechnet mit Ex-DFB-Trainer Nagelsmann ab",
             "date": "18.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0eb205.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b80f4f.webp"
         }
     ],
     "schedule": {
