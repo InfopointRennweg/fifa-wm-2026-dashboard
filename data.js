@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-18 08:46:26",
+    "last_updated": "2026-09-18 11:34:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Starker FCZ-Saisonstart - Tor um Tor dank grosser Leichtigkeit: Dubs hat «richtig Spass»",
+            "title": "Wegen Fehlen von Extrazügen - Sion – FCZ: Anpfiff auf 18:00 Uhr vorverlegt",
             "date": "18.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ee7457.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0277949.webp"
         },
         {
-            "title": "1. Runde in der Europa League - Besiktas schlägt Marseille – gelungenes Debüt für Bournemouth",
-            "date": "17.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d38544.webp"
+            "title": "Portugals Cupsieger Torreense - Ein Zweitligist mischt die Europa League auf",
+            "date": "18.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0eb205.webp"
         }
     ],
     "schedule": {
