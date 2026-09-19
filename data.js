@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-19 16:00:33",
+    "last_updated": "2026-09-19 18:44:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga: 4. Spieltag - HSV trifft und siegt erstmals – Rieder mit Assist",
+            "title": "Young Boys feiern 3:2-Erfolg - Essende trifft und trifft: YB schlägt Servette nach 0:2-Rückstand",
             "date": "19.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7b7040.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/7655c86.webp"
         },
         {
-            "title": "Premier League: 5. Spieltag - Manzambi trifft bei Villa-Startelfdebüt",
+            "title": "Super League: 9. Runde - Trotz Boteli-Tor: Sions Siegesserie reisst gegen den FCZ",
             "date": "19.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d2ad04.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/eca818f.webp"
         }
     ],
     "schedule": {
