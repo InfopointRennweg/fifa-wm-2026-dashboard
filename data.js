@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-18 19:07:11",
+    "last_updated": "2026-09-19 08:32:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Basels Interimstrainer - Nocentini: Dank Shaqiri zum nächsten Sieg – im letzten Spiel?",
-            "date": "18.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/70a98f.webp"
+            "title": "Nach dem 0:7 gegen die Bayern - «Zahnarztbesuch abgehakt»: Union nimmt's mit Humor",
+            "date": "19.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/367ee6.webp"
         },
         {
-            "title": "Laut «Blick» - Ermittlungen gegen Xhaka wegen gefälschtem Covid-Zertifikat",
-            "date": "18.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ecd98f.webp"
+            "title": "Mit 83 Jahren gestorben - Italiens Fussball trauert um Europameister Mazzola",
+            "date": "19.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/603ba9.webp"
         }
     ],
     "schedule": {
