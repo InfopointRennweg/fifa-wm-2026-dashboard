@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-19 08:32:27",
+    "last_updated": "2026-09-19 11:17:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Wer macht das Rennen? - Yamal heizt Ballon-d'Or-Debatte an, Kane reagiert gelassen",
+            "date": "19.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/3023fb.webp"
+        },
         {
             "title": "Nach dem 0:7 gegen die Bayern - «Zahnarztbesuch abgehakt»: Union nimmt's mit Humor",
             "date": "19.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/367ee6.webp"
-        },
-        {
-            "title": "Mit 83 Jahren gestorben - Italiens Fussball trauert um Europameister Mazzola",
-            "date": "19.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/603ba9.webp"
         }
     ],
     "schedule": {
