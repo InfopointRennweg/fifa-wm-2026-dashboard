@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-19 11:17:35",
+    "last_updated": "2026-09-19 16:00:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Wer macht das Rennen? - Yamal heizt Ballon-d'Or-Debatte an, Kane reagiert gelassen",
+            "title": "Bundesliga: 4. Spieltag - HSV trifft und siegt erstmals – Rieder mit Assist",
             "date": "19.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3023fb.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/7b7040.webp"
         },
         {
-            "title": "Nach dem 0:7 gegen die Bayern - «Zahnarztbesuch abgehakt»: Union nimmt's mit Humor",
+            "title": "Premier League: 5. Spieltag - Manzambi trifft bei Villa-Startelfdebüt",
             "date": "19.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/367ee6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d2ad04.webp"
         }
     ],
     "schedule": {
