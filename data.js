@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-20 11:40:17",
+    "last_updated": "2026-09-20 16:24:56",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Barça-Stürmer in Torlaune - Raphinha übertrumpft Messi und ist «CR7» auf den Fersen",
+            "title": "Premier League: 5. Spieltag - Xhaka verliert 8-Tore-Spektakel bei makellosem Manchester City",
             "date": "20.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/36d066.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/577004.webp"
         },
         {
-            "title": "Fussball aus den Topligen - 2. Saisontreffer von Athekame – Raphinha erneut mit Hattrick",
-            "date": "19.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/760e3bd.webp"
+            "title": "Super League: 9. Runde - Thun findet im Kellerduell zum Siegen zurück",
+            "date": "20.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b85f253.webp"
         }
     ],
     "schedule": {
