@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-20 16:24:56",
+    "last_updated": "2026-09-20 18:58:36",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Premier League: 5. Spieltag - Xhaka verliert 8-Tore-Spektakel bei makellosem Manchester City",
+            "title": "Bundesliga: 4. Spieltag - Leverkusen schockt Leipzig – Aufsteigerduell endet torlos",
             "date": "20.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/577004.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/416615.webp"
         },
         {
-            "title": "Super League: 9. Runde - Thun findet im Kellerduell zum Siegen zurück",
+            "title": "Fussball aus den Topligen - Real lange in Unterzahl: Madrider Stadtderby geht an Atletico",
             "date": "20.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b85f253.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/fe2489.webp"
         }
     ],
     "schedule": {
