@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-19 18:44:45",
+    "last_updated": "2026-09-20 09:04:53",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Fussball aus den Topligen - 2. Saisontreffer von Athekame – Raphinha erneut mit Hattrick",
+            "date": "19.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/760e3bd.webp"
+        },
         {
             "title": "Young Boys feiern 3:2-Erfolg - Essende trifft und trifft: YB schlägt Servette nach 0:2-Rückstand",
             "date": "19.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/7655c86.webp"
-        },
-        {
-            "title": "Super League: 9. Runde - Trotz Boteli-Tor: Sions Siegesserie reisst gegen den FCZ",
-            "date": "19.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/eca818f.webp"
         }
     ],
     "schedule": {
