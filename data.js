@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-20 18:58:36",
+    "last_updated": "2026-09-21 09:36:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga: 4. Spieltag - Leverkusen schockt Leipzig – Aufsteigerduell endet torlos",
-            "date": "20.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/416615.webp"
+            "title": "«Kooperiere mit Behörden» - «Impfbestätigung erworben»: Xhaka gesteht und lässt Nati-Camp aus",
+            "date": "21.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a4e80d.webp"
         },
         {
-            "title": "Fussball aus den Topligen - Real lange in Unterzahl: Madrider Stadtderby geht an Atletico",
-            "date": "20.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fe2489.webp"
+            "title": "Real-Trainer nach Pleite sauer - «Brauchen keine PK»: Mourinho präsentiert «Rot-Szenen» auf Papier",
+            "date": "21.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/26e80f2.webp"
         }
     ],
     "schedule": {
