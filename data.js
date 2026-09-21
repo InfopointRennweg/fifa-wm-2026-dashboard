@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-21 18:17:19",
+    "last_updated": "2026-09-21 20:30:01",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Fifa-Präsident kämpft um Amt - Infantino zeigt sich offen für Dialog",
+            "date": "21.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/632f05.webp"
+        },
         {
             "title": "Fokus voll auf Nations League - Tami erklärt Causa Xhaka für erledigt – «für den Moment»",
             "date": "21.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/608a45.webp"
-        },
-        {
-            "title": "News aus der Super League - Lausannes Koné kassiert 3, Sions Sylla 2 Spielsperren",
-            "date": "21.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f1f037f.webp"
         }
     ],
     "schedule": {
