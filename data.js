@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-21 09:36:34",
+    "last_updated": "2026-09-21 13:06:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "«Kooperiere mit Behörden» - «Impfbestätigung erworben»: Xhaka gesteht und lässt Nati-Camp aus",
+            "title": "SFV lässt Nati-Zukunft offen - Knäbel: «Xhaka hat gezeigt, wie man als Captain reagieren sollte»",
             "date": "21.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a4e80d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0d7bfa.webp"
         },
         {
-            "title": "Real-Trainer nach Pleite sauer - «Brauchen keine PK»: Mourinho präsentiert «Rot-Szenen» auf Papier",
+            "title": "Internationale Fussball-News - De la Fuente bis 2032 Spaniens Nationaltrainer",
             "date": "21.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/26e80f2.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e21bd33.webp"
         }
     ],
     "schedule": {
