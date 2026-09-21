@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-21 13:06:47",
+    "last_updated": "2026-09-21 18:17:19",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SFV lässt Nati-Zukunft offen - Knäbel: «Xhaka hat gezeigt, wie man als Captain reagieren sollte»",
+            "title": "Fokus voll auf Nations League - Tami erklärt Causa Xhaka für erledigt – «für den Moment»",
             "date": "21.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0d7bfa.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/608a45.webp"
         },
         {
-            "title": "Internationale Fussball-News - De la Fuente bis 2032 Spaniens Nationaltrainer",
+            "title": "News aus der Super League - Lausannes Koné kassiert 3, Sions Sylla 2 Spielsperren",
             "date": "21.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e21bd33.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f1f037f.webp"
         }
     ],
     "schedule": {
