@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-21 20:30:01",
+    "last_updated": "2026-09-22 09:01:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fifa-Präsident kämpft um Amt - Infantino zeigt sich offen für Dialog",
-            "date": "21.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/632f05.webp"
+            "title": "Nati-Neuling Sascha Britschgi - «Im Sommer noch mit Boteli in den Ferien – jetzt zusammen hier»",
+            "date": "22.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f32856.webp"
         },
         {
-            "title": "Fokus voll auf Nations League - Tami erklärt Causa Xhaka für erledigt – «für den Moment»",
-            "date": "21.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/608a45.webp"
+            "title": "Champions League gegen Lyon - Servettes «Reality Check» im Stade de Genève",
+            "date": "22.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/816491.webp"
         }
     ],
     "schedule": {
