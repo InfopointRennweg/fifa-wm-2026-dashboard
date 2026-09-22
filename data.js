@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-22 09:01:32",
+    "last_updated": "2026-09-22 11:55:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Blick Richtung EM 2028 - Darum ist das Abschneiden der Nati in der Nations League wichtig",
+            "date": "22.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2d2866.webp"
+        },
         {
             "title": "Nati-Neuling Sascha Britschgi - «Im Sommer noch mit Boteli in den Ferien – jetzt zusammen hier»",
             "date": "22.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/f32856.webp"
-        },
-        {
-            "title": "Champions League gegen Lyon - Servettes «Reality Check» im Stade de Genève",
-            "date": "22.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/816491.webp"
         }
     ],
     "schedule": {
