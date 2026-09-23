@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-22 19:49:57",
+    "last_updated": "2026-09-23 09:05:29",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "3-wöchige XXL-Länderspielpause - «Ferien» in der Super League und ein Vorteil für FCB und GC",
+            "date": "23.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/00966e.webp"
+        },
         {
             "title": "Schweizer Fussball-News - Andermatt nicht mehr Trainer von Yverdon-Sport",
             "date": "22.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/ef687f.webp"
-        },
-        {
-            "title": "Internationale Fussball-News - Blessin wird Trainer in Mönchengladbach",
-            "date": "22.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ac06ac.webp"
         }
     ],
     "schedule": {
