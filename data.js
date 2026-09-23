@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-23 09:05:29",
+    "last_updated": "2026-09-23 11:54:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "3-wöchige XXL-Länderspielpause - «Ferien» in der Super League und ein Vorteil für FCB und GC",
+            "title": "Internationale Fussball-News - Valencia holt Routinier Aguirre als neuen Coach",
             "date": "23.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/00966e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/965a2b.webp"
         },
         {
-            "title": "Schweizer Fussball-News - Andermatt nicht mehr Trainer von Yverdon-Sport",
-            "date": "22.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ef687f.webp"
+            "title": "Team Gürbetal aus der 4. Liga - Cup-Duell mit YB Frauen: «Wenn wir nicht 30 bekommen, passt’s»",
+            "date": "23.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2dbf71.webp"
         }
     ],
     "schedule": {
