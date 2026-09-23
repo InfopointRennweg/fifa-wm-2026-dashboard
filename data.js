@@ -1,9 +1,9 @@
 const dashboardData = {
-    "last_updated": "2026-09-23 11:54:52",
+    "last_updated": "2026-09-23 17:23:57",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Valencia holt Routinier Aguirre als neuen Coach",
+            "title": "Internationale Fussball-News - Valencia holt Routinier Aguirre – Eriksen bleibt in Dänemark",
             "date": "23.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/965a2b.webp"
         },
