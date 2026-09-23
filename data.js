@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-23 17:23:57",
+    "last_updated": "2026-09-23 19:45:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Rekordsieger Lyon gnadenlos - 0:8! Kalte Dusche für Servette in der Champions League",
+            "date": "23.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0a4150.webp"
+        },
         {
             "title": "Internationale Fussball-News - Valencia holt Routinier Aguirre – Eriksen bleibt in Dänemark",
             "date": "23.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/965a2b.webp"
-        },
-        {
-            "title": "Team Gürbetal aus der 4. Liga - Cup-Duell mit YB Frauen: «Wenn wir nicht 30 bekommen, passt’s»",
-            "date": "23.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2dbf71.webp"
         }
     ],
     "schedule": {
