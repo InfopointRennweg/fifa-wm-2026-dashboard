@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-24 12:02:51",
+    "last_updated": "2026-09-24 17:28:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Innenverteidiger im Nati-Kreis - Bajrami – dereinst eine Alternative für Elvedi oder Akanji?",
+            "title": "Liga D wird aufgelöst - Aus vier Ligen der Nations League werden drei",
             "date": "24.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/111048.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/59748d.webp"
         },
         {
-            "title": "Rechtsverteidiger im Hoch - Athekame und die Nati: Gekommen, um zu bleiben",
+            "title": "Das sind Yakins Optionen - Wer ersetzt Granit Xhaka?",
             "date": "24.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/621626.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2b864a.webp"
         }
     ],
     "schedule": {
