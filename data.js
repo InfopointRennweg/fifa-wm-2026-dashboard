@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-25 09:23:22",
+    "last_updated": "2026-09-25 12:02:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Von Zidane erstmals aufgeboten - Von der falschen in die Beletage: Lepauls harter Weg zum «Bleu»",
+            "title": "Neuer Trainer ist gefunden - Serbe Jokanovic beerbt Lichtsteiner beim FCB",
             "date": "25.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/913d72f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d00637.webp"
         },
         {
-            "title": "Traumtor für GC vor 30 Jahren - Als Murat Yakin aus 35 m einfach mal abzog",
+            "title": "Nations League: Nach NED-GER - Klopp-Mania in Amsterdam – auch Xavi sammelt Argumente",
             "date": "25.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7f06561.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b0c8a58.webp"
         }
     ],
     "schedule": {
