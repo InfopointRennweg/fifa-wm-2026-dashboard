@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-25 12:02:46",
+    "last_updated": "2026-09-25 17:28:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Neuer Trainer ist gefunden - Serbe Jokanovic beerbt Lichtsteiner beim FCB",
+            "title": "Drastische Konsequenzen drohen - Anklage gegen Manchester City: Schuldig in 114 Fällen?",
             "date": "25.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d00637.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/de1954.webp"
         },
         {
-            "title": "Nations League: Nach NED-GER - Klopp-Mania in Amsterdam – auch Xavi sammelt Argumente",
+            "title": "Stürmer bestätigt Vergehen - Gefälschte Covid-Zertifikate: Embolo stösst nicht zur Nati",
             "date": "25.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b0c8a58.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c496af.webp"
         }
     ],
     "schedule": {
