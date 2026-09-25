@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-25 17:28:13",
+    "last_updated": "2026-09-25 20:05:19",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Drastische Konsequenzen drohen - Anklage gegen Manchester City: Schuldig in 114 Fällen?",
+            "title": "EM-Qualifikation - Revanche geglückt: U21-Nati schlägt Luxemburg klar mit 5:0",
             "date": "25.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/de1954.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/9e45da.webp"
         },
         {
-            "title": "Stürmer bestätigt Vergehen - Gefälschte Covid-Zertifikate: Embolo stösst nicht zur Nati",
+            "title": "Ruefer zur «Causa Embolo» - «Fauxpas», «Panik» und «völlig überhastet»: Grosse Kritik am SFV",
             "date": "25.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c496af.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e9906c.webp"
         }
     ],
     "schedule": {
