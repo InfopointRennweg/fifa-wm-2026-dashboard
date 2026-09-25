@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-24 20:04:21",
+    "last_updated": "2026-09-25 09:23:22",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Liga D wird aufgelöst - Aus vier Ligen der Nations League werden drei",
-            "date": "24.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/59748d.webp"
+            "title": "Von Zidane erstmals aufgeboten - Von der falschen in die Beletage: Lepauls harter Weg zum «Bleu»",
+            "date": "25.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/913d72f.webp"
         },
         {
-            "title": "Das sind Yakins Optionen - Wer ersetzt Granit Xhaka?",
-            "date": "24.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2b864a.webp"
+            "title": "Traumtor für GC vor 30 Jahren - Als Murat Yakin aus 35 m einfach mal abzog",
+            "date": "25.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/7f06561.webp"
         }
     ],
     "schedule": {
