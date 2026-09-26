@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-26 11:37:47",
+    "last_updated": "2026-09-26 16:38:18",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Slowenien – Schottland - Nullnummer zum Auftakt: Schweizer Gruppengegner teilen die Punkte",
+            "date": "26.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/02150a.webp"
+        },
         {
             "title": "Duell gegen England - Spanien im ersten Spiel nach dem WM-Titel direkt hart gefordert",
             "date": "26.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/bd2b51.webp"
-        },
-        {
-            "title": "Duell in der Nations League - Irlands Knight zu Israel-Spiel: «Sollte nicht stattfinden»",
-            "date": "26.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/79d488.webp"
         }
     ],
     "schedule": {
