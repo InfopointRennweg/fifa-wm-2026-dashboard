@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-26 19:18:37",
+    "last_updated": "2026-09-27 09:49:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Mbappé fällt mit Knieverletzung aus",
-            "date": "26.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4fb785.webp"
+            "title": "Von wegen Fussballzwerg - Luxemburg fügt Bulgarien empfindliche Pleite zu",
+            "date": "27.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6d39b7.webp"
         },
         {
-            "title": "Slowenien – Schottland - Nullnummer zum Auftakt: Schweizer Gruppengegner teilen die Punkte",
-            "date": "26.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/02150a.webp"
+            "title": "Matchwinner der Nati in Skopje - Amdouni nach verpasstem Hattrick: «Bin auch so zufrieden»",
+            "date": "27.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6fb9ec.webp"
         }
     ],
     "schedule": {
