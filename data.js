@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-27 12:16:16",
+    "last_updated": "2026-09-27 17:11:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Keine Überraschungen in der 2. Cup-Runde der Frauen",
+            "date": "27.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f9525c.webp"
+        },
         {
             "title": "Assistenztrainer über Unruhen - Callà: «Wichtig ist, dass man zu seinen Fehlern steht»",
             "date": "27.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/433ec8.webp"
-        },
-        {
-            "title": "Von wegen Fussballzwerg - Luxemburg fügt Bulgarien empfindliche Pleite zu",
-            "date": "27.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6d39b7.webp"
         }
     ],
     "schedule": {
