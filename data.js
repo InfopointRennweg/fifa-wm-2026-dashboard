@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-28 14:17:10",
+    "last_updated": "2026-09-28 19:48:01",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Kaum Privatsphäre nach WM-Hype - Kap Verdes Vozinha wünscht sich sein altes Leben zurück",
+            "title": "Vor dem Schottland-Spiel - Gewichts- und Gehörprobleme bei der Nati",
             "date": "28.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/21398c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2a8b5a.webp"
         },
         {
-            "title": "Fussballerinnen im Ausland - Mece liefert beim Serie-A-Debüt – Schweizerinnen treffen im Pokal",
+            "title": "2. Spiel gegen die Schweiz - Pocognoli: Ein junger Belgier ist Schottlands starker Mann",
             "date": "28.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/559c8dc.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/88f07ba.webp"
         }
     ],
     "schedule": {
