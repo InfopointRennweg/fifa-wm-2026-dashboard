@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-28 19:48:01",
+    "last_updated": "2026-09-28 22:13:50",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor dem Schottland-Spiel - Gewichts- und Gehörprobleme bei der Nati",
+            "title": "Aus Reserven der Fifa - Infantino stellt Uefa und Co. mehr Geld in Aussicht",
             "date": "28.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2a8b5a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/fa8c5d.webp"
         },
         {
-            "title": "2. Spiel gegen die Schweiz - Pocognoli: Ein junger Belgier ist Schottlands starker Mann",
+            "title": "Nations League: Round-up - Zidane wechselt den späten Sieg ein – Italien mit Gala",
             "date": "28.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/88f07ba.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b4adeb.webp"
         }
     ],
     "schedule": {
