@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-27 19:50:02",
+    "last_updated": "2026-09-28 10:35:30",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Schweizer Fussball-News - Keine Überraschungen in der 2. Cup-Runde der Frauen",
-            "date": "27.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f9525c.webp"
+            "title": "Kaum Privatsphäre nach WM-Hype - Kap Verdes Vozinha wünscht sich sein altes Leben zurück",
+            "date": "28.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/21398c.webp"
         },
         {
-            "title": "Assistenztrainer über Unruhen - Callà: «Wichtig ist, dass man zu seinen Fehlern steht»",
-            "date": "27.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/433ec8.webp"
+            "title": "Fussballerinnen im Ausland - Mece liefert beim Serie-A-Debüt – Schweizerinnen treffen im Pokal",
+            "date": "28.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/559c8dc.webp"
         }
     ],
     "schedule": {
