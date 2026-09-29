@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-29 13:11:21",
+    "last_updated": "2026-09-29 18:12:50",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WM-Playoffs: 3 Rückkehrerinnen - Navarro setzt auf bewährte Kräfte – und auf Peng im Tor",
+            "title": "EM-Qualifikation - 1:5: U21-Nati erleidet auf Island Schiffbruch",
             "date": "29.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2f27cd.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2ebf8f.webp"
         },
         {
-            "title": "Neuer FCB-Coach - Jokanovic: «Es ist viel Talent im Team vorhanden»",
+            "title": "Nicht der erste Skandal - Türkischer Schiedsrichter-Chef festgenommen",
             "date": "29.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/47de44.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/23c727.webp"
         }
     ],
     "schedule": {
