@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-28 22:13:50",
+    "last_updated": "2026-09-29 10:24:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Aus Reserven der Fifa - Infantino stellt Uefa und Co. mehr Geld in Aussicht",
-            "date": "28.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fa8c5d.webp"
+            "title": "SCO – SUI: Vergangene Duelle - Shaqiris Prachtstor in Köln und die Festung Hampden Park",
+            "date": "29.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/97bd9f.webp"
         },
         {
-            "title": "Nations League: Round-up - Zidane wechselt den späten Sieg ein – Italien mit Gala",
-            "date": "28.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b4adeb.webp"
+            "title": "Siegtorschütze gegen Belgien - 13 Torbeteiligungen: «Naturtalent» Olise mit phänomenaler Bilanz",
+            "date": "29.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/eca5b59.webp"
         }
     ],
     "schedule": {
