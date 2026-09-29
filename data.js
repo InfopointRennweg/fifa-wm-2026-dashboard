@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-29 10:24:46",
+    "last_updated": "2026-09-29 13:11:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SCO – SUI: Vergangene Duelle - Shaqiris Prachtstor in Köln und die Festung Hampden Park",
+            "title": "WM-Playoffs: 3 Rückkehrerinnen - Navarro setzt auf bewährte Kräfte – und auf Peng im Tor",
             "date": "29.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/97bd9f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2f27cd.webp"
         },
         {
-            "title": "Siegtorschütze gegen Belgien - 13 Torbeteiligungen: «Naturtalent» Olise mit phänomenaler Bilanz",
+            "title": "Neuer FCB-Coach - Jokanovic: «Es ist viel Talent im Team vorhanden»",
             "date": "29.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/eca5b59.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/47de44.webp"
         }
     ],
     "schedule": {
