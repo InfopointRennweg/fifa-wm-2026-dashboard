@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-29 18:12:50",
+    "last_updated": "2026-09-29 20:58:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "EM-Qualifikation - 1:5: U21-Nati erleidet auf Island Schiffbruch",
+            "title": "Nations League: Liga A - Yamal glänzt gegen Kroatien – England siegt in Prag",
             "date": "29.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2ebf8f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c9318b0.webp"
         },
         {
-            "title": "Nicht der erste Skandal - Türkischer Schiedsrichter-Chef festgenommen",
+            "title": "Dezimierte Schotten chancenlos - Dank Rodriguez & Elvedi: Schweiz legt in der Nations League nach",
             "date": "29.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/23c727.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c76600.webp"
         }
     ],
     "schedule": {
