@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-30 18:04:51",
+    "last_updated": "2026-09-30 20:56:30",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nie mehr für die Nationalelf? - Zoff erreicht nächste Stufe: Ronaldo aus Portugal-Camp abgereist",
+            "date": "30.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/38b680c.webp"
+        },
         {
             "title": "Nach Neubeurteilung - SFV zieht Unterstützung für Fifa-Präsident Infantino zurück",
             "date": "30.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/853543.webp"
-        },
-        {
-            "title": "News aus der Nati - Racioppi stösst als 4. Goalie zur Nati",
-            "date": "30.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f53b9b.webp"
         }
     ],
     "schedule": {
