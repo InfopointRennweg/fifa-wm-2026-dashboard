@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-29 20:58:33",
+    "last_updated": "2026-09-30 10:17:25",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nations League: Liga A - Yamal glänzt gegen Kroatien – England siegt in Prag",
-            "date": "29.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c9318b0.webp"
+            "title": "News aus der Nati - Racioppi stösst als 4. Goalie zur Nati",
+            "date": "30.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f53b9b.webp"
         },
         {
-            "title": "Dezimierte Schotten chancenlos - Dank Rodriguez & Elvedi: Schweiz legt in der Nations League nach",
-            "date": "29.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c76600.webp"
+            "title": "2 Spiele, 2 Siege für die Nati - Start ist geglückt – in Luzern winkt bereits die Vorentscheidung",
+            "date": "30.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5cf0c4.webp"
         }
     ],
     "schedule": {
