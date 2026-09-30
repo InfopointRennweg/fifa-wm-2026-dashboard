@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-30 12:51:58",
+    "last_updated": "2026-09-30 18:04:51",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nach Neubeurteilung - SFV zieht Unterstützung für Fifa-Präsident Infantino zurück",
+            "date": "30.09.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/853543.webp"
+        },
         {
             "title": "News aus der Nati - Racioppi stösst als 4. Goalie zur Nati",
             "date": "30.09.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/f53b9b.webp"
-        },
-        {
-            "title": "2 Spiele, 2 Siege für die Nati - Start ist geglückt – in Luzern winkt bereits die Vorentscheidung",
-            "date": "30.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5cf0c4.webp"
         }
     ],
     "schedule": {
