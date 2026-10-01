@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-01 18:32:11",
+    "last_updated": "2026-10-01 21:12:26",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Quartett aus der Calvinstadt - Die Nati und ihr Genfer Touch",
+            "title": "Liga A der Nations League - Dank Bischof und Wirtz: Im 3. Spiel unter Klopp siegt die DFB-Elf",
             "date": "01.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/25d079.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2d1b27.webp"
         },
         {
-            "title": "Neue Trainerin in Zürich - Voss-Tecklenburg kommt mit klaren Zielen und «viel Lust» zum FCZ",
+            "title": "2. CL-Niederlage für Genf - Servette Chênois hält besser mit, verliert aber erneut klar",
             "date": "01.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ea6eae.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c2df7c.webp"
         }
     ],
     "schedule": {
