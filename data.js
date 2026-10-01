@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-01 13:40:27",
+    "last_updated": "2026-10-01 18:32:11",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SFV einer von vielen Verbänden - Wer hat sich bisher von Infantino abgewendet?",
+            "title": "Quartett aus der Calvinstadt - Die Nati und ihr Genfer Touch",
             "date": "01.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/77874f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/25d079.webp"
         },
         {
-            "title": "Nations League gegen Serbien - Klopps «Ballett» droht historischer Fehlstart",
+            "title": "Neue Trainerin in Zürich - Voss-Tecklenburg kommt mit klaren Zielen und «viel Lust» zum FCZ",
             "date": "01.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2ad712.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ea6eae.webp"
         }
     ],
     "schedule": {
