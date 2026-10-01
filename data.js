@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-09-30 20:56:30",
+    "last_updated": "2026-10-01 10:43:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nie mehr für die Nationalelf? - Zoff erreicht nächste Stufe: Ronaldo aus Portugal-Camp abgereist",
-            "date": "30.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/38b680c.webp"
+            "title": "SFV einer von vielen Verbänden - Wer hat sich bisher von Infantino abgewendet?",
+            "date": "01.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/77874f.webp"
         },
         {
-            "title": "Nach Neubeurteilung - SFV zieht Unterstützung für Fifa-Präsident Infantino zurück",
-            "date": "30.09.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/853543.webp"
+            "title": "Nations League gegen Serbien - Klopps «Ballett» droht historischer Fehlstart",
+            "date": "01.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2ad712.webp"
         }
     ],
     "schedule": {
