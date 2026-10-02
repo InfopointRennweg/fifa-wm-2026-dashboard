@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-01 21:12:26",
+    "last_updated": "2026-10-02 10:18:40",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Liga A der Nations League - Dank Bischof und Wirtz: Im 3. Spiel unter Klopp siegt die DFB-Elf",
-            "date": "01.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2d1b27.webp"
+            "title": "Gegen Slowenien am Samstag - Nati: Alle fit und konzentriert – nur der Rasen macht Sorgen",
+            "date": "02.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/78f7f8.webp"
         },
         {
-            "title": "2. CL-Niederlage für Genf - Servette Chênois hält besser mit, verliert aber erneut klar",
-            "date": "01.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c2df7c.webp"
+            "title": "Nations League live bei SRF - Da war doch mal was: Zidanes spezielles Heimdebüt gegen Italien",
+            "date": "02.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4fa7e4.webp"
         }
     ],
     "schedule": {
