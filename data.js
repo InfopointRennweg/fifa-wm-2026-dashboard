@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-02 17:59:12",
+    "last_updated": "2026-10-02 20:52:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Women's Super League, 8. Runde - Dank furiosem Start: GC beendet Ungeschlagenheit der FCZ Frauen",
+            "date": "02.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/76801b.webp"
+        },
         {
             "title": "Ein Experte ordnet ein - Klopp und der Faktor Menschenfänger",
             "date": "02.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/f13332.webp"
-        },
-        {
-            "title": "Degradierung live am TV - Solbakkens irritierende Goalie-Rotationen",
-            "date": "02.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3fe33f.webp"
         }
     ],
     "schedule": {
