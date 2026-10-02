@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-02 10:18:40",
+    "last_updated": "2026-10-02 12:57:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Gegen Slowenien am Samstag - Nati: Alle fit und konzentriert – nur der Rasen macht Sorgen",
+            "title": "News aus dem Frauenfussball - Achillessehnenriss: Csillag fällt lange aus",
             "date": "02.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/78f7f8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1406ba.webp"
         },
         {
-            "title": "Nations League live bei SRF - Da war doch mal was: Zidanes spezielles Heimdebüt gegen Italien",
+            "title": "Internationale Fussball-News - Verstösse gegen Finanzregeln: Manchester City reicht Rekurs ein",
             "date": "02.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4fa7e4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/31e0caf.webp"
         }
     ],
     "schedule": {
