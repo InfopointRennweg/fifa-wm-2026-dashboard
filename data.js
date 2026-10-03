@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-03 16:36:21",
+    "last_updated": "2026-10-03 19:20:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vor Rückspiel am Sonntag - Eklat vor Israel-Spiel: Irlands Pressekonferenz abgebrochen",
+            "title": "WSL: Round-up - YB bleibt vorne dran – Yverdon düpiert den FCB",
             "date": "03.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a63835.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/178a6d.webp"
         },
         {
-            "title": "Rechenspiele zur Nati - Siegesserie wie 2025 oder wieder Stolperstein Slowenien?",
+            "title": "Nations League: Liga A - England verpasst Kroatien in Rijeka eine Abreibung",
             "date": "03.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3cb195.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1df2e2.webp"
         }
     ],
     "schedule": {
