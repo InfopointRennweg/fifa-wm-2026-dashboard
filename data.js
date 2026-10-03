@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-03 11:52:30",
+    "last_updated": "2026-10-03 16:36:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Vor Rückspiel am Sonntag - Eklat vor Israel-Spiel: Irlands Pressekonferenz abgebrochen",
+            "date": "03.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a63835.webp"
+        },
         {
             "title": "Rechenspiele zur Nati - Siegesserie wie 2025 oder wieder Stolperstein Slowenien?",
             "date": "03.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/3cb195.webp"
-        },
-        {
-            "title": "Wieder ein Deutscher - Der neue GC-Trainer heisst Olaf Janssen",
-            "date": "03.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8e4132.webp"
         }
     ],
     "schedule": {
