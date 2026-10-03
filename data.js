@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-02 20:52:46",
+    "last_updated": "2026-10-03 09:40:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Women's Super League, 8. Runde - Dank furiosem Start: GC beendet Ungeschlagenheit der FCZ Frauen",
-            "date": "02.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/76801b.webp"
+            "title": "Rechenspiele zur Nati - Siegesserie wie 2025 oder wieder Stolperstein Slowenien?",
+            "date": "03.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/3cb195.webp"
         },
         {
-            "title": "Ein Experte ordnet ein - Klopp und der Faktor Menschenfänger",
-            "date": "02.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f13332.webp"
+            "title": "Wieder ein Deutscher - Der neue GC-Trainer heisst Olaf Janssen",
+            "date": "03.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8e4132.webp"
         }
     ],
     "schedule": {
