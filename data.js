@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-04 19:45:43",
+    "last_updated": "2026-10-05 11:11:17",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nations League live bei SRF - Flüchtling, Dégradeur und Kläger",
-            "date": "04.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cd1348.webp"
+            "title": "Nati in Nations League - Gegen Nordmazedonien dürfen ein paar Reservisten ran",
+            "date": "05.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d504fd.webp"
         },
         {
-            "title": "Slowenien-Matchwinner Ndoye - Der Löwe ist seriös geworden",
-            "date": "04.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0c634b.webp"
+            "title": "«Uefa muss eingreifen» - Irland will nicht mehr gegen Israel spielen",
+            "date": "05.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/32b87eb.webp"
         }
     ],
     "schedule": {
