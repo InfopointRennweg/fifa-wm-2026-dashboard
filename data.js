@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-05 11:11:17",
+    "last_updated": "2026-10-05 15:05:22",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nati in Nations League - Gegen Nordmazedonien dürfen ein paar Reservisten ran",
+            "title": "Ohne Zuschauer in Ungarn - Das Israel-Spiel wirft seinen Schatten voraus",
             "date": "05.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d504fd.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c847455.webp"
         },
         {
-            "title": "«Uefa muss eingreifen» - Irland will nicht mehr gegen Israel spielen",
+            "title": "Schweizer Cup Frauen - Drei Super-League-Duelle im Cup-Achtelfinal",
             "date": "05.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/32b87eb.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/48dfc5.webp"
         }
     ],
     "schedule": {
