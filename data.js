@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-06 13:29:08",
+    "last_updated": "2026-10-06 18:33:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Infantino unter Beschuss - Wirbel um WM-Goalie Mpasi",
+            "title": "News aus der Super League - Lausanne verpflichtet neuen Mittelfeldspieler",
             "date": "06.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a68c07.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/dd0390.webp"
         },
         {
-            "title": "News vom Nationalteam - Anspielzeit der Frauen-Nati gegen Israel vorverlegt",
+            "title": "Nati vor Duell mit Israel - Zwei Bestleistungen für den WM-Traum – Boykott kein Thema",
             "date": "06.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e1c0ffa.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/723680.webp"
         }
     ],
     "schedule": {
