@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-06 11:01:01",
+    "last_updated": "2026-10-06 13:29:08",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Infantino unter Beschuss - Wirbel um WM-Goalie Mpasi",
+            "date": "06.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a68c07.webp"
+        },
         {
             "title": "News vom Nationalteam - Anspielzeit der Frauen-Nati gegen Israel vorverlegt",
             "date": "06.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/e1c0ffa.webp"
-        },
-        {
-            "title": "Noch einmal für Argentinien - Messis letzter Tango in himmelblau",
-            "date": "06.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4f6175b.webp"
         }
     ],
     "schedule": {
