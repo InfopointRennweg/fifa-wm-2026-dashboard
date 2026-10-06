@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-06 18:33:07",
+    "last_updated": "2026-10-06 21:08:51",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Lausanne verpflichtet neuen Mittelfeldspieler",
+            "title": "Nations League: Liga B - Slowenien kehrt Partie gegen Schottland in Glasgow",
             "date": "06.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dd0390.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/7ca47a.webp"
         },
         {
-            "title": "Nati vor Duell mit Israel - Zwei Bestleistungen für den WM-Traum – Boykott kein Thema",
+            "title": "Nations League: Liga A - Spanien vorzeitig im Viertelfinal – Kane trifft bei Jubiläum",
             "date": "06.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/723680.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/34175d.webp"
         }
     ],
     "schedule": {
