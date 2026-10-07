@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-06 21:08:51",
+    "last_updated": "2026-10-07 10:51:09",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nations League: Liga B - Slowenien kehrt Partie gegen Schottland in Glasgow",
-            "date": "06.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7ca47a.webp"
+            "title": "SRF-Experte ist zufrieden - Huggel zu den Leistungen der Nati: «Note 1 mit Sternchen»",
+            "date": "07.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/3b47fe1.webp"
         },
         {
-            "title": "Nations League: Liga A - Spanien vorzeitig im Viertelfinal – Kane trifft bei Jubiläum",
-            "date": "06.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/34175d.webp"
+            "title": "Noch 2 Mal Nations League - So geht es für die Nati weiter",
+            "date": "07.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/09d675.webp"
         }
     ],
     "schedule": {
