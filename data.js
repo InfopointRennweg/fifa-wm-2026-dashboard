@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-07 13:41:15",
+    "last_updated": "2026-10-07 19:02:53",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SRF-Experte ist zufrieden - Huggel zu den Leistungen der Nati: «Note 1 mit Sternchen»",
+            "title": "Playoffs gegen Israel - Crnogorcevic: Mit Geduld und schnellem Spiel in die nächste Runde",
             "date": "07.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3b47fe1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/32680c.webp"
         },
         {
-            "title": "Noch 2 Mal Nations League - So geht es für die Nati weiter",
+            "title": "Neuer Trainer vorgestellt - «Keine Angst vor Fehlern»: Janssen will mutiges GC sehen",
             "date": "07.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/09d675.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/bef870.webp"
         }
     ],
     "schedule": {
