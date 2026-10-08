@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-08 13:49:49",
+    "last_updated": "2026-10-08 18:58:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nati vor WM-Playoff-Hinspiel - Wieder gegen massierte Abwehr: Für Wälti nichts Neues",
+            "title": "Internationale Fussball-News - Muskelverletzung: Sow fällt zwei Wochen aus",
             "date": "08.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fafd5c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d5484f.webp"
         },
         {
-            "title": "Nati in Ungarn gegen Israel - Spielort Mezökövesd: Warum der SFV keine Freudensprünge macht",
+            "title": "Neuer Nationalcoach gesucht - Bewerbung per Mail: Ghanas ungewöhnliche Trainersuche",
             "date": "08.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2b7db1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/06008c2.webp"
         }
     ],
     "schedule": {
