@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-07 21:28:59",
+    "last_updated": "2026-10-08 11:08:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Playoffs gegen Israel - Crnogorcevic: Mit Geduld und schnellem Spiel in die nächste Runde",
-            "date": "07.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/32680c.webp"
+            "title": "Nati vor WM-Playoff-Hinspiel - Wieder gegen massierte Abwehr: Für Wälti nichts Neues",
+            "date": "08.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/fafd5c.webp"
         },
         {
-            "title": "Neuer Trainer vorgestellt - «Keine Angst vor Fehlern»: Janssen will mutiges GC sehen",
-            "date": "07.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bef870.webp"
+            "title": "Nati in Ungarn gegen Israel - Spielort Mezökövesd: Warum der SFV keine Freudensprünge macht",
+            "date": "08.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2b7db1.webp"
         }
     ],
     "schedule": {
