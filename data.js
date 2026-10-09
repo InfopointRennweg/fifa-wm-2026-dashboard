@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-08 21:26:04",
+    "last_updated": "2026-10-09 11:07:50",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Muskelverletzung: Sow fällt zwei Wochen aus",
-            "date": "08.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d5484f.webp"
+            "title": "Zwei Klubs mit neuen Trainern - Super League wird neu lanciert – hat Lugano genügend Schnauf?",
+            "date": "09.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b3b74a.webp"
         },
         {
-            "title": "Neuer Nationalcoach gesucht - Bewerbung per Mail: Ghanas ungewöhnliche Trainersuche",
-            "date": "08.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/06008c2.webp"
+            "title": "NBA-Star wird Miteigentümer - Basketballer Gilgeous-Alexander investiert in Atletico Madrid",
+            "date": "09.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ea6937.webp"
         }
     ],
     "schedule": {
