@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-09 18:28:15",
+    "last_updated": "2026-10-09 21:08:09",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Montella nicht mehr Trainer der Türkei",
+            "title": "Spätes 2:2 im Heimspiel - Kobels Dortmund von Werder Bremen kalt geduscht",
             "date": "09.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/13cd0a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f57719.webp"
         },
         {
-            "title": "Stimmen zum Nati-Torfestival - Auf den Tisch gehauen, blaues Auge verhindert",
+            "title": "1. Ernstkampf für neuen Coach - Nach dem 3:7 wartet Vaduz auf Jokanovic und den FCB",
             "date": "09.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/95b49e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a200c9.webp"
         }
     ],
     "schedule": {
