@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-09 13:34:00",
+    "last_updated": "2026-10-09 18:28:15",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Zwei Klubs mit neuen Trainern - Super League wird neu lanciert – hat Lugano genügend Schnauf?",
+            "title": "Internationale Fussball-News - Montella nicht mehr Trainer der Türkei",
             "date": "09.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b3b74a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/13cd0a.webp"
         },
         {
-            "title": "NBA-Star wird Miteigentümer - Basketballer Gilgeous-Alexander investiert in Atletico Madrid",
+            "title": "Stimmen zum Nati-Torfestival - Auf den Tisch gehauen, blaues Auge verhindert",
             "date": "09.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ea6937.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/95b49e.webp"
         }
     ],
     "schedule": {
