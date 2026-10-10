@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-10 17:25:55",
+    "last_updated": "2026-10-10 20:14:39",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Siegtreffer in der 99. Minute - 11 Tore in einer Halbzeit: Verrücktes Derby in Schweden",
+            "title": "Fussball aus den Topligen - Barcelona wahrt weisse Weste",
             "date": "10.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e954d4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/5d81eb.webp"
         },
         {
-            "title": "5. Runde der Bundesliga - Burcu erlöst Lustrinelli – Muheim sorgt für HSV-Ekstase",
+            "title": "Super League: 10. Runde - FCZ trotzt dem strömenden Regen und dreht Partie gegen Thun",
             "date": "10.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e77423.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/845471.webp"
         }
     ],
     "schedule": {
