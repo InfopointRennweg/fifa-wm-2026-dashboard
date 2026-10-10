@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-10 12:49:42",
+    "last_updated": "2026-10-10 17:25:55",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Erinnerungen an FC Thun - Lustrinelli über Elversberger Lauf: «Kenne dieses Gefühl»",
+            "title": "Siegtreffer in der 99. Minute - 11 Tore in einer Halbzeit: Verrücktes Derby in Schweden",
             "date": "10.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8a5574.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e954d4.webp"
         },
         {
-            "title": "Spätes 2:2 im Heimspiel - Kobels Dortmund von Werder Bremen kalt geduscht",
-            "date": "09.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f57719.webp"
+            "title": "5. Runde der Bundesliga - Burcu erlöst Lustrinelli – Muheim sorgt für HSV-Ekstase",
+            "date": "10.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e77423.webp"
         }
     ],
     "schedule": {
