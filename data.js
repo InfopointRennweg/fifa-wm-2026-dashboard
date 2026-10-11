@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-11 10:36:35",
+    "last_updated": "2026-10-11 13:13:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Absurdität in Norwegen - Viking Stavanger und Bodö/Glimt exakt gleichauf nach 22 Spielen",
+            "date": "11.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/04fe96d.webp"
+        },
         {
             "title": "Major League Soccer - Haile-Selassie profitiert von Riesenbock – Embolo mit Vorlage",
             "date": "11.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/2bfab6.webp"
-        },
-        {
-            "title": "Schwierige Ausgangslage - Manchester City: Politisch angezählt, sportlich gefordert",
-            "date": "11.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/be2e2f.webp"
         }
     ],
     "schedule": {
