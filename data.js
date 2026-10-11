@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-11 13:13:34",
+    "last_updated": "2026-10-11 17:45:16",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Absurdität in Norwegen - Viking Stavanger und Bodö/Glimt exakt gleichauf nach 22 Spielen",
+            "title": "Fussball aus den Topligen - Trotz Gantenbein-Tor: Freiburg stürmt an die Tabellenspitze",
             "date": "11.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/04fe96d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/082bac.webp"
         },
         {
-            "title": "Major League Soccer - Haile-Selassie profitiert von Riesenbock – Embolo mit Vorlage",
+            "title": "Super League: 10. Runde - Bei Jokanovic-Debüt: Basler Baisse hält auch in Vaduz an",
             "date": "11.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2bfab6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/126fe8.webp"
         }
     ],
     "schedule": {
