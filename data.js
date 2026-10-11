@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-10 20:14:39",
+    "last_updated": "2026-10-11 10:36:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Barcelona wahrt weisse Weste",
-            "date": "10.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5d81eb.webp"
+            "title": "Major League Soccer - Haile-Selassie profitiert von Riesenbock – Embolo mit Vorlage",
+            "date": "11.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2bfab6.webp"
         },
         {
-            "title": "Super League: 10. Runde - FCZ trotzt dem strömenden Regen und dreht Partie gegen Thun",
-            "date": "10.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/845471.webp"
+            "title": "Schwierige Ausgangslage - Manchester City: Politisch angezählt, sportlich gefordert",
+            "date": "11.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/be2e2f.webp"
         }
     ],
     "schedule": {
