@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-11 17:45:16",
+    "last_updated": "2026-10-11 20:29:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Trotz Gantenbein-Tor: Freiburg stürmt an die Tabellenspitze",
+            "title": "«Es ist alles grösser» - Reuteler: In der Nati unbestritten, bei Arsenal noch aussen vor",
             "date": "11.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/082bac.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/3df0b1.webp"
         },
         {
-            "title": "Super League: 10. Runde - Bei Jokanovic-Debüt: Basler Baisse hält auch in Vaduz an",
+            "title": "Bundesliga: 5. Spieltag - Trotz Gantenbein-Tor: Freiburg stürmt an die Tabellenspitze",
             "date": "11.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/126fe8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/082bac.webp"
         }
     ],
     "schedule": {
