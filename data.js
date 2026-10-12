@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-11 20:29:34",
+    "last_updated": "2026-10-12 11:39:57",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "«Es ist alles grösser» - Reuteler: In der Nati unbestritten, bei Arsenal noch aussen vor",
-            "date": "11.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3df0b1.webp"
+            "title": "Lausanne-Sport im Tief - Viele Verletzte, kein Diakité-Ersatz – und Elsners Zukunft?",
+            "date": "12.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/58b9f89.webp"
         },
         {
-            "title": "Bundesliga: 5. Spieltag - Trotz Gantenbein-Tor: Freiburg stürmt an die Tabellenspitze",
-            "date": "11.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/082bac.webp"
+            "title": "FCB-Trainer nach Debüt pikiert - Jokanovic: «Unser Level reicht nicht für diese Liga»",
+            "date": "12.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/03bf0e.webp"
         }
     ],
     "schedule": {
