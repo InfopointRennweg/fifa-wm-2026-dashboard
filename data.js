@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-12 11:39:57",
+    "last_updated": "2026-10-12 15:50:54",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Lausanne-Sport im Tief - Viele Verletzte, kein Diakité-Ersatz – und Elsners Zukunft?",
+            "title": "Internationale Fussball-News - Wenige Tage nach Brandrede: Fink in der Türkei entlassen",
             "date": "12.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/58b9f89.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/16a0cc.webp"
         },
         {
-            "title": "FCB-Trainer nach Debüt pikiert - Jokanovic: «Unser Level reicht nicht für diese Liga»",
+            "title": "WM-Playoffs: Schweiz – Israel - Die Devise für das Rückspiel ist klar: Hinten die Null halten",
             "date": "12.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/03bf0e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/35d2c2.webp"
         }
     ],
     "schedule": {
