@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-12 23:09:03",
+    "last_updated": "2026-10-13 11:25:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Wenige Tage nach Brandrede: Fink in der Türkei entlassen",
-            "date": "12.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/16a0cc.webp"
+            "title": "Internationale Fussball-News - Dortmund verlängert mit Kovac – Venedig entlässt den Trainer",
+            "date": "13.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/091546.webp"
         },
         {
-            "title": "WM-Playoffs: Schweiz – Israel - Die Devise für das Rückspiel ist klar: Hinten die Null halten",
-            "date": "12.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/35d2c2.webp"
+            "title": "Nun Gegner in Champions League - «Niemand» kannte ihn: Wie Kane einst fast in Stavanger landete",
+            "date": "13.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f4057ca.webp"
         }
     ],
     "schedule": {
