@@ -1,9 +1,9 @@
 const dashboardData = {
-    "last_updated": "2026-10-13 11:25:23",
+    "last_updated": "2026-10-13 14:27:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Dortmund verlängert mit Kovac – Venedig entlässt den Trainer",
+            "title": "Internationale Fussball-News - Dortmund verlängert mit Kovac – Carvajal findet neuen Klub",
             "date": "13.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/091546.webp"
         },
