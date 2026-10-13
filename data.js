@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-13 19:27:39",
+    "last_updated": "2026-10-13 21:26:29",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Dortmund verlängert mit Kovac – Carvajal findet neuen Klub",
+            "title": "Überraschung im San Siro - 4:3-Spektakel: Sommer jubelt auch dank Patzer seines Nachfolgers",
             "date": "13.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/091546.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/3205ed.webp"
         },
         {
-            "title": "Nun Gegner in Champions League - «Niemand» kannte ihn: Wie Kane einst fast in Stavanger landete",
+            "title": "Champions League: 2. Spieltag - Bayern stolpert in Norwegen – Olise leistet sich Aussetzer",
             "date": "13.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f4057ca.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/17cbcb.webp"
         }
     ],
     "schedule": {
