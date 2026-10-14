@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-13 21:26:29",
+    "last_updated": "2026-10-14 09:17:25",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Überraschung im San Siro - 4:3-Spektakel: Sommer jubelt auch dank Patzer seines Nachfolgers",
-            "date": "13.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3205ed.webp"
+            "title": "Auftakt zur Conference League - Lugano und Thun: Europa-Abenteuer mit verschiedenen Vorzeichen",
+            "date": "14.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9e8a85.webp"
         },
         {
-            "title": "Champions League: 2. Spieltag - Bayern stolpert in Norwegen – Olise leistet sich Aussetzer",
-            "date": "13.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/17cbcb.webp"
+            "title": "Champions League live bei SRF - Zum Haareraufen: Mourinhos Rückkehr nach Rom",
+            "date": "14.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5604d1.webp"
         }
     ],
     "schedule": {
