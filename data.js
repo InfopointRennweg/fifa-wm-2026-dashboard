@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-14 17:30:00",
+    "last_updated": "2026-10-14 20:17:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Vereine «technisch insolvent» - Alarmierende Zahlen in Englands Fussball",
+            "title": "Champions League: Round-Up - Hattrick: Barcola führt Liverpool zu klarem Sieg in Linz",
             "date": "14.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a38364.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4ca999.webp"
         },
         {
-            "title": "Auftakt zur Conference League - Lugano und Thun: Europa-Abenteuer mit verschiedenen Vorzeichen",
+            "title": "Internationale Fussball-News - Haareziehen hat Konsequenzen: Reals Vinicius 4 Spiele gesperrt",
             "date": "14.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9e8a85.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/da1ed5.webp"
         }
     ],
     "schedule": {
