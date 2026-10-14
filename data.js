@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-14 09:17:25",
+    "last_updated": "2026-10-14 12:12:30",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Vereine «technisch insolvent» - Alarmierende Zahlen in Englands Fussball",
+            "date": "14.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a38364.webp"
+        },
         {
             "title": "Auftakt zur Conference League - Lugano und Thun: Europa-Abenteuer mit verschiedenen Vorzeichen",
             "date": "14.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/9e8a85.webp"
-        },
-        {
-            "title": "Champions League live bei SRF - Zum Haareraufen: Mourinhos Rückkehr nach Rom",
-            "date": "14.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5604d1.webp"
         }
     ],
     "schedule": {
