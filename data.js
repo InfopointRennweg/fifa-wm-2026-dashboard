@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-15 17:16:35",
+    "last_updated": "2026-10-15 19:59:04",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Am Fifa-Council - Infantinos Kritiker halten an Rücktrittsforderung fest",
+            "title": "Auftakt in Conference League - Croci-Tortis Joker stechen: Lugano siegt nach Wende gegen Belgrad",
             "date": "15.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/23c0a6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c51cd8.webp"
         },
         {
-            "title": "Playoff gegen Österreich - WM-Quali: Schweizer Frauen-Nati kehrt nach Bern zurück",
+            "title": "Europa League: Round-up - Jashari und Xhaka mit Vorlagen bei Auswärtssiegen",
             "date": "15.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2e1252.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/383a66c.webp"
         }
     ],
     "schedule": {
