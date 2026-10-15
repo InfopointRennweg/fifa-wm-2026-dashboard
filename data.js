@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-15 11:51:33",
+    "last_updated": "2026-10-15 17:16:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Start in die Conference League - Dänisches Powerhaus, andorranisches Debüt und ein langer Isländer",
+            "title": "Am Fifa-Council - Infantinos Kritiker halten an Rücktrittsforderung fest",
             "date": "15.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f047d8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/23c0a6.webp"
         },
         {
-            "title": "Unübliches in Europa League - Selbst schon erlebt: Sunderland muss bei einem Zweitligisten ran",
+            "title": "Playoff gegen Österreich - WM-Quali: Schweizer Frauen-Nati kehrt nach Bern zurück",
             "date": "15.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5ead4e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2e1252.webp"
         }
     ],
     "schedule": {
