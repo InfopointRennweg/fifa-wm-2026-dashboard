@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-16 11:43:11",
+    "last_updated": "2026-10-16 16:52:16",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nächster Gegner des FC Thun - «Inakzeptabel, beschämend»: Hajduk-Fans skandieren rechte Parolen",
+            "date": "16.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b4992f.webp"
+        },
         {
             "title": "Internationale Fussball-News - Schertenleib und Beney für Golden-Girl-Award nominiert",
             "date": "16.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/541988.webp"
-        },
-        {
-            "title": "Legende erreicht Meilenstein - Keiner steht so für GC wie er: Abrashi vor seinem 300. Spiel",
-            "date": "16.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/761a20.webp"
         }
     ],
     "schedule": {
