@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-16 16:52:16",
+    "last_updated": "2026-10-16 19:38:54",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nächster Gegner des FC Thun - «Inakzeptabel, beschämend»: Hajduk-Fans skandieren rechte Parolen",
+            "title": "9. Runde Women's Super League - YB lädt zum Verfolgerduell im Wankdorf – in violett",
             "date": "16.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b4992f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f5c778.webp"
         },
         {
-            "title": "Internationale Fussball-News - Schertenleib und Beney für Golden-Girl-Award nominiert",
+            "title": "9. Runde Women's Super League - FCZ dreht Spiel bei Voss-Tecklenburgs Debüt – auch Servette siegt",
             "date": "16.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/541988.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b10f36.webp"
         }
     ],
     "schedule": {
