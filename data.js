@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-15 19:59:04",
+    "last_updated": "2026-10-16 08:45:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Auftakt in Conference League - Croci-Tortis Joker stechen: Lugano siegt nach Wende gegen Belgrad",
-            "date": "15.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c51cd8.webp"
+            "title": "Legende erreicht Meilenstein - Keiner steht so für GC wie er: Abrashi vor seinem 300. Spiel",
+            "date": "16.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/761a20.webp"
         },
         {
-            "title": "Europa League: Round-up - Jashari und Xhaka mit Vorlagen bei Auswärtssiegen",
-            "date": "15.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/383a66c.webp"
+            "title": "Schweizer Cup total bei SRF - Alle 11 Spiele mit Super-League-Beteiligung live",
+            "date": "16.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/86299ac.webp"
         }
     ],
     "schedule": {
