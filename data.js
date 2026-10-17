@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-17 08:16:01",
+    "last_updated": "2026-10-17 11:01:28",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga-Jubiläum am Samstag - Das schafft nur Kane: Das 100. Spiel kommt nach dem 100. Tor",
+            "title": "News aus der Super League - Thun monatelang ohne Saiz",
             "date": "17.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b72a36.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/46b76b.webp"
         },
         {
-            "title": "Grenchen empfängt im Cup GC - Für Ruefer eine Rückkehr, für GC eine Stolperfalle?",
+            "title": "Cup-Duell am Samstag - Alte Bekannte zurück auf der Schützenwiese – Luzern gefordert",
             "date": "17.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/00d364.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8770c4.webp"
         }
     ],
     "schedule": {
