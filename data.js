@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-17 11:01:28",
+    "last_updated": "2026-10-17 15:50:31",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Thun monatelang ohne Saiz",
+            "title": "6. Runde der Bundesliga - Muheim schiesst HSV zum Sieg – Rieder-Treffer bringt nichts",
             "date": "17.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/46b76b.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/98c064.webp"
         },
         {
-            "title": "Cup-Duell am Samstag - Alte Bekannte zurück auf der Schützenwiese – Luzern gefordert",
+            "title": "Premier League, 7. Spieltag - Martinez-Schock überschattet Chelsea-Sieg",
             "date": "17.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8770c4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/057f11.webp"
         }
     ],
     "schedule": {
