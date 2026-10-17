@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-17 15:50:31",
+    "last_updated": "2026-10-17 18:44:01",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "6. Runde der Bundesliga - Muheim schiesst HSV zum Sieg – Rieder-Treffer bringt nichts",
+            "title": "Schweizer Cup, 2. Runde - Dorn schiesst den FCL in Winterthur in der 92. Minute ins Glück",
             "date": "17.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/98c064.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/13a04c.webp"
         },
         {
-            "title": "Premier League, 7. Spieltag - Martinez-Schock überschattet Chelsea-Sieg",
+            "title": "Women's Super League - Torreiche Schlussphase: YB ringt GC nieder",
             "date": "17.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/057f11.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8549ca.webp"
         }
     ],
     "schedule": {
