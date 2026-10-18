@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-18 16:04:27",
+    "last_updated": "2026-10-18 18:48:56",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga am Sonntag - 1. Saisonpleite: Freiburg verpasst Rückkehr an die Tabellenspitze",
+            "title": "Cup: Auslosung Achtelfinals - YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
             "date": "18.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0b8625.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/bd71ee.webp"
         },
         {
-            "title": "Premier League, 7. Spieltag - Hürzelers Brighton begeistert – Xhaka mit Sunderland in der Krise",
+            "title": "Schweizer Cup, 2. Runde - Nach viel Drama: Thun bodigt Schaffhausen nach Penaltyschiessen",
             "date": "18.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8d7ce1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ef889b.webp"
         }
     ],
     "schedule": {
