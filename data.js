@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-18 08:33:27",
+    "last_updated": "2026-10-18 11:30:18",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Verletzte in Premier League - Kieferoperation bei Martinez – Manzambi: «Es ist okay»",
+            "date": "18.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8e9df9.webp"
+        },
         {
             "title": "Major League Soccer - Bürki verpasst MLS-Rekord – Messi schlägt Embolo",
             "date": "18.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/b6a5756.webp"
-        },
-        {
-            "title": "Am Sonntag live auf SRF zwei - Aaraus Chance auf Frustbewältigung im Cup-Kracher gegen den FCZ",
-            "date": "18.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/addfe8.webp"
         }
     ],
     "schedule": {
