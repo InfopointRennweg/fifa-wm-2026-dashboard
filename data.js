@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-18 11:30:18",
+    "last_updated": "2026-10-18 16:04:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Verletzte in Premier League - Kieferoperation bei Martinez – Manzambi: «Es ist okay»",
+            "title": "Bundesliga am Sonntag - 1. Saisonpleite: Freiburg verpasst Rückkehr an die Tabellenspitze",
             "date": "18.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8e9df9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0b8625.webp"
         },
         {
-            "title": "Major League Soccer - Bürki verpasst MLS-Rekord – Messi schlägt Embolo",
+            "title": "Premier League, 7. Spieltag - Hürzelers Brighton begeistert – Xhaka mit Sunderland in der Krise",
             "date": "18.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b6a5756.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8d7ce1.webp"
         }
     ],
     "schedule": {
