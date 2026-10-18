@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-17 18:44:01",
+    "last_updated": "2026-10-18 08:33:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Schweizer Cup, 2. Runde - Dorn schiesst den FCL in Winterthur in der 92. Minute ins Glück",
-            "date": "17.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/13a04c.webp"
+            "title": "Major League Soccer - Bürki verpasst MLS-Rekord – Messi schlägt Embolo",
+            "date": "18.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b6a5756.webp"
         },
         {
-            "title": "Women's Super League - Torreiche Schlussphase: YB ringt GC nieder",
-            "date": "17.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8549ca.webp"
+            "title": "Am Sonntag live auf SRF zwei - Aaraus Chance auf Frustbewältigung im Cup-Kracher gegen den FCZ",
+            "date": "18.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/addfe8.webp"
         }
     ],
     "schedule": {
