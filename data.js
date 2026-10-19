@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-19 18:48:10",
+    "last_updated": "2026-10-19 21:11:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Fussball aus den Topligen - Tottenham kann doch noch siegen",
+            "date": "19.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5350c5.webp"
+        },
         {
             "title": "Nach vorzeitiger Abreise - 30 Tage suspendiert und 255-Euro-Busse: «CR7» erhält milde Strafe",
             "date": "19.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/408845.webp"
-        },
-        {
-            "title": "CL-Kracher PSG – Barcelona - Der neue König gastiert im Prinzenpark",
-            "date": "19.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/96c455.webp"
         }
     ],
     "schedule": {
