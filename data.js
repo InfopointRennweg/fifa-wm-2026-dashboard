@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-19 09:36:07",
+    "last_updated": "2026-10-19 13:45:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "CL-Kracher PSG – Barcelona - Der neue König gastiert im Prinzenpark",
+            "date": "19.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/96c455.webp"
+        },
         {
             "title": "Schweizerinnen im Ausland - Goalie-Duell in der Bundesliga, verschossener Penalty in London",
             "date": "19.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/8ebd70.webp"
-        },
-        {
-            "title": "Fussball-Wochenende in Bildern - Stierli sieht Rot und Ende ist am Ende",
-            "date": "19.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/423da6.webp"
         }
     ],
     "schedule": {
