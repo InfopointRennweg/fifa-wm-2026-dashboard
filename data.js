@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-18 18:48:56",
+    "last_updated": "2026-10-19 09:36:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Cup: Auslosung Achtelfinals - YB trifft auf Basel, Titelverteidiger St. Gallen auf Lugano",
-            "date": "18.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bd71ee.webp"
+            "title": "Schweizerinnen im Ausland - Goalie-Duell in der Bundesliga, verschossener Penalty in London",
+            "date": "19.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8ebd70.webp"
         },
         {
-            "title": "Schweizer Cup, 2. Runde - Nach viel Drama: Thun bodigt Schaffhausen nach Penaltyschiessen",
-            "date": "18.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ef889b.webp"
+            "title": "Fussball-Wochenende in Bildern - Stierli sieht Rot und Ende ist am Ende",
+            "date": "19.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/423da6.webp"
         }
     ],
     "schedule": {
