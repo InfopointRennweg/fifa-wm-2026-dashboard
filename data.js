@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-19 21:11:42",
+    "last_updated": "2026-10-20 09:07:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Tottenham kann doch noch siegen",
-            "date": "19.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5350c5.webp"
+            "title": "News aus der Super League - Ex-Sportchef Albrecht kehrt zu Thun zurück",
+            "date": "20.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/20572e.webp"
         },
         {
-            "title": "Nach vorzeitiger Abreise - 30 Tage suspendiert und 255-Euro-Busse: «CR7» erhält milde Strafe",
-            "date": "19.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/408845.webp"
+            "title": "Vorfall in Brentford - Rugby-Ball ins Stadion gekickt: Polizei ermittelt",
+            "date": "20.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/3609e6.webp"
         }
     ],
     "schedule": {
