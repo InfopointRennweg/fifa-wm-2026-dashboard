@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-21 17:34:29",
+    "last_updated": "2026-10-21 20:18:39",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Stevanovic fällt nach OP monatelang aus – auch Basels Malouda out",
+            "title": "Conference League - Auswärtsstimmung zu Hause: Thun braucht Punkte",
             "date": "21.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ce9509.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/971dc2.webp"
         },
         {
-            "title": "Internationale Fussball-News - PSG-Schock: Kvaratskhelia erleidet Kreuzbandriss",
+            "title": "Champions League: Round-up - Como fegt kriselndes ManUnited vom Platz – Gala siegt bei Lille",
             "date": "21.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f8c84a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/eaefe39.webp"
         }
     ],
     "schedule": {
