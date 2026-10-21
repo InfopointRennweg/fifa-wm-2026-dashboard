@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-20 20:04:53",
+    "last_updated": "2026-10-21 09:07:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League: Round-up - Guirassy schiesst Dortmund in Baku zum Sieg",
-            "date": "20.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b4a6232.webp"
+            "title": "In der CL weiterhin eine Macht - Wenn PSG ernst macht, knicken auch die Ungeschlagenen ein",
+            "date": "21.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5cda47.webp"
         },
         {
-            "title": "St. Louis fordert Columbus - Bürki winkt der Cupsieg: «Wäre sehr speziell»",
-            "date": "20.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/da94a1.webp"
+            "title": "Bayern vor Kracher in der CL - Wie schwer wiegt Olises Absenz gegen Arsenal?",
+            "date": "21.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/7b57ef.webp"
         }
     ],
     "schedule": {
