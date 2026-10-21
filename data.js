@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-21 09:07:35",
+    "last_updated": "2026-10-21 12:09:06",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "In der CL weiterhin eine Macht - Wenn PSG ernst macht, knicken auch die Ungeschlagenen ein",
+            "title": "News aus der Super League - Stevanovic fällt nach OP monatelang aus – auch Basels Malouda out",
             "date": "21.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5cda47.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ce9509.webp"
         },
         {
-            "title": "Bayern vor Kracher in der CL - Wie schwer wiegt Olises Absenz gegen Arsenal?",
+            "title": "Internationale Fussball-News - PSG-Schock: Kvaratskhelia erleidet Kreuzbandriss",
             "date": "21.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7b57ef.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f8c84a.webp"
         }
     ],
     "schedule": {
