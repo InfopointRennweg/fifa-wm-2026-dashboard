@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-21 20:18:39",
+    "last_updated": "2026-10-22 09:09:59",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Conference League - Auswärtsstimmung zu Hause: Thun braucht Punkte",
-            "date": "21.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/971dc2.webp"
+            "title": "Nach Mega-Auftritt vs. Arsenal - Ballon d'Or für Harry Kane? «Könnte besonderer Abend werden»",
+            "date": "22.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/fa5c76.webp"
         },
         {
-            "title": "Champions League: Round-up - Como fegt kriselndes ManUnited vom Platz – Gala siegt bei Lille",
-            "date": "21.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/eaefe39.webp"
+            "title": "Mit Russland, ohne Schweiz - U15-WM-Megaturnier der Fifa wirft Fragen auf",
+            "date": "22.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/20c9c1.webp"
         }
     ],
     "schedule": {
