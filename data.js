@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-22 12:12:39",
+    "last_updated": "2026-10-22 17:30:57",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach Mega-Auftritt vs. Arsenal - Ballon d'Or für Harry Kane? «Könnte besonderer Abend werden»",
+            "title": "Und an der WM gibt's mehr Geld - Erste Klub-WM der Frauen in den USA",
             "date": "22.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fa5c76.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/88eafa.webp"
         },
         {
-            "title": "Mit Russland, ohne Schweiz - U15-WM-Megaturnier der Fifa wirft Fragen auf",
+            "title": "News aus der Super League - YB-Captain Benito fällt rund einen Monat aus",
             "date": "22.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/20c9c1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/36d715.webp"
         }
     ],
     "schedule": {
