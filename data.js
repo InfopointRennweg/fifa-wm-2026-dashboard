@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-22 17:30:57",
+    "last_updated": "2026-10-22 20:14:47",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Und an der WM gibt's mehr Geld - Erste Klub-WM der Frauen in den USA",
+            "title": "5:2-Sieg in Conference League - Trotz grobem Fehlstart: Lugano fertigt auch Getafe ab",
             "date": "22.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/88eafa.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b849a0.webp"
         },
         {
-            "title": "News aus der Super League - YB-Captain Benito fällt rund einen Monat aus",
+            "title": "Europa League: Round-up - Sunderland gerät nun auch in Europa ins Stocken",
             "date": "22.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/36d715.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/dd2394.webp"
         }
     ],
     "schedule": {
