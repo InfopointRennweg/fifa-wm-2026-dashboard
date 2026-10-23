@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-23 11:53:23",
+    "last_updated": "2026-10-23 17:22:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Seit 22 Spielen unbesiegt - Wenn's läuft, dann läuft's: Bei Lugano geht aktuell alles auf",
+            "title": "News aus der Super League - Nene fehlt Lausanne einen Monat",
             "date": "23.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ee946d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b96027.webp"
         },
         {
-            "title": "Abgang wird unwahrscheinlicher - Auch Asiens Konföderation für 4. Infantino-Amtszeit",
+            "title": "Vor Spiel gegen Freiburg - Bayern-Trainer Kompany nach Kollaps im Spital",
             "date": "23.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a9fbe04.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b0e43b4.webp"
         }
     ],
     "schedule": {
