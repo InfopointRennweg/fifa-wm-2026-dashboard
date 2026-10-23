@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-22 20:14:47",
+    "last_updated": "2026-10-23 09:06:39",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "5:2-Sieg in Conference League - Trotz grobem Fehlstart: Lugano fertigt auch Getafe ab",
-            "date": "22.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b849a0.webp"
+            "title": "Abgang wird unwahrscheinlicher - Auch Asiens Konföderation für 4. Infantino-Amtszeit",
+            "date": "23.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a9fbe04.webp"
         },
         {
-            "title": "Europa League: Round-up - Sunderland gerät nun auch in Europa ins Stocken",
-            "date": "22.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dd2394.webp"
+            "title": "Internationale Fussball-News - Estudiantes folgt Palmeiras in den Final",
+            "date": "23.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/7ad983.webp"
         }
     ],
     "schedule": {
