@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-23 09:06:39",
+    "last_updated": "2026-10-23 11:53:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Seit 22 Spielen unbesiegt - Wenn's läuft, dann läuft's: Bei Lugano geht aktuell alles auf",
+            "date": "23.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ee946d.webp"
+        },
         {
             "title": "Abgang wird unwahrscheinlicher - Auch Asiens Konföderation für 4. Infantino-Amtszeit",
             "date": "23.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/a9fbe04.webp"
-        },
-        {
-            "title": "Internationale Fussball-News - Estudiantes folgt Palmeiras in den Final",
-            "date": "23.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7ad983.webp"
         }
     ],
     "schedule": {
