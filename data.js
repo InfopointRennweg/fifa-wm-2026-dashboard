@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-24 11:22:21",
+    "last_updated": "2026-10-24 16:10:22",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - «Stabiler» Kompany fehlt wochenlang",
+            "title": "Bundesliga, 7. Spieltag - Fischers Mainz zu Hause weiter im Kriechgang – Rieder mit Assist",
             "date": "24.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a9c679.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2fd1b6.webp"
         },
         {
-            "title": "Letzte Saison 3 Siege in Bern - St. Gallen kehrt ins «Lieblingsstadion» Wankdorf zurück",
+            "title": "Premier League: 8. Spieltag - Manzambis Villa stoppt ManCitys Serie – Arsenal zieht gleich",
             "date": "24.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2321f4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/14b7494.webp"
         }
     ],
     "schedule": {
