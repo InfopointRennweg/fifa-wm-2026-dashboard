@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-24 16:10:22",
+    "last_updated": "2026-10-24 18:55:30",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga, 7. Spieltag - Fischers Mainz zu Hause weiter im Kriechgang – Rieder mit Assist",
+            "title": "2:1 in der 11. SL-Runde - Knapper FCZ-Sieg dank Kénys Geniestreich und FCL-Chancenwucher",
             "date": "24.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2fd1b6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/273670.webp"
         },
         {
-            "title": "Premier League: 8. Spieltag - Manzambis Villa stoppt ManCitys Serie – Arsenal zieht gleich",
+            "title": "11. Runde der Super League - Servette siegt dank Traumtor – Vaduz weiter ohne Auswärtspunkte",
             "date": "24.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/14b7494.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6b99a8.webp"
         }
     ],
     "schedule": {
