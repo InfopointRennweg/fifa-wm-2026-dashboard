@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-24 08:39:22",
+    "last_updated": "2026-10-24 11:22:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Internationale Fussball-News - «Stabiler» Kompany fehlt wochenlang",
+            "date": "24.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a9c679.webp"
+        },
         {
             "title": "Letzte Saison 3 Siege in Bern - St. Gallen kehrt ins «Lieblingsstadion» Wankdorf zurück",
             "date": "24.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/2321f4.webp"
-        },
-        {
-            "title": "1. Sieg am 7. Spieltag - Gladbach gelingt gegen Stuttgart der Befreiungsschlag",
-            "date": "23.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4296c1.webp"
         }
     ],
     "schedule": {
