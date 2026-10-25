@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-24 18:55:30",
+    "last_updated": "2026-10-25 08:57:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "2:1 in der 11. SL-Runde - Knapper FCZ-Sieg dank Kénys Geniestreich und FCL-Chancenwucher",
-            "date": "24.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/273670.webp"
+            "title": "265. «Clasico» steigt Sonntag - Geht Schere zwischen Barça und Real noch weiter auseinander?",
+            "date": "25.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/496246.webp"
         },
         {
-            "title": "11. Runde der Super League - Servette siegt dank Traumtor – Vaduz weiter ohne Auswärtspunkte",
+            "title": "Schweizer Cup, Achtelfinal - Hattrick beim 3:1: Bonsu schiesst den FCZ im Alleingang ab",
             "date": "24.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6b99a8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/445f6c.webp"
         }
     ],
     "schedule": {
