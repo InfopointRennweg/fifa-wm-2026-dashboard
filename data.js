@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-25 16:42:08",
+    "last_updated": "2026-10-25 19:12:00",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Statement vom SFV - Verband räumt ein: Gelb gegen Fernandes wäre korrekt gewesen",
+            "title": "Bundesliga, 7. Spieltag - Bayern zieht gegen Freiburg nach und erwartet den BVB als Leader",
             "date": "25.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ccb646.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f74756.webp"
         },
         {
-            "title": "3:2-Sieg in der 11. SL-Runde - Sieg auf Sparflamme: Lugano schlägt Thun auch dank Joker Ajeti",
+            "title": "1:0 in der 11. SL-Runde - Minimalistisches Sion kehrt gegen Lausanne zum Siegen zurück",
             "date": "25.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5fed8f3.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d98200.webp"
         }
     ],
     "schedule": {
