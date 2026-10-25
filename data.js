@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-25 11:53:03",
+    "last_updated": "2026-10-25 16:42:08",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "265. «Clasico» steigt Sonntag - Geht Schere zwischen Barça und Real noch weiter auseinander?",
+            "title": "Statement vom SFV - Verband räumt ein: Gelb gegen Fernandes wäre korrekt gewesen",
             "date": "25.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/496246.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ccb646.webp"
         },
         {
-            "title": "Schweizer Cup, Achtelfinal - Hattrick beim 3:1: Bonsu schiesst den FCZ im Alleingang ab",
-            "date": "24.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/445f6c.webp"
+            "title": "3:2-Sieg in der 11. SL-Runde - Sieg auf Sparflamme: Lugano schlägt Thun auch dank Joker Ajeti",
+            "date": "25.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5fed8f3.webp"
         }
     ],
     "schedule": {
