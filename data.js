@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-25 19:12:00",
+    "last_updated": "2026-10-26 09:43:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga, 7. Spieltag - Bayern zieht gegen Freiburg nach und erwartet den BVB als Leader",
-            "date": "25.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f74756.webp"
+            "title": "Fussball-Wochenende in Bildern - Taumelnde Teufel, falsche Goalies und alte Bekannte",
+            "date": "26.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/78afb6.webp"
         },
         {
-            "title": "1:0 in der 11. SL-Runde - Minimalistisches Sion kehrt gegen Lausanne zum Siegen zurück",
-            "date": "25.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d98200.webp"
+            "title": "Vergabe des Ballon d'Or - Ohne PSG-Stars: Schlägt in London Kanes goldene Stunde?",
+            "date": "26.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/193b62.webp"
         }
     ],
     "schedule": {
