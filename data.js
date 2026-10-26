@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-26 09:43:42",
+    "last_updated": "2026-10-26 13:24:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball-Wochenende in Bildern - Taumelnde Teufel, falsche Goalies und alte Bekannte",
+            "title": "News aus der Super League - Nach Fehlentscheid: Fernandes muss zwei Spiele aussetzen",
             "date": "26.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/78afb6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1ee247.webp"
         },
         {
-            "title": "Vergabe des Ballon d'Or - Ohne PSG-Stars: Schlägt in London Kanes goldene Stunde?",
+            "title": "Nach «Clasico»-Sieg von Real - Dank «Mourinho-Masterclass» ist die Spannung in LaLiga zurück",
             "date": "26.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/193b62.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6756d5.webp"
         }
     ],
     "schedule": {
