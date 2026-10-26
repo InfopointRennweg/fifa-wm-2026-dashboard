@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-26 13:24:21",
+    "last_updated": "2026-10-26 18:49:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Auslosung Viertelfinals - GC – YB und Servette – Basel als Schlagerpartien im Frauen-Cup",
+            "date": "26.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d454ff.webp"
+        },
         {
             "title": "News aus der Super League - Nach Fehlentscheid: Fernandes muss zwei Spiele aussetzen",
             "date": "26.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/1ee247.webp"
-        },
-        {
-            "title": "Nach «Clasico»-Sieg von Real - Dank «Mourinho-Masterclass» ist die Spannung in LaLiga zurück",
-            "date": "26.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6756d5.webp"
         }
     ],
     "schedule": {
