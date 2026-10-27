@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-26 21:08:21",
+    "last_updated": "2026-10-27 09:36:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Auslosung Viertelfinals - GC – YB und Servette – Basel als Schlagerpartien im Frauen-Cup",
-            "date": "26.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d454ff.webp"
+            "title": "News aus der Super League - Bericht: Ineos will Lausanne verkaufen",
+            "date": "27.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1c295c7.webp"
         },
         {
-            "title": "News aus der Super League - Nach Fehlentscheid: Fernandes muss zwei Spiele aussetzen",
-            "date": "26.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1ee247.webp"
+            "title": "Die Stimmen zum Ballon d'Or - Kane ist «sprachlos» – sogar Prinz William gratuliert",
+            "date": "27.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ff8499.webp"
         }
     ],
     "schedule": {
