@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-27 12:30:54",
+    "last_updated": "2026-10-27 18:10:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Bericht: Ineos will Lausanne verkaufen",
+            "title": "SFV hat entschieden - Xhaka und Embolo kehren zum Nationalteam zurück",
             "date": "27.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1c295c7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/596c49.webp"
         },
         {
-            "title": "Die Stimmen zum Ballon d'Or - Kane ist «sprachlos» – sogar Prinz William gratuliert",
+            "title": "Werbeverträge weg - Mbappés Mao-Spruch löst weitreichende Reaktionen aus",
             "date": "27.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ff8499.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8d044f.webp"
         }
     ],
     "schedule": {
