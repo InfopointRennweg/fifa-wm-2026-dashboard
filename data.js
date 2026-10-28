@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-27 20:51:18",
+    "last_updated": "2026-10-28 10:21:15",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "SFV hat entschieden - Xhaka und Embolo kehren zum Nationalteam zurück",
-            "date": "27.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/596c49.webp"
+            "title": "Wegen Kontakt zu Alvarez - Barcelona kassiert 602 Euro Strafe – und will nicht zahlen",
+            "date": "28.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/595bba.webp"
         },
         {
-            "title": "Werbeverträge weg - Mbappés Mao-Spruch löst weitreichende Reaktionen aus",
-            "date": "27.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8d044f.webp"
+            "title": "Nach blamablem Pokal-Out - «Yamal ist schuld»: Unions Satire kommt nicht an",
+            "date": "28.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f00d31.webp"
         }
     ],
     "schedule": {
