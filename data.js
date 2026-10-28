@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-28 13:19:10",
+    "last_updated": "2026-10-28 18:26:53",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Mack fehlt Vaduz bis zur Winterpause",
+            "date": "28.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/81c60da.webp"
+        },
         {
             "title": "Internationale Fussball-News - Spanische Pokalspiele nach Zugunglück abgesagt",
             "date": "28.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/8b406a.webp"
-        },
-        {
-            "title": "Wegen Kontakt zu Alvarez - Barcelona kassiert 602 Euro Strafe – und will nicht zahlen",
-            "date": "28.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/595bba.webp"
         }
     ],
     "schedule": {
