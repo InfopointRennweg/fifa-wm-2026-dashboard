@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-28 10:21:15",
+    "last_updated": "2026-10-28 13:19:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Internationale Fussball-News - Spanische Pokalspiele nach Zugunglück abgesagt",
+            "date": "28.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8b406a.webp"
+        },
         {
             "title": "Wegen Kontakt zu Alvarez - Barcelona kassiert 602 Euro Strafe – und will nicht zahlen",
             "date": "28.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/595bba.webp"
-        },
-        {
-            "title": "Nach blamablem Pokal-Out - «Yamal ist schuld»: Unions Satire kommt nicht an",
-            "date": "28.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f00d31.webp"
         }
     ],
     "schedule": {
