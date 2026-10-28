@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-28 18:26:53",
+    "last_updated": "2026-10-28 21:14:49",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Mack fehlt Vaduz bis zur Winterpause",
+            "title": "5:1 gegen OH Leuven - Servette Chênois meldet sich mit Kantersieg in der CL an",
             "date": "28.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/81c60da.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/cb488e.webp"
         },
         {
-            "title": "Internationale Fussball-News - Spanische Pokalspiele nach Zugunglück abgesagt",
+            "title": "Erster Job nach Moskau - FCB-Meistertrainer Celestini heuert bei Burnley an",
             "date": "28.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8b406a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/154443.webp"
         }
     ],
     "schedule": {
