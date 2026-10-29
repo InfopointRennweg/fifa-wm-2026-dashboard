@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-28 21:14:49",
+    "last_updated": "2026-10-29 10:42:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "5:1 gegen OH Leuven - Servette Chênois meldet sich mit Kantersieg in der CL an",
-            "date": "28.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cb488e.webp"
+            "title": "News aus der Super League - Konietzke wechselt leihweise von St. Gallen zu Vaduz",
+            "date": "29.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d0c2a1.webp"
         },
         {
-            "title": "Erster Job nach Moskau - FCB-Meistertrainer Celestini heuert bei Burnley an",
-            "date": "28.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/154443.webp"
+            "title": "Update aus der MLS - Kein alltäglicher Kopfball: Embolo trifft erneut für Atlanta",
+            "date": "29.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/37ae6d.webp"
         }
     ],
     "schedule": {
