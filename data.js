@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-29 10:42:42",
+    "last_updated": "2026-10-29 13:28:22",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Konietzke wechselt leihweise von St. Gallen zu Vaduz",
+            "title": "Verbleib im YB-Verwaltungsrat - Spycher gibt sportliche Führung im Herbst 2027 ab",
             "date": "29.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d0c2a1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f04ce9.webp"
         },
         {
-            "title": "Update aus der MLS - Kein alltäglicher Kopfball: Embolo trifft erneut für Atlanta",
+            "title": "News aus der Super League - Luzern mehrere Wochen ohne Bertone – Konietzke leihweise zu Vaduz",
             "date": "29.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/37ae6d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e489df4.webp"
         }
     ],
     "schedule": {
