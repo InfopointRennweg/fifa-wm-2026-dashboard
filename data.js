@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-29 18:36:21",
+    "last_updated": "2026-10-29 21:20:11",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Fussball aus den Topligen - Monteiro mit Premierentreffer bei Klatsche in Frosinone",
+            "date": "29.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2ee875.webp"
+        },
         {
             "title": "News aus der Nati - Schweiz spielt in Maribor anstatt in Ljubljana",
             "date": "29.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/510b16.webp"
-        },
-        {
-            "title": "Verbleib im YB-Verwaltungsrat - Spycher gibt sportliche Führung im Herbst 2027 ab",
-            "date": "29.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f04ce9.webp"
         }
     ],
     "schedule": {
