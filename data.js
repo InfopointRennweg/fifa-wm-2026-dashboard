@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-29 13:28:22",
+    "last_updated": "2026-10-29 18:36:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Nati - Schweiz spielt in Maribor anstatt in Ljubljana",
+            "date": "29.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/510b16.webp"
+        },
         {
             "title": "Verbleib im YB-Verwaltungsrat - Spycher gibt sportliche Führung im Herbst 2027 ab",
             "date": "29.10.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/f04ce9.webp"
-        },
-        {
-            "title": "News aus der Super League - Luzern mehrere Wochen ohne Bertone – Konietzke leihweise zu Vaduz",
-            "date": "29.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e489df4.webp"
         }
     ],
     "schedule": {
