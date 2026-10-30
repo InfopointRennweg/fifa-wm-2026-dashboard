@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-30 13:16:10",
+    "last_updated": "2026-10-30 18:08:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Kosten von über 2 Milliarden - «Ciao» San Siro: Mailänder Klubs sollen in neues Stadion ziehen",
+            "title": "Vor Bayern – Dortmund - «Mit Kobel müssten sich auch Klubs wie Real Madrid beschäftigen»",
             "date": "30.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/705c424.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/31f3b4.webp"
         },
         {
-            "title": "Trainerin vor Spiel gegen FCZ - «Ich werde keine Stimme mehr haben»: Stein brennt für den FCB",
+            "title": "News aus der Super League - GC-Goalie Hübel fällt aus",
             "date": "30.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6b4b69.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/907ac5.webp"
         }
     ],
     "schedule": {
