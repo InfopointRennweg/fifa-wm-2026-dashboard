@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-31 12:54:38",
+    "last_updated": "2026-10-31 17:19:55",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fast 1000 Spiele in 7 Tagen - U15-WM: Spanien gewinnt Mammut-Turnier mit 189 Teams",
+            "title": "Bundesliga, 8. Spieltag - Demirovic-Doppelpack bei Stuttgarts 4:2 – Werder weiter im Hoch",
             "date": "31.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c05eb5.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b85ff5.webp"
         },
         {
-            "title": "Zögern vor Nati-Rückkehr - «Kollektivstrafe»: Embolo von Verband «enttäuscht»",
+            "title": "Premier League am Samstag - ManUnited noch tiefer in der Krise – ManCity von Brighton düpiert",
             "date": "31.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/98e373.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ae2f26.webp"
         }
     ],
     "schedule": {
