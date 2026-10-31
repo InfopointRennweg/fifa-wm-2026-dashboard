@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-30 20:58:42",
+    "last_updated": "2026-10-31 10:11:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "2:1-Sieg über FCZ Frauen - Umstrittenes Tor hilft dem FCB aus dem Tief",
-            "date": "30.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5df24e.webp"
+            "title": "Zögern vor Nati-Rückkehr - «Kollektivstrafe»: Embolo von Verband «enttäuscht»",
+            "date": "31.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/98e373.webp"
         },
         {
-            "title": "Vor Bayern – Dortmund - «Mit Kobel müssten sich auch Klubs wie Real Madrid beschäftigen»",
-            "date": "30.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/31f3b4.webp"
+            "title": "SRF-Livespiel am Samstagabend - Form etwas abgekühlt: Läuft Sions Boteli in Luzern wieder heiss?",
+            "date": "31.10.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4ed0c4.webp"
         }
     ],
     "schedule": {
