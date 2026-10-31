@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-31 17:19:55",
+    "last_updated": "2026-10-31 20:11:20",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga, 8. Spieltag - Demirovic-Doppelpack bei Stuttgarts 4:2 – Werder weiter im Hoch",
+            "title": "Kane verschiesst Elfmeter - Später Ausgleich beschert Dortmund einen Punkt in München",
             "date": "31.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b85ff5.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/dc9fa0.webp"
         },
         {
-            "title": "Premier League am Samstag - ManUnited noch tiefer in der Krise – ManCity von Brighton düpiert",
+            "title": "Super League: 12. Runde - Lee rettet GC im Kellerduell gegen Vaduz einen späten Punkt",
             "date": "31.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ae2f26.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4bd9cf.webp"
         }
     ],
     "schedule": {
