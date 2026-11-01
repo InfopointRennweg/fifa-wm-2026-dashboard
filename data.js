@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-10-31 20:11:20",
+    "last_updated": "2026-11-01 11:01:41",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Kane verschiesst Elfmeter - Später Ausgleich beschert Dortmund einen Punkt in München",
+            "title": "Super League 12. Runde - Boteli vergibt Elfmeter bei Remis zwischen Luzern und Sion",
             "date": "31.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dc9fa0.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6e3700.webp"
         },
         {
-            "title": "Super League: 12. Runde - Lee rettet GC im Kellerduell gegen Vaduz einen späten Punkt",
+            "title": "Fussball aus den Topligen - Akanji mit Vorlage bei 1:3-Derbyniederlage – Barça zeigt Reaktion",
             "date": "31.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4bd9cf.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/740099.webp"
         }
     ],
     "schedule": {
