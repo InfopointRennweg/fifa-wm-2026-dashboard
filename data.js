@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-01 18:02:07",
+    "last_updated": "2026-11-01 20:43:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "2:1-Heimsieg in der 12. Runde - Passives Lugano feiert knappen Sieg über Basel und distanziert YB",
+            "title": "Bundesliga am Sonntag - Union punktet nach Klatsche – Frankfurt schlägt den HSV erneut",
             "date": "01.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f49a1e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0d65f4.webp"
         },
         {
-            "title": "12. Super-League-Runde - Nach Fehlerorgie: Thun gewinnt 9-Tore-Spektakel in Lausanne",
+            "title": "Topspiel in der Premier League - Havertz trifft: Arsenal schlägt Liverpool und erobert Leaderthron",
             "date": "01.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8407b2.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6ecaa6.webp"
         }
     ],
     "schedule": {
