@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-01 13:40:12",
+    "last_updated": "2026-11-01 18:02:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Fussball aus den Topligen - Ballet glänzt mit Hattrick – und sieht dann Rot",
+            "title": "2:1-Heimsieg in der 12. Runde - Passives Lugano feiert knappen Sieg über Basel und distanziert YB",
             "date": "01.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2f27bc.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f49a1e.webp"
         },
         {
-            "title": "Internationale Fussball-News - Bayerns Saibari und Gnabry fallen aus",
+            "title": "12. Super-League-Runde - Nach Fehlerorgie: Thun gewinnt 9-Tore-Spektakel in Lausanne",
             "date": "01.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3b21c1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/8407b2.webp"
         }
     ],
     "schedule": {
