@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-01 11:01:41",
+    "last_updated": "2026-11-01 13:40:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Super League 12. Runde - Boteli vergibt Elfmeter bei Remis zwischen Luzern und Sion",
-            "date": "31.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6e3700.webp"
+            "title": "Fussball aus den Topligen - Ballet glänzt mit Hattrick – und sieht dann Rot",
+            "date": "01.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2f27bc.webp"
         },
         {
-            "title": "Fussball aus den Topligen - Akanji mit Vorlage bei 1:3-Derbyniederlage – Barça zeigt Reaktion",
-            "date": "31.10.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/740099.webp"
+            "title": "Internationale Fussball-News - Bayerns Saibari und Gnabry fallen aus",
+            "date": "01.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/3b21c1.webp"
         }
     ],
     "schedule": {
