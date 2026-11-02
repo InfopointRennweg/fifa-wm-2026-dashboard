@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-02 11:59:53",
+    "last_updated": "2026-11-02 16:23:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Historisch in der Super League - Apropos Aufholjagd: Thuns Pendel schlug auch schon anders aus",
+            "title": "News aus der Super League - Servette-Torjäger Mutandwa erst 2027 wieder dabei",
             "date": "02.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1c8738c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f5766c.webp"
         },
         {
-            "title": "Fussball-Gallery vom Weekend - Blau-weisser Jubel, Igor Spassikowski, aber auch tiefe Trauer",
+            "title": "Engagement in Peking - Stiel feilt nun in China an den Torhütern",
             "date": "02.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0228641.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b481493.webp"
         }
     ],
     "schedule": {
