@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-02 16:23:45",
+    "last_updated": "2026-11-02 21:52:29",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus der Super League - Servette-Torjäger Mutandwa erst 2027 wieder dabei",
+            "title": "Mental Health im Profifussball - Co-Trainerschaft als Lösung gegen den Dauerdruck?",
             "date": "02.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f5766c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c75a90.webp"
         },
         {
-            "title": "Engagement in Peking - Stiel feilt nun in China an den Torhütern",
+            "title": "Internationale Fussball-News - Monteiro bangt um Nati-Spiele – Bayern-Duo monatelang out",
             "date": "02.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b481493.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/faa718.webp"
         }
     ],
     "schedule": {
