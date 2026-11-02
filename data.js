@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-01 20:43:12",
+    "last_updated": "2026-11-02 11:59:53",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga am Sonntag - Union punktet nach Klatsche – Frankfurt schlägt den HSV erneut",
-            "date": "01.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0d65f4.webp"
+            "title": "Historisch in der Super League - Apropos Aufholjagd: Thuns Pendel schlug auch schon anders aus",
+            "date": "02.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/1c8738c.webp"
         },
         {
-            "title": "Topspiel in der Premier League - Havertz trifft: Arsenal schlägt Liverpool und erobert Leaderthron",
-            "date": "01.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6ecaa6.webp"
+            "title": "Fussball-Gallery vom Weekend - Blau-weisser Jubel, Igor Spassikowski, aber auch tiefe Trauer",
+            "date": "02.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0228641.webp"
         }
     ],
     "schedule": {
