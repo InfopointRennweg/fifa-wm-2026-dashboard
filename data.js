@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-02 23:39:23",
+    "last_updated": "2026-11-03 11:37:59",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Mental Health im Profifussball - Co-Trainerschaft als Lösung gegen den Dauerdruck?",
-            "date": "02.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c75a90.webp"
+            "title": "Stürmer wurde 30 Jahre alt - Teneriffa-Spieler Jesus de Miguel nach Zusammenprall verstorben",
+            "date": "03.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/17557c.webp"
         },
         {
-            "title": "Internationale Fussball-News - Monteiro bangt um Nati-Spiele – Bayern-Duo monatelang out",
-            "date": "02.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/faa718.webp"
+            "title": "News aus der Super League - FCZ-Flügel Emmanuel hätte gegen YB vom Platz fliegen müssen",
+            "date": "03.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/27ed9e.webp"
         }
     ],
     "schedule": {
