@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-03 11:37:59",
+    "last_updated": "2026-11-03 14:30:29",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Stürmer wurde 30 Jahre alt - Teneriffa-Spieler Jesus de Miguel nach Zusammenprall verstorben",
+            "title": "Nach dem 4:5 gegen Thun - Schlusslicht Lausanne trennt sich von Trainer Elsner",
             "date": "03.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/17557c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/9fa3cc9.webp"
         },
         {
-            "title": "News aus der Super League - FCZ-Flügel Emmanuel hätte gegen YB vom Platz fliegen müssen",
+            "title": "Auslosung Nations League - Schweizerinnen müssen gegen Weltmeister Spanien ran",
             "date": "03.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/27ed9e.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ab4246.webp"
         }
     ],
     "schedule": {
