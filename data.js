@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-03 14:30:29",
+    "last_updated": "2026-11-03 19:43:39",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach dem 4:5 gegen Thun - Schlusslicht Lausanne trennt sich von Trainer Elsner",
+            "title": "Champions League: Round-up - Stuttgart muss bei Galatasaray untendurch",
             "date": "03.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9fa3cc9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/18a21e4.webp"
         },
         {
-            "title": "Auslosung Nations League - Schweizerinnen müssen gegen Weltmeister Spanien ran",
+            "title": "Deutsche Trainer-Ikone - Nach fast 20 Jahren: Frank Schmidt verlässt Heidenheim im Sommer",
             "date": "03.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ab4246.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/452ed0.webp"
         }
     ],
     "schedule": {
