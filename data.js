@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-04 19:58:09",
+    "last_updated": "2026-11-04 22:04:26",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Champions League: Round-up - Valverde erlöst Real Madrid spät – Liverpool taucht bei «Fener»",
+            "date": "04.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6c33a7.webp"
+        },
         {
             "title": "Seit jeher Real-Madrid-Fan - Nadal vor Wahl in den Vorstand von Real Madrid",
             "date": "04.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/95f7800.webp"
-        },
-        {
-            "title": "2. Engagement im Waadtland - Als Nachfolger von Elsner: Magnin kehrt zu Lausanne zurück",
-            "date": "04.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/36477e.webp"
         }
     ],
     "schedule": {
