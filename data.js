@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-03 21:53:35",
+    "last_updated": "2026-11-04 11:51:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League: Round-up - Stuttgart muss bei Galatasaray untendurch",
-            "date": "03.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/18a21e4.webp"
+            "title": "Internationale Fussball-News - Trainer Fonseca per sofort von Lyon zu Sporting",
+            "date": "04.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/df3a20.webp"
         },
         {
-            "title": "Deutsche Trainer-Ikone - Nach fast 20 Jahren: Frank Schmidt verlässt Heidenheim im Sommer",
-            "date": "03.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/452ed0.webp"
+            "title": "RB Leipzig vs. ManCity - Gegen gute Freunde schmeckt ein Sieg besonders süss",
+            "date": "04.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f3fe81.webp"
         }
     ],
     "schedule": {
