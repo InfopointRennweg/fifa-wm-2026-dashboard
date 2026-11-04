@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-04 11:51:34",
+    "last_updated": "2026-11-04 14:45:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Trainer Fonseca per sofort von Lyon zu Sporting",
+            "title": "Seit jeher Real-Madrid-Fan - Nadal vor Wahl in den Vorstand von Real Madrid",
             "date": "04.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/df3a20.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/95f7800.webp"
         },
         {
-            "title": "RB Leipzig vs. ManCity - Gegen gute Freunde schmeckt ein Sieg besonders süss",
+            "title": "2. Engagement im Waadtland - Als Nachfolger von Elsner: Magnin kehrt zu Lausanne zurück",
             "date": "04.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f3fe81.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/36477e.webp"
         }
     ],
     "schedule": {
