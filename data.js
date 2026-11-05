@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-04 22:04:26",
+    "last_updated": "2026-11-05 11:52:20",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions League: Round-up - Valverde erlöst Real Madrid spät – Liverpool taucht bei «Fener»",
-            "date": "04.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6c33a7.webp"
+            "title": "Nach 234 Spielen - Cristiano Ronaldo gibt Rücktritt aus Nationalteam bekannt",
+            "date": "05.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/be10962.webp"
         },
         {
-            "title": "Seit jeher Real-Madrid-Fan - Nadal vor Wahl in den Vorstand von Real Madrid",
-            "date": "04.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/95f7800.webp"
+            "title": "Aufgebot für Nations League - Mit Rückkehrer Embolo und Xhaka – Boteli und 2 Debütanten dabei",
+            "date": "05.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/89ca123.webp"
         }
     ],
     "schedule": {
