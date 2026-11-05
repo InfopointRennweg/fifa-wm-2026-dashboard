@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-05 14:50:45",
+    "last_updated": "2026-11-05 20:12:39",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Luganos Gegner unter der Lupe - Kauno Zalgiris: Nicht trotz, sondern wegen Basketball zum Erfolg",
+            "title": "3:1 gegen Heart of Midlothian - Thun bestätigt gegen schwache Schotten seinen Aufwärtstrend",
             "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3d20207.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/56a05c.webp"
         },
         {
-            "title": "4. Amtszeit für Infantino? - Asien für Infantino – offizielle Gegenkandidatur aus Japan",
+            "title": "Soll die Klasse halten - Magnin steht bei seiner Rückkehr vor «schwierigstem Auftrag»",
             "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/212c64.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1e0874.webp"
         }
     ],
     "schedule": {
