@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-05 20:12:39",
+    "last_updated": "2026-11-05 22:11:29",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "3:1 gegen Heart of Midlothian - Thun bestätigt gegen schwache Schotten seinen Aufwärtstrend",
+            "title": "Europa League: 4. Spieltag - Milan erneut kalt geduscht – auch Sunderland verliert",
             "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/56a05c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6c5a06.webp"
         },
         {
-            "title": "Soll die Klasse halten - Magnin steht bei seiner Rückkehr vor «schwierigstem Auftrag»",
+            "title": "3:0 in der Conference League - 2 Traumtore inklusive: Lugano schlägt auch litauischen Meister",
             "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1e0874.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0891150.webp"
         }
     ],
     "schedule": {
