@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-05 11:52:20",
+    "last_updated": "2026-11-05 14:50:45",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nach 234 Spielen - Cristiano Ronaldo gibt Rücktritt aus Nationalteam bekannt",
+            "title": "Luganos Gegner unter der Lupe - Kauno Zalgiris: Nicht trotz, sondern wegen Basketball zum Erfolg",
             "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/be10962.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/3d20207.webp"
         },
         {
-            "title": "Aufgebot für Nations League - Mit Rückkehrer Embolo und Xhaka – Boteli und 2 Debütanten dabei",
+            "title": "4. Amtszeit für Infantino? - Asien für Infantino – offizielle Gegenkandidatur aus Japan",
             "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/89ca123.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/212c64.webp"
         }
     ],
     "schedule": {
