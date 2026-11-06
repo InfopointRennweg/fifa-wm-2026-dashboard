@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-06 14:28:32",
+    "last_updated": "2026-11-06 19:38:11",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Schweizer Fussball-News - Frauen-Nati startet in Irland in die Nations League",
+            "date": "06.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/79786c.webp"
+        },
         {
             "title": "Xhaka-Klub im Formtief - Märchenhaft war gestern: Sunderland steckt in Schwierigkeiten",
             "date": "06.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/6a7233.webp"
-        },
-        {
-            "title": "Schwache Startelf-Bilanz - Jashari und Milan: So richtig will es noch nicht funktionieren",
-            "date": "06.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7d25903.webp"
         }
     ],
     "schedule": {
