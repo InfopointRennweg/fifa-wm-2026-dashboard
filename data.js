@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-06 19:38:11",
+    "last_updated": "2026-11-06 21:42:57",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Schweizer Fussball-News - Frauen-Nati startet in Irland in die Nations League",
+            "title": "Bundesliga: 9. Spieltag - Muheim leitet HSV-Sieg mit weiterem Traumtor ein",
             "date": "06.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/79786c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1262a2.webp"
         },
         {
-            "title": "Xhaka-Klub im Formtief - Märchenhaft war gestern: Sunderland steckt in Schwierigkeiten",
+            "title": "3:1-Erfolg gegen Basel - Eiskalte Dysli schiesst YB zum 6. Sieg in Serie",
             "date": "06.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6a7233.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/5cc4800.webp"
         }
     ],
     "schedule": {
