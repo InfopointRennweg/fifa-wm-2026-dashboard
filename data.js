@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-05 22:11:29",
+    "last_updated": "2026-11-06 11:49:35",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Europa League: 4. Spieltag - Milan erneut kalt geduscht – auch Sunderland verliert",
-            "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6c5a06.webp"
+            "title": "Bedauern ob Ronaldos Rücktritt - Jesus: «Alle Jungen sollen ihn als Vorbild vor Augen haben»",
+            "date": "06.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ffb217.webp"
         },
         {
-            "title": "3:0 in der Conference League - 2 Traumtore inklusive: Lugano schlägt auch litauischen Meister",
+            "title": "Vaduz-Shootingstar im Fokus - Pläne von Dalipi: Zurück zu YB, aber wohl nicht in die Nati",
             "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0891150.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/fc4f411.webp"
         }
     ],
     "schedule": {
