@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-06 11:49:35",
+    "last_updated": "2026-11-06 14:28:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bedauern ob Ronaldos Rücktritt - Jesus: «Alle Jungen sollen ihn als Vorbild vor Augen haben»",
+            "title": "Xhaka-Klub im Formtief - Märchenhaft war gestern: Sunderland steckt in Schwierigkeiten",
             "date": "06.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ffb217.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6a7233.webp"
         },
         {
-            "title": "Vaduz-Shootingstar im Fokus - Pläne von Dalipi: Zurück zu YB, aber wohl nicht in die Nati",
-            "date": "05.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fc4f411.webp"
+            "title": "Schwache Startelf-Bilanz - Jashari und Milan: So richtig will es noch nicht funktionieren",
+            "date": "06.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/7d25903.webp"
         }
     ],
     "schedule": {
