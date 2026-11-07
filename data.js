@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-07 17:49:32",
+    "last_updated": "2026-11-07 20:25:41",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Genferinnen drehen Rückstand - Auch Terchoun trifft: Servette nach Sieg beim FCZ wieder Leader",
+            "title": "Trauerfeier nach Todesfall - Teneriffa nimmt unter Tränen Abschied von de Miguel",
             "date": "07.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1d5739.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/4bb28e.webp"
         },
         {
-            "title": "Lausanner an der Seitenlinie - 4:5 nach 4:1: Burnley wie Lausanne-Sport",
+            "title": "Fussball aus den Topligen - Erstes Tor für Vincent Sierro bei Parma",
             "date": "07.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a106ca3.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a299e8.webp"
         }
     ],
     "schedule": {
