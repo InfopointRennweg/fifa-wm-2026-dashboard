@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-07 13:23:19",
+    "last_updated": "2026-11-07 17:49:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Spielerinnen-Wohl bei YB - Mit Anlaufstelle für Mental Health und sukzessivem Support",
+            "title": "Genferinnen drehen Rückstand - Auch Terchoun trifft: Servette nach Sieg beim FCZ wieder Leader",
             "date": "07.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a7cae38.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1d5739.webp"
         },
         {
-            "title": "Super League live bei SRF - GC: Mit Klarheit und Kompaktheit gegen die Kompliziertheit",
+            "title": "Lausanner an der Seitenlinie - 4:5 nach 4:1: Burnley wie Lausanne-Sport",
             "date": "07.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1e33f1.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a106ca3.webp"
         }
     ],
     "schedule": {
