@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-07 20:25:41",
+    "last_updated": "2026-11-08 11:02:58",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Trauerfeier nach Todesfall - Teneriffa nimmt unter Tränen Abschied von de Miguel",
-            "date": "07.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4bb28e.webp"
+            "title": "Nun stehen die MLS-Playoffs an - Messi gewinnt seinen 2. Goldenen Schuh",
+            "date": "08.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2ed1d3.webp"
         },
         {
-            "title": "Fussball aus den Topligen - Erstes Tor für Vincent Sierro bei Parma",
-            "date": "07.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a299e8.webp"
+            "title": "Der YB-Goalgetter jagt Rekorde - Verrückte Spielerei: Essende kann es auf 44 Saisongoals bringen",
+            "date": "08.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/727586.webp"
         }
     ],
     "schedule": {
