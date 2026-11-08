@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-08 11:02:58",
+    "last_updated": "2026-11-08 13:43:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Internationale Fussball-News - Erneuter Ausfall: Sehnenteilriss bei Neuer",
+            "date": "08.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9f61b9.webp"
+        },
         {
             "title": "Nun stehen die MLS-Playoffs an - Messi gewinnt seinen 2. Goldenen Schuh",
             "date": "08.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/2ed1d3.webp"
-        },
-        {
-            "title": "Der YB-Goalgetter jagt Rekorde - Verrückte Spielerei: Essende kann es auf 44 Saisongoals bringen",
-            "date": "08.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/727586.webp"
         }
     ],
     "schedule": {
