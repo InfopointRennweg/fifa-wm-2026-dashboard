@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-08 13:43:32",
+    "last_updated": "2026-11-08 18:01:25",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Erneuter Ausfall: Sehnenteilriss bei Neuer",
+            "title": "13. Runde der Super League - Spätes Eigentor: Basel muss sich in Thun mit 3:3 begnügen",
             "date": "08.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9f61b9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b1416a.webp"
         },
         {
-            "title": "Nun stehen die MLS-Playoffs an - Messi gewinnt seinen 2. Goldenen Schuh",
+            "title": "13. Runde der Super League - 0:0 in Genf: FCZ verlängert eine Serie und beendet eine andere",
             "date": "08.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2ed1d3.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f950d0.webp"
         }
     ],
     "schedule": {
