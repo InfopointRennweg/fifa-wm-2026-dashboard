@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-08 18:01:25",
+    "last_updated": "2026-11-08 20:41:37",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "13. Runde der Super League - Spätes Eigentor: Basel muss sich in Thun mit 3:3 begnügen",
+            "title": "Bundesliga am Sonntag - Nächste Pleite für Lustrinellis Union",
             "date": "08.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b1416a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/3c623f.webp"
         },
         {
-            "title": "13. Runde der Super League - 0:0 in Genf: FCZ verlängert eine Serie und beendet eine andere",
+            "title": "Fussball aus den Topligen - Doppelte Aufholjagd: ManUnited zeigt grosse Moral – Inter gewinnt",
             "date": "08.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f950d0.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/574fbc5.webp"
         }
     ],
     "schedule": {
