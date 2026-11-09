@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-08 20:41:37",
+    "last_updated": "2026-11-09 12:32:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Bundesliga am Sonntag - Nächste Pleite für Lustrinellis Union",
-            "date": "08.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3c623f.webp"
+            "title": "Der Captain ist verletzt - Doch kein Comeback: Xhaka fehlt der Nati erneut",
+            "date": "09.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4dce9d.webp"
         },
         {
-            "title": "Fussball aus den Topligen - Doppelte Aufholjagd: ManUnited zeigt grosse Moral – Inter gewinnt",
-            "date": "08.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/574fbc5.webp"
+            "title": "Aktuelles zum Frauenfussball - Beney, Pilgrim und Vallotto treffen und siegen",
+            "date": "09.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/35fe6c.webp"
         }
     ],
     "schedule": {
