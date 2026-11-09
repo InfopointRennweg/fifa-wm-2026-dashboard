@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-09 12:32:23",
+    "last_updated": "2026-11-09 16:43:17",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Internationale Fussball-News - Raul wird Trainer bei spanischem Zweitligisten",
+            "date": "09.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8340aa.webp"
+        },
         {
             "title": "Der Captain ist verletzt - Doch kein Comeback: Xhaka fehlt der Nati erneut",
             "date": "09.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/4dce9d.webp"
-        },
-        {
-            "title": "Aktuelles zum Frauenfussball - Beney, Pilgrim und Vallotto treffen und siegen",
-            "date": "09.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/35fe6c.webp"
         }
     ],
     "schedule": {
