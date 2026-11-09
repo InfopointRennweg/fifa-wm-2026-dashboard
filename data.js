@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-09 16:43:17",
+    "last_updated": "2026-11-09 22:38:14",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Raul wird Trainer bei spanischem Zweitligisten",
+            "title": "Rückkehr mit Nebengeräuschen - «Mit einem grossen Lachen»: Embolo zurück im Kreis der Nati",
             "date": "09.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8340aa.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/892829.webp"
         },
         {
-            "title": "Der Captain ist verletzt - Doch kein Comeback: Xhaka fehlt der Nati erneut",
+            "title": "Vor Aufstieg in Nations League - Nati: 1 Punkt holen – und dann bereits Blick Richtung EM-Quali",
             "date": "09.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4dce9d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1cc72a.webp"
         }
     ],
     "schedule": {
