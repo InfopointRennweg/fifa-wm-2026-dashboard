@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-10 00:22:03",
+    "last_updated": "2026-11-10 12:07:16",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Rückkehr mit Nebengeräuschen - «Mit einem grossen Lachen»: Embolo zurück im Kreis der Nati",
-            "date": "09.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/892829.webp"
+            "title": "Alonso wusste von nichts - Managerspiel verrät Chelsea-Ausfall: Klub mahnt Personal",
+            "date": "10.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/05586ae.webp"
         },
         {
-            "title": "Vor Aufstieg in Nations League - Nati: 1 Punkt holen – und dann bereits Blick Richtung EM-Quali",
-            "date": "09.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1cc72a.webp"
+            "title": "Zuletzt noch U21-Captain - Nati-Neuling Nyakossi: vom Genfer Junior zum Millionen-Juwel?",
+            "date": "10.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/faa3a6.webp"
         }
     ],
     "schedule": {
