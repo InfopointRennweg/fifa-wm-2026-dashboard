@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-10 12:07:16",
+    "last_updated": "2026-11-10 15:06:15",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Alonso wusste von nichts - Managerspiel verrät Chelsea-Ausfall: Klub mahnt Personal",
+            "title": "Internationale Fussball-News - Nach Kollaps und Auszeit: Kompany zurück am Trainingsgelände",
             "date": "10.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/05586ae.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c38cfd.webp"
         },
         {
-            "title": "Zuletzt noch U21-Captain - Nati-Neuling Nyakossi: vom Genfer Junior zum Millionen-Juwel?",
+            "title": "Erstes Nati-Aufgebot - Samuel Ballet: «Druck von aussen ist in der Türkei grösser»",
             "date": "10.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/faa3a6.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a75e5d.webp"
         }
     ],
     "schedule": {
