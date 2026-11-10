@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-10 15:06:15",
+    "last_updated": "2026-11-10 19:55:59",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Nach Kollaps und Auszeit: Kompany zurück am Trainingsgelände",
+            "title": "News zum Nationalteam - Goalie Silas Huber muss für die Fortsetzung passen",
             "date": "10.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c38cfd.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/307cca.webp"
         },
         {
-            "title": "Erstes Nati-Aufgebot - Samuel Ballet: «Druck von aussen ist in der Türkei grösser»",
+            "title": "Internationale Fussball-News - Kompany zurück auf Trainingsgelände – Lens-Trainer muss gehen",
             "date": "10.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a75e5d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/c38cfd.webp"
         }
     ],
     "schedule": {
