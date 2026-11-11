@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-11 19:48:33",
+    "last_updated": "2026-11-11 22:55:38",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Internationale Fussball-News - Frankreich ohne Mbappé gegen Italien",
+            "date": "11.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/6e2de3.webp"
+        },
         {
             "title": "Markige Worte des Vorgängers - Blatter teilt gegen Infantino aus: «Er ist ein Diktator»",
             "date": "11.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/e321e1.webp"
-        },
-        {
-            "title": "70. Spiel als Nati-Trainer - Yakin: Aus der Challenge League in die Weltspitze",
-            "date": "11.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/62f1bd.webp"
         }
     ],
     "schedule": {
