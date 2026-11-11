@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-10 21:53:04",
+    "last_updated": "2026-11-11 11:40:52",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News zum Nationalteam - Goalie Silas Huber muss für die Fortsetzung passen",
-            "date": "10.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/307cca.webp"
+            "title": "Wortführer in der Nati - Akanji: Ersatz für Xhaka, Freude auf Embolo und ein klares Ziel",
+            "date": "11.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/3827700.webp"
         },
         {
-            "title": "Internationale Fussball-News - Kompany zurück auf Trainingsgelände – Lens-Trainer muss gehen",
-            "date": "10.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c38cfd.webp"
+            "title": "Nations League vs. Frankreich - Zaniolo und Italien: Es bleibt kompliziert",
+            "date": "11.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e56562f.webp"
         }
     ],
     "schedule": {
