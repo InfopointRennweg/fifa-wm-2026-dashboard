@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-11 11:40:52",
+    "last_updated": "2026-11-11 14:37:25",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "70. Spiel als Nati-Trainer - Yakin: Aus der Challenge League in die Weltspitze",
+            "date": "11.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/62f1bd.webp"
+        },
         {
             "title": "Wortführer in der Nati - Akanji: Ersatz für Xhaka, Freude auf Embolo und ein klares Ziel",
             "date": "11.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/3827700.webp"
-        },
-        {
-            "title": "Nations League vs. Frankreich - Zaniolo und Italien: Es bleibt kompliziert",
-            "date": "11.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e56562f.webp"
         }
     ],
     "schedule": {
