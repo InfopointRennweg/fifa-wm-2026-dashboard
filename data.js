@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-12 20:18:12",
+    "last_updated": "2026-11-12 22:24:10",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Auf Wunsch des 46-Jährigen - Leader Servette Chênois trennt sich von Trainer Toro",
+            "title": "Nations League am Donnerstag - Italien gewinnt Prestige-Duell – Kane trifft bei Jubiläum",
             "date": "12.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ae577c.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/245cb7.webp"
         },
         {
-            "title": "Nations League am Freitag live - Die Nati hat den Wiederaufstieg im Blick",
+            "title": "Mit Vaduz in Fahrt - Dalipi entscheidet sich für Kosovo",
             "date": "12.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/78715f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b8184d.webp"
         }
     ],
     "schedule": {
