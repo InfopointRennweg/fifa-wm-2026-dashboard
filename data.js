@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-12 15:29:02",
+    "last_updated": "2026-11-12 20:18:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "ManUtd liegt auf Abstiegsplatz - Manchester United trennt sich von Trainer Carrick",
+            "title": "Auf Wunsch des 46-Jährigen - Leader Servette Chênois trennt sich von Trainer Toro",
             "date": "12.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dd0990a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ae577c.webp"
         },
         {
-            "title": "Shootingstar fällt aus - Die Wade zwickt: Manzambi reist wieder ab",
+            "title": "Nations League am Freitag live - Die Nati hat den Wiederaufstieg im Blick",
             "date": "12.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/abfa62.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/78715f.webp"
         }
     ],
     "schedule": {
