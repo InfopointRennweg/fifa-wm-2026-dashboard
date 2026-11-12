@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-11 22:55:38",
+    "last_updated": "2026-11-12 12:12:11",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Frankreich ohne Mbappé gegen Italien",
-            "date": "11.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6e2de3.webp"
+            "title": "ManUtd liegt auf Abstiegsplatz - Manchester United trennt sich von Trainer Carrick",
+            "date": "12.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/dd0990a.webp"
         },
         {
-            "title": "Markige Worte des Vorgängers - Blatter teilt gegen Infantino aus: «Er ist ein Diktator»",
-            "date": "11.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e321e1.webp"
+            "title": "Shootingstar fällt aus - Die Wade zwickt: Manzambi reist wieder ab",
+            "date": "12.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/abfa62.webp"
         }
     ],
     "schedule": {
