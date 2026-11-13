@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-13 11:51:54",
+    "last_updated": "2026-11-13 14:46:20",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nations League - Deutschland steht vor spezieller Kulisse unter Zugzwang",
+            "title": "Nach Sieg über Frankreich - «Raubtier» und Pechvogel: Esposito-Brüder verzücken Italien",
             "date": "13.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/955f6f9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e66332.webp"
         },
         {
-            "title": "Im Wankdorf gegen Österreich - Frauen-Nati stellt für WM-Playoff-Partie Publikumsrekord auf",
+            "title": "Nachfolger von Carrick - Pochettino übernimmt bei Manchester United",
             "date": "13.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4a71e0.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ae4b2f.webp"
         }
     ],
     "schedule": {
