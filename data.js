@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-13 19:57:27",
+    "last_updated": "2026-11-13 22:05:20",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "«Englands Finest» - Rekordfussballer Harry Kane begeistert eine ganze Nation",
+            "title": "Nations League - Klare Siege für Deutschland und die Niederlande",
             "date": "13.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2c75946.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/28b5cd.webp"
         },
         {
-            "title": "Nach Sieg über Frankreich - «Raubtier» und Pechvogel: Esposito-Brüder verzücken Italien",
+            "title": "Maues Spiel in Nations League - Minimalistische Nati steigt nach einem 0:0 in Slowenien auf",
             "date": "13.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e66332.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/01f826.webp"
         }
     ],
     "schedule": {
