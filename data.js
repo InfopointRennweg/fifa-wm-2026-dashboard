@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-12 22:24:10",
+    "last_updated": "2026-11-13 11:51:54",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nations League am Donnerstag - Italien gewinnt Prestige-Duell – Kane trifft bei Jubiläum",
-            "date": "12.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/245cb7.webp"
+            "title": "Nations League - Deutschland steht vor spezieller Kulisse unter Zugzwang",
+            "date": "13.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/955f6f9.webp"
         },
         {
-            "title": "Mit Vaduz in Fahrt - Dalipi entscheidet sich für Kosovo",
-            "date": "12.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b8184d.webp"
+            "title": "Im Wankdorf gegen Österreich - Frauen-Nati stellt für WM-Playoff-Partie Publikumsrekord auf",
+            "date": "13.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4a71e0.webp"
         }
     ],
     "schedule": {
