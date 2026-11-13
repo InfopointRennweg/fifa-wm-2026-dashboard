@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-13 14:46:20",
+    "last_updated": "2026-11-13 19:57:27",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "«Englands Finest» - Rekordfussballer Harry Kane begeistert eine ganze Nation",
+            "date": "13.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2c75946.webp"
+        },
         {
             "title": "Nach Sieg über Frankreich - «Raubtier» und Pechvogel: Esposito-Brüder verzücken Italien",
             "date": "13.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/e66332.webp"
-        },
-        {
-            "title": "Nachfolger von Carrick - Pochettino übernimmt bei Manchester United",
-            "date": "13.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ae4b2f.webp"
         }
     ],
     "schedule": {
