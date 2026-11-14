@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-14 11:12:57",
+    "last_updated": "2026-11-14 13:42:29",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News zur Schweizer Nati - «Belastungssteuerung»: Ndoye reist aus dem Nationalteam ab",
+            "date": "14.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e43ba3.webp"
+        },
         {
             "title": "Bilanz nach Nati-Aufstieg - Huggel: «Das zeigt, wie breit und gut aufgestellt die Nati ist»",
             "date": "14.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/91fa63.webp"
-        },
-        {
-            "title": "Stimmen zum Wiederaufstieg - Trotz «keinem schönen Spiel» gingen Träume in Erfüllung",
-            "date": "13.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c27021.webp"
         }
     ],
     "schedule": {
