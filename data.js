@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-14 18:25:15",
+    "last_updated": "2026-11-14 20:53:06",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "WSL am Samstag - Yverdon überrascht YB – Schlusslicht St. Gallen mit Lebenszeichen",
+            "date": "14.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/e15cb0.webp"
+        },
         {
             "title": "Internationale Fussball-News - Pilgrim glänzt bei 11-Tore-Spektakel",
             "date": "14.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/3178e02.webp"
-        },
-        {
-            "title": "Testspiele in Südamerika - Argentinien unterliegt Uruguay, Japan schlägt junges Brasilien",
-            "date": "14.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b65538.webp"
         }
     ],
     "schedule": {
