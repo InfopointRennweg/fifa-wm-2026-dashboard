@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-15 11:45:23",
+    "last_updated": "2026-11-15 14:11:14",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Presse reagiert deutlich - Portugal erlebt Blamage: «Cristiano hat das nicht verdient»",
+            "title": "News zur Schweizer Nati - «Leichte Beschwerden»: Akanji reist vorzeitig ab",
             "date": "15.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d6c7e5.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ae9599.webp"
         },
         {
-            "title": "Nations League am Samstag - Dänemark watscht Portugal ab – Norwegen siegt glücklich",
-            "date": "14.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/199854a.webp"
+            "title": "Internationale Fussball-News - Washington trennt sich von Weiler",
+            "date": "15.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/f9c42d.webp"
         }
     ],
     "schedule": {
