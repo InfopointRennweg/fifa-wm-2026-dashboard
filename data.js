@@ -1,9 +1,9 @@
 const dashboardData = {
-    "last_updated": "2026-11-15 19:02:18",
+    "last_updated": "2026-11-15 21:09:28",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Mit 46 Jahren zurück - Comeback erfolgt: Ronaldinho absolviert eine Halbzeit für Ravenna",
+            "title": "Mit 46 Jahren zurück - Rückkehr erfolgt: Ronaldinho absolviert eine Halbzeit für Ravenna",
             "date": "15.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/badd8ed.webp"
         },
