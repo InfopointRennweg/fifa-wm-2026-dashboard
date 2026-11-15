@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-15 14:11:14",
+    "last_updated": "2026-11-15 19:02:18",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News zur Schweizer Nati - «Leichte Beschwerden»: Akanji reist vorzeitig ab",
+            "title": "Mit 46 Jahren zurück - Comeback erfolgt: Ronaldinho absolviert eine Halbzeit für Ravenna",
             "date": "15.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ae9599.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/badd8ed.webp"
         },
         {
-            "title": "Internationale Fussball-News - Washington trennt sich von Weiler",
+            "title": "Im Testspiel vs. Hajduk Split - Comeback nach 4-jähriger Sperre: Hamburgs Vuskovic ist zurück",
             "date": "15.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/f9c42d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/82542e5.webp"
         }
     ],
     "schedule": {
