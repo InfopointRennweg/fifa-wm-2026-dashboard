@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-14 20:53:06",
+    "last_updated": "2026-11-15 11:45:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "WSL am Samstag - Yverdon überrascht YB – Schlusslicht St. Gallen mit Lebenszeichen",
-            "date": "14.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e15cb0.webp"
+            "title": "Presse reagiert deutlich - Portugal erlebt Blamage: «Cristiano hat das nicht verdient»",
+            "date": "15.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/d6c7e5.webp"
         },
         {
-            "title": "Internationale Fussball-News - Pilgrim glänzt bei 11-Tore-Spektakel",
+            "title": "Nations League am Samstag - Dänemark watscht Portugal ab – Norwegen siegt glücklich",
             "date": "14.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/3178e02.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/199854a.webp"
         }
     ],
     "schedule": {
