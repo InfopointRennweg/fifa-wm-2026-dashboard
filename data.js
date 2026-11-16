@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-16 16:13:17",
+    "last_updated": "2026-11-16 22:26:24",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Uefa hat sich entschieden - Diallo wird Gegenkandidat von Infantino für Fifa-Präsidentschaft",
+            "title": "Stimmen nach dem Nati-Spiel - Ein spezieller Platz für das Trikot und ein Essen für ein Tor",
             "date": "16.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/409ee4.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/ac611b.webp"
         },
         {
-            "title": "«Pack deine Sachen und hau ab» - Nach Pleite und Rot: Brasilien-Trainer Ancelotti angefeindet",
+            "title": "Nations League: Gruppe A2 - Deutschland watscht Niederlande ab und holt Gruppensieg",
             "date": "16.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0f6a72.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/826d46.webp"
         }
     ],
     "schedule": {
