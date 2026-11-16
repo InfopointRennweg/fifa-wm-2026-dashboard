@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-15 21:09:28",
+    "last_updated": "2026-11-16 12:26:19",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Mit 46 Jahren zurück - Rückkehr erfolgt: Ronaldinho absolviert eine Halbzeit für Ravenna",
-            "date": "15.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/badd8ed.webp"
+            "title": "Internationale Fussball-News - Lukaku beendet Nati-Karriere – Frick mit neuem Trainerjob",
+            "date": "16.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/611ac0.webp"
         },
         {
-            "title": "Im Testspiel vs. Hajduk Split - Comeback nach 4-jähriger Sperre: Hamburgs Vuskovic ist zurück",
-            "date": "15.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/82542e5.webp"
+            "title": "Showdown gegen Niederlande - Viertelfinal oder Abstiegskampf: wegweisendes Spiel für DFB-Elf",
+            "date": "16.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/11b024.webp"
         }
     ],
     "schedule": {
