@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-16 12:26:19",
+    "last_updated": "2026-11-16 16:13:17",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Lukaku beendet Nati-Karriere – Frick mit neuem Trainerjob",
+            "title": "Uefa hat sich entschieden - Diallo wird Gegenkandidat von Infantino für Fifa-Präsidentschaft",
             "date": "16.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/611ac0.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/409ee4.webp"
         },
         {
-            "title": "Showdown gegen Niederlande - Viertelfinal oder Abstiegskampf: wegweisendes Spiel für DFB-Elf",
+            "title": "«Pack deine Sachen und hau ab» - Nach Pleite und Rot: Brasilien-Trainer Ancelotti angefeindet",
             "date": "16.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/11b024.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0f6a72.webp"
         }
     ],
     "schedule": {
