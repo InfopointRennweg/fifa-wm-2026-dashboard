@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-17 16:19:21",
+    "last_updated": "2026-11-17 21:15:16",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Englischer Ex-Starstürmer - Rooney spricht über Tiefpunkt: «Habe an Suizid gedacht»",
+            "date": "17.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/fe9dea.webp"
+        },
         {
             "title": "Ohne Trainer Ancelotti - Fussballstar Vinicius und Brasilien überrollen Singapur",
             "date": "17.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/d8e943.webp"
-        },
-        {
-            "title": "Nati-Aufgebot - Zwei Rückkehrerinnen im Schweizer Kader für WM-Quali-Playoffs",
-            "date": "17.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a8c3c9.webp"
         }
     ],
     "schedule": {
