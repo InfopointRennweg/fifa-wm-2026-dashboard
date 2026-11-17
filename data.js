@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-17 21:15:16",
+    "last_updated": "2026-11-17 23:36:34",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Nations League: Gruppe A4 - Norwegen dramatisch im Viertelfinal – Portugal schlägt Wales",
+            "date": "17.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/9fec4c.webp"
+        },
         {
             "title": "Englischer Ex-Starstürmer - Rooney spricht über Tiefpunkt: «Habe an Suizid gedacht»",
             "date": "17.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/fe9dea.webp"
-        },
-        {
-            "title": "Ohne Trainer Ancelotti - Fussballstar Vinicius und Brasilien überrollen Singapur",
-            "date": "17.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d8e943.webp"
         }
     ],
     "schedule": {
