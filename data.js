@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-17 12:47:09",
+    "last_updated": "2026-11-17 16:19:21",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Kampf um Fifa-Präsidium - Das ist Infantino-Gegner Philippe Diallo",
+            "title": "Ohne Trainer Ancelotti - Fussballstar Vinicius und Brasilien überrollen Singapur",
             "date": "17.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/40da66.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/d8e943.webp"
         },
         {
-            "title": "Nach 5:0 von GER gegen NED - «Hellseher» Klopp geht viral: «Im Idealfall machen wir fünf»",
+            "title": "Nati-Aufgebot - Zwei Rückkehrerinnen im Schweizer Kader für WM-Quali-Playoffs",
             "date": "17.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/01dec9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a8c3c9.webp"
         }
     ],
     "schedule": {
