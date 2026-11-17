@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-17 00:23:42",
+    "last_updated": "2026-11-17 12:47:09",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Stimmen nach dem Nati-Spiel - Ein spezieller Platz für das Trikot und ein Essen für ein Tor",
-            "date": "16.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ac611b.webp"
+            "title": "Kampf um Fifa-Präsidium - Das ist Infantino-Gegner Philippe Diallo",
+            "date": "17.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/40da66.webp"
         },
         {
-            "title": "Nations League: Gruppe A2 - Deutschland watscht Niederlande ab und holt Gruppensieg",
-            "date": "16.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/826d46.webp"
+            "title": "Nach 5:0 von GER gegen NED - «Hellseher» Klopp geht viral: «Im Idealfall machen wir fünf»",
+            "date": "17.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/01dec9.webp"
         }
     ],
     "schedule": {
