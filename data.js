@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-17 23:36:34",
+    "last_updated": "2026-11-18 12:40:08",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Nations League: Gruppe A4 - Norwegen dramatisch im Viertelfinal – Portugal schlägt Wales",
-            "date": "17.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/9fec4c.webp"
+            "title": "Internationale Fussball-News - Weltmeister Mata tritt 38-jährig zurück",
+            "date": "18.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/5ce4686.webp"
         },
         {
-            "title": "Englischer Ex-Starstürmer - Rooney spricht über Tiefpunkt: «Habe an Suizid gedacht»",
-            "date": "17.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/fe9dea.webp"
+            "title": "SRF-Interview - Schär: «Ich hatte Zweifel, ob es überhaupt weitergehen kann»",
+            "date": "18.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4c402a.webp"
         }
     ],
     "schedule": {
