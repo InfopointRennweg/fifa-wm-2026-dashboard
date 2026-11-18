@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-18 15:52:42",
+    "last_updated": "2026-11-18 20:49:49",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "News aus der Super League - Stocker bleibt bei Basel Sportlicher Leiter",
+            "date": "18.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/7e0c75.webp"
+        },
         {
             "title": "Internationale Fussball-News - Weltmeister Mata tritt zurück – Kompany vor Rückkehr",
             "date": "18.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/5ce4686.webp"
-        },
-        {
-            "title": "SRF-Interview - Schär: «Ich hatte Zweifel, ob es überhaupt weitergehen kann»",
-            "date": "18.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4c402a.webp"
         }
     ],
     "schedule": {
