@@ -1,9 +1,9 @@
 const dashboardData = {
-    "last_updated": "2026-11-18 12:40:08",
+    "last_updated": "2026-11-18 15:52:42",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Internationale Fussball-News - Weltmeister Mata tritt 38-jährig zurück",
+            "title": "Internationale Fussball-News - Weltmeister Mata tritt zurück – Kompany vor Rückkehr",
             "date": "18.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/5ce4686.webp"
         },
