@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-18 23:01:18",
+    "last_updated": "2026-11-19 12:30:04",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Women's Champions League - Torhungriges Barça: Servette Chênois vor ultimativem Härtetest",
+            "date": "19.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/21f882.webp"
+        },
         {
             "title": "News aus der Super League - Stocker bleibt bei Basel Sportlicher Leiter",
             "date": "18.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/7e0c75.webp"
-        },
-        {
-            "title": "Internationale Fussball-News - Weltmeister Mata tritt zurück – Kompany vor Rückkehr",
-            "date": "18.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5ce4686.webp"
         }
     ],
     "schedule": {
