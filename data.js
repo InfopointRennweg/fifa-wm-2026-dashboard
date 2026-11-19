@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-19 12:30:04",
+    "last_updated": "2026-11-19 15:56:32",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Women's Champions League - Torhungriges Barça: Servette Chênois vor ultimativem Härtetest",
+            "title": "Fragebogen nicht beantwortet - Fifa-Machtkampf: Brisanter Brief der Europäer",
             "date": "19.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/21f882.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/a4a4b5.webp"
         },
         {
-            "title": "News aus der Super League - Stocker bleibt bei Basel Sportlicher Leiter",
-            "date": "18.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/7e0c75.webp"
+            "title": "Schweizer Duo in 2. Bundesliga - Cupsieger Vogt und Meister Heule zeigen sich nun in Heidenheim",
+            "date": "19.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/a5a2dd5.webp"
         }
     ],
     "schedule": {
