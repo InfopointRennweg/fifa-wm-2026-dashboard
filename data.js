@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-19 23:09:40",
+    "last_updated": "2026-11-20 12:30:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Women's Champions League - Schertenleib und Barcelona lassen Servette keine Chance",
-            "date": "19.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/d354ce.webp"
+            "title": "Viertelfinals Nations League - Es kommt zur WM-Halbfinal-Reprise zwischen Spanien und Frankreich",
+            "date": "20.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/04c13b.webp"
         },
         {
-            "title": "Fragebogen nicht beantwortet - Fifa-Machtkampf: Brisanter Brief der Europäer",
-            "date": "19.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/a4a4b5.webp"
+            "title": "Spitzenkampf gegen Yverdon - Zuffi vor 200. FCW-Spiel: «Das ist nicht selbstverständlich»",
+            "date": "20.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/94fdd0.webp"
         }
     ],
     "schedule": {
