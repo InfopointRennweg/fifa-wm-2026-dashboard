@@ -1,5 +1,5 @@
 const dashboardData = {
-    "last_updated": "2026-11-20 12:30:07",
+    "last_updated": "2026-11-20 15:39:44",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
@@ -8,9 +8,9 @@ const dashboardData = {
             "image": "https://www.srf.ch/static/cms/images/320ws/04c13b.webp"
         },
         {
-            "title": "Spitzenkampf gegen Yverdon - Zuffi vor 200. FCW-Spiel: «Das ist nicht selbstverständlich»",
+            "title": "News aus der Super League - Servette mehrere Monate ohne Torhüter Gertmonas",
             "date": "20.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/94fdd0.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/89c4c3.webp"
         }
     ],
     "schedule": {
