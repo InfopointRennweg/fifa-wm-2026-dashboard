@@ -1,11 +1,11 @@
 const dashboardData = {
-    "last_updated": "2026-11-20 15:39:44",
+    "last_updated": "2026-11-20 20:39:13",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Viertelfinals Nations League - Es kommt zur WM-Halbfinal-Reprise zwischen Spanien und Frankreich",
+            "title": "Women's Super League: Runde 13 - GC schockt Basel dreimal eiskalt und gewinnt hochverdient",
             "date": "20.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/04c13b.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/0e1ac7.webp"
         },
         {
             "title": "News aus der Super League - Servette mehrere Monate ohne Torhüter Gertmonas",
