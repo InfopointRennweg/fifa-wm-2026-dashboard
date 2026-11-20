@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-20 20:39:13",
+    "last_updated": "2026-11-20 22:45:53",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Women's Super League: Runde 13 - GC schockt Basel dreimal eiskalt und gewinnt hochverdient",
+            "title": "Monatelanges Out befürchtet - Kompany und Eberl bestätigen: Kane erleidet Syndesmosebandriss",
             "date": "20.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0e1ac7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e3f679.webp"
         },
         {
-            "title": "News aus der Super League - Servette mehrere Monate ohne Torhüter Gertmonas",
+            "title": "Bundesliga: 10. Spieltag - Bayern-Schock: Kane und Olise verletzt – nur 1:1 gegen Köln",
             "date": "20.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/89c4c3.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/dea897.webp"
         }
     ],
     "schedule": {
