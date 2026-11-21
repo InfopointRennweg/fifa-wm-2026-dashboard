@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-21 14:50:17",
+    "last_updated": "2026-11-21 19:40:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Premier League am Samstag - 1:1 gegen Fulham: ManCity gibt erneut Punkte ab",
+            "title": "14. Runde in der Super League - Reaktion auf 0:5-Klatsche: Lugano schlägt GC knapp dank Jokern",
             "date": "21.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b8f2b8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/173114.webp"
         },
         {
-            "title": "Internationale Fussball-News - Tennisikone Nadal in Real-Vorstand gewählt",
+            "title": "14. Runde in der Super League - Ohne Zittern geht nicht: YB feiert Derbysieg gegen Thun",
             "date": "21.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/67d9a9.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b551e8.webp"
         }
     ],
     "schedule": {
