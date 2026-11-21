@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-21 12:07:17",
+    "last_updated": "2026-11-21 14:50:17",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Berner Derby am Samstag - Schwächste Defensive vs. stärkste Offensive: Thun zittert vor YB",
+            "title": "Premier League am Samstag - 1:1 gegen Fulham: ManCity gibt erneut Punkte ab",
             "date": "21.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/5347ae7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/b8f2b8.webp"
         },
         {
-            "title": "Kein Sieg seit über 5 Jahren - Sion hat verlernt, gegen Servette zu gewinnen",
+            "title": "Internationale Fussball-News - Tennisikone Nadal in Real-Vorstand gewählt",
             "date": "21.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/aa5f03.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/67d9a9.webp"
         }
     ],
     "schedule": {
