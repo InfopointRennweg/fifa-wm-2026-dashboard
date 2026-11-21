@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-21 19:40:46",
+    "last_updated": "2026-11-21 21:48:40",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "14. Runde in der Super League - Reaktion auf 0:5-Klatsche: Lugano schlägt GC knapp dank Jokern",
+            "title": "Unglaubliche Serie der Berner - 17 Spiele in Folge mit mindestens 2 Toren: YB stellt Rekord auf",
             "date": "21.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/173114.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/e8eb5a.webp"
         },
         {
-            "title": "14. Runde in der Super League - Ohne Zittern geht nicht: YB feiert Derbysieg gegen Thun",
+            "title": "Fussball aus den Topligen - Zuerst Lachen, dann Weinen: PSG-Doué muss nach Tor verletzt raus",
             "date": "21.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b551e8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/66ed32.webp"
         }
     ],
     "schedule": {
