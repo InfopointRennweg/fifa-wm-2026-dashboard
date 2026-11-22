@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-22 14:46:12",
+    "last_updated": "2026-11-22 19:55:14",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "«Keine angenehme Situation» - Basel-Coach Jokanovic braucht endlich einen Sieg",
+            "title": "Premier League: 11. Runde - 0:4 in Liverpool: Pochettinos ManUnited-Debüt misslingt gründlich",
             "date": "22.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/43ca39.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/db3482.webp"
         },
         {
-            "title": "Internationale Fussball-News - Boca Juniors holen Copa Sudamericana – Messis Miami in Rücklage",
+            "title": "2:2 bei Letzter vs. Vorletzter - 4 Tore ab der 68. Minute: Kellerduell nimmt spät Fahrt auf",
             "date": "22.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/8c852e7.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/9b9eed.webp"
         }
     ],
     "schedule": {
