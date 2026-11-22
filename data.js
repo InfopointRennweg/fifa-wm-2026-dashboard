@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-21 21:48:40",
+    "last_updated": "2026-11-22 12:17:12",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Unglaubliche Serie der Berner - 17 Spiele in Folge mit mindestens 2 Toren: YB stellt Rekord auf",
-            "date": "21.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e8eb5a.webp"
+            "title": "«Keine angenehme Situation» - Basel-Coach Jokanovic braucht endlich einen Sieg",
+            "date": "22.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/43ca39.webp"
         },
         {
-            "title": "Fussball aus den Topligen - Zuerst Lachen, dann Weinen: PSG-Doué muss nach Tor verletzt raus",
-            "date": "21.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/66ed32.webp"
+            "title": "Internationale Fussball-News - Boca Juniors holen Copa Sudamericana – Messis Miami in Rücklage",
+            "date": "22.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/8c852e7.webp"
         }
     ],
     "schedule": {
