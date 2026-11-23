@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-23 14:01:30",
+    "last_updated": "2026-11-23 18:34:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "2031 und 2035 mit 48 Teams - Frauen-WM: Erst in USA und Mittelamerika, dann in Grossbritannien",
+            "date": "23.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/56e044.webp"
+        },
         {
             "title": "News aus der Super League - Ajetis Sperre auf zwei Spiele reduziert",
             "date": "23.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/b7f3cc.webp"
-        },
-        {
-            "title": "Heule und Vogt in Heidenheim - Zwei Schweizer, ein überzeugender Trainer und ein klarer Plan",
-            "date": "23.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/bf0ddc.webp"
         }
     ],
     "schedule": {
