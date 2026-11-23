@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-22 21:56:45",
+    "last_updated": "2026-11-23 14:01:30",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Basler Talfahrt geht weiter - Ratloser Omlin schlägt Alarm: «So kannst du nicht spielen!»",
-            "date": "22.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e21db3.webp"
+            "title": "News aus der Super League - Ajetis Sperre auf zwei Spiele reduziert",
+            "date": "23.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b7f3cc.webp"
         },
         {
-            "title": "Premier League: 11. Runde - 0:4 in Liverpool: Pochettinos ManUnited-Debüt misslingt gründlich",
-            "date": "22.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/db3482.webp"
+            "title": "Heule und Vogt in Heidenheim - Zwei Schweizer, ein überzeugender Trainer und ein klarer Plan",
+            "date": "23.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/bf0ddc.webp"
         }
     ],
     "schedule": {
