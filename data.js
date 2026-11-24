@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-24 14:33:33",
+    "last_updated": "2026-11-24 18:02:41",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Lacher bei der Medienkonferenz - «Hi Mate!»: Arteta nimmt Telefon von Journalisten ab",
+            "title": "Qualifikation Frauen-WM 2027 - Vor Rekordkulisse Österreich schlagen – und dann?",
             "date": "24.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/ac6035.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/96f25d.webp"
         },
         {
-            "title": "Champions League - De Bruyne: Zurück an den Ort besserer Zeiten",
-            "date": "23.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/c89c5d.webp"
+            "title": "Nati-Assistentin im Gespräch - Simic: «Hatte die Haare kurz, um wie ein Junge zu wirken»",
+            "date": "24.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/78bb1f.webp"
         }
     ],
     "schedule": {
