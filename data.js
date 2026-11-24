@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-24 02:59:28",
+    "last_updated": "2026-11-24 14:33:33",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Lacher bei der Medienkonferenz - «Hi Mate!»: Arteta nimmt Telefon von Journalisten ab",
+            "date": "24.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/ac6035.webp"
+        },
         {
             "title": "Champions League - De Bruyne: Zurück an den Ort besserer Zeiten",
             "date": "23.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/c89c5d.webp"
-        },
-        {
-            "title": "Champions League - Bei Arsenal fehlt der «Unersetzliche», BVB hofft auf Guirassy",
-            "date": "23.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/e1edf5.webp"
         }
     ],
     "schedule": {
