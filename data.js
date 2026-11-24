@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-24 18:02:41",
+    "last_updated": "2026-11-24 22:41:07",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Qualifikation Frauen-WM 2027 - Vor Rekordkulisse Österreich schlagen – und dann?",
+            "title": "5. Runde der Champions League - BVB bietet Arsenal die Stirn und nimmt einen Punkt mit",
             "date": "24.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/96f25d.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/1e6797.webp"
         },
         {
-            "title": "Nati-Assistentin im Gespräch - Simic: «Hatte die Haare kurz, um wie ein Junge zu wirken»",
+            "title": "Champions League: Round-up - Real mit Wende gegen PSV – Citys Befreiungsschlag bleibt aus",
             "date": "24.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/78bb1f.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/6e49b7.webp"
         }
     ],
     "schedule": {
