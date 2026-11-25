@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-25 13:53:46",
+    "last_updated": "2026-11-25 17:29:19",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "WM-Kampf im Berner Wankdorf - Mit dem Publikum im Rücken zum Erfolg",
+            "date": "25.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/2f068a.webp"
+        },
         {
             "title": "Zeitpunkt der Erkrankung - Bayern weisen «Gerüchte» um Musiala zurück",
             "date": "25.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/0d4ff9.webp"
-        },
-        {
-            "title": "Champions League, 5. Spieltag - Kommt das San Siro für Stuttgart gerade recht?",
-            "date": "25.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/659e8f.webp"
         }
     ],
     "schedule": {
