@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-25 00:58:57",
+    "last_updated": "2026-11-25 13:53:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "5. Runde der Champions League - BVB bietet Arsenal die Stirn und nimmt einen Punkt mit",
-            "date": "24.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/1e6797.webp"
+            "title": "Zeitpunkt der Erkrankung - Bayern weisen «Gerüchte» um Musiala zurück",
+            "date": "25.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0d4ff9.webp"
         },
         {
-            "title": "Champions League: Round-up - Real mit Wende gegen PSV – Citys Befreiungsschlag bleibt aus",
-            "date": "24.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/6e49b7.webp"
+            "title": "Champions League, 5. Spieltag - Kommt das San Siro für Stuttgart gerade recht?",
+            "date": "25.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/659e8f.webp"
         }
     ],
     "schedule": {
