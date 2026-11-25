@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-25 17:29:19",
+    "last_updated": "2026-11-25 21:55:53",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Champions-League: Round-up - Keine Überraschung zwischen Sabah und Barcelona",
+            "date": "25.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/b9eda8.webp"
+        },
         {
             "title": "WM-Kampf im Berner Wankdorf - Mit dem Publikum im Rücken zum Erfolg",
             "date": "25.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/2f068a.webp"
-        },
-        {
-            "title": "Zeitpunkt der Erkrankung - Bayern weisen «Gerüchte» um Musiala zurück",
-            "date": "25.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/0d4ff9.webp"
         }
     ],
     "schedule": {
