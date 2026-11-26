@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-26 00:35:46",
+    "last_updated": "2026-11-26 13:32:56",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "5. Runde der Champions League - Horror-Eigentor von Pavlovic: Bayern verliert in Lille",
-            "date": "25.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/dfd6a2.webp"
+            "title": "News aus dem Frauenfussball - 16 Monate gesperrt: WM-Aus für Torjägerin Laura Freigang",
+            "date": "26.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/285929.webp"
         },
         {
-            "title": "Champions League: Round-up - Sommer-Fehler leitet Brügge-Niederlage ein, PSG gibt Punkte ab",
-            "date": "25.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/74e3aa.webp"
+            "title": "Nach 1:2 in CL in Lille - «Absolutes No-Go»: Kimmichs Musiala-Ärger nach 1. Saisonpleite",
+            "date": "26.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/4eb257.webp"
         }
     ],
     "schedule": {
