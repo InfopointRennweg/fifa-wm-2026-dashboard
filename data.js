@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-25 21:55:53",
+    "last_updated": "2026-11-26 00:35:46",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "Champions-League: Round-up - Keine Überraschung zwischen Sabah und Barcelona",
+            "title": "5. Runde der Champions League - Horror-Eigentor von Pavlovic: Bayern verliert in Lille",
             "date": "25.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/b9eda8.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/dfd6a2.webp"
         },
         {
-            "title": "WM-Kampf im Berner Wankdorf - Mit dem Publikum im Rücken zum Erfolg",
+            "title": "Champions League: Round-up - Sommer-Fehler leitet Brügge-Niederlage ein, PSG gibt Punkte ab",
             "date": "25.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/2f068a.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/74e3aa.webp"
         }
     ],
     "schedule": {
