@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-26 13:32:56",
+    "last_updated": "2026-11-26 17:10:49",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
         {
-            "title": "News aus dem Frauenfussball - 16 Monate gesperrt: WM-Aus für Torjägerin Laura Freigang",
+            "title": "News aus der Super League - Lausanne lange ohne Butler-Oyedeji, Thun ohne Dähler",
             "date": "26.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/285929.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/2babbc.webp"
         },
         {
-            "title": "Nach 1:2 in CL in Lille - «Absolutes No-Go»: Kimmichs Musiala-Ärger nach 1. Saisonpleite",
+            "title": "Pechvogel mit Kreuzbandrissen - «Für den Lebenslauf»: Gereifte Fölmli will endlich WM spielen",
             "date": "26.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/4eb257.webp"
+            "image": "https://www.srf.ch/static/cms/images/320ws/f324e3d.webp"
         }
     ],
     "schedule": {
