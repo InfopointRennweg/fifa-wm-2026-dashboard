@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-27 16:53:13",
+    "last_updated": "2026-11-27 21:33:28",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Leistungsträgerin in der Nati - Reuteler über Arsenal-Rolle: «Nicht, wie ich es mir vorstellte»",
+            "date": "27.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/0e8618.webp"
+        },
         {
             "title": "Internationale Fussball-News - Musiala erneut verletzt – Ex-GC-Spieler jung verstorben",
             "date": "27.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/cfa283.webp"
-        },
-        {
-            "title": "Dank Inter d'Escaldes - Andorras Fussball-Historie ist um ein Kapitel reicher",
-            "date": "27.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/03ddf5.webp"
         }
     ],
     "schedule": {
