@@ -1,16 +1,16 @@
 const dashboardData = {
-    "last_updated": "2026-11-27 21:33:28",
+    "last_updated": "2026-11-28 00:10:23",
     "countdown_target": "2026-06-11T19:00:00",
     "news": [
+        {
+            "title": "Bundesliga: 11. Runde - Wieder Füllkrug: Bremen kommt nach 1:3-Rückstand zurück",
+            "date": "27.11.2026",
+            "image": "https://www.srf.ch/static/cms/images/320ws/de2113.webp"
+        },
         {
             "title": "Leistungsträgerin in der Nati - Reuteler über Arsenal-Rolle: «Nicht, wie ich es mir vorstellte»",
             "date": "27.11.2026",
             "image": "https://www.srf.ch/static/cms/images/320ws/0e8618.webp"
-        },
-        {
-            "title": "Internationale Fussball-News - Musiala erneut verletzt – Ex-GC-Spieler jung verstorben",
-            "date": "27.11.2026",
-            "image": "https://www.srf.ch/static/cms/images/320ws/cfa283.webp"
         }
     ],
     "schedule": {
